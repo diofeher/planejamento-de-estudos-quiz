@@ -1,0 +1,98 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-md);
+  text-align: center;
+}
+
+.emoji {
+  font-size: 3rem;
+}
+
+.heading {
+  font-family: var(--sans);
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--screen-text);
+}
+
+.subtitle {
+  color: var(--screen-text-secondary);
+  font-size: 0.85rem;
+  margin-bottom: var(--space-sm);
+}
+
+.grid {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+  width: 100%;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  padding: var(--space-md);
+  background: var(--screen-bg-raised);
+  border: 1px solid var(--screen-border);
+  border-radius: var(--radius-md);
+  color: var(--screen-text);
+  text-align: left;
+  transition: border-color 0.15s, box-shadow 0.15s, transform 0.1s;
+}
+
+.card:hover {
+  border-color: var(--light-blue);
+  box-shadow: 0 0 10px var(--screen-glow);
+  transform: translateX(4px);
+}
+
+.cardEmoji {
+  font-size: 2rem;
+}
+
+.cardTitle {
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.cardDesc {
+  font-size: 0.8rem;
+  color: var(--screen-text-secondary);
+}
+
+.cardChapters {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  color: var(--light-blue);
+  margin-top: 4px;
+}
+
+.cardStats {
+  display: flex;
+  gap: var(--space-sm);
+  flex-wrap: wrap;
+  font-family: var(--mono);
+  font-size: 0.65rem;
+  color: var(--light-blue);
+  margin-top: 4px;
+}
+
+.dashboardLink {
+  background: rgba(0, 0, 0, 0.15);
+  border: 1px solid var(--screen-border);
+  border-radius: var(--radius-sm);
+  color: var(--screen-text-secondary);
+  font-size: 0.8rem;
+  padding: var(--space-xs) var(--space-md);
+  transition: border-color 0.15s, color 0.15s;
+  margin-top: var(--space-sm);
+}
+
+.dashboardLink:hover {
+  border-color: var(--light-blue);
+  color: var(--screen-text);
+}

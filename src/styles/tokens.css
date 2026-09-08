@@ -1,0 +1,94 @@
+:root {
+  /* Page background */
+  --bg: #f0f4f8;
+  --surface: #ffffff;
+  --border: #d8dadc;
+  --hover: #f1f1f1;
+  --shadow: rgba(0, 0, 0, 0.12);
+
+  --text: #1c1c1e;
+  --text-secondary: #5f6368;
+
+  /* Device shell — indigo/purple study theme */
+  --shell-primary: #4f46e5;
+  --shell-light: #6366f1;
+  --shell-dark: #3730a3;
+  --shell-darker: #272066;
+  --shell-chrome: #f4f4f4;
+  --shell-chrome-shadow: #c7c7c7;
+
+  /* Screen (LCD panel) */
+  --screen-bg: #0d0f1e;
+  --screen-bg-raised: #151830;
+  --screen-bezel: #101014;
+  --screen-border: #2c2c44;
+  --screen-glow: rgba(99, 102, 241, 0.25);
+  --screen-text: #eae8ff;
+  --screen-text-secondary: #8b88b0;
+
+  /* Indicator lights */
+  --light-blue: #818cf8;
+  --light-blue-dark: #3730a3;
+  --light-yellow: #ffe066;
+  --light-green: #66ff66;
+  --light-red: #ff5252;
+
+  /* Feedback */
+  --correct: #22c55e;
+  --correct-bg: rgba(34, 197, 94, 0.15);
+  --wrong: #ef4444;
+  --wrong-bg: rgba(239, 68, 68, 0.15);
+
+  --accent: var(--shell-primary);
+  --accent-bg: rgba(79, 70, 229, 0.1);
+
+  /* Typography */
+  --sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    sans-serif;
+  --mono: "JetBrains Mono", "Fira Code", monospace;
+
+  /* Spacing */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+
+  /* Radius */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 28px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0b0c0f;
+    --surface: #16181c;
+    --border: #2a2d33;
+    --hover: #1e2126;
+    --shadow: rgba(0, 0, 0, 0.5);
+
+    --text: #f1f1f1;
+    --text-secondary: #9a9da3;
+
+    --shell-primary: #4338ca;
+    --shell-light: #5551e0;
+    --shell-dark: #312e81;
+    --shell-darker: #1e1b5e;
+    --shell-chrome: #3a3a3c;
+    --shell-chrome-shadow: #222224;
+
+    --screen-glow: rgba(99, 102, 241, 0.4);
+    --accent-bg: rgba(67, 56, 202, 0.18);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

@@ -1,0 +1,37 @@
+.shell {
+  max-width: 600px;
+  min-height: 100vh;
+  margin: var(--space-md) auto;
+  background: linear-gradient(
+    155deg,
+    var(--shell-light) 0%,
+    var(--shell-primary) 40%,
+    var(--shell-dark) 100%
+  );
+  border-radius: var(--radius-xl) var(--radius-md) var(--radius-md)
+    var(--radius-md);
+  border: 3px solid var(--shell-darker);
+  box-shadow: 0 12px 24px var(--shadow),
+    inset 0 2px 0 rgba(255, 255, 255, 0.25),
+    inset 0 -4px 8px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+.bottomEdge {
+  height: var(--space-sm);
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    rgba(0, 0, 0, 0.1)
+  );
+}
+
+@media (max-width: 520px) {
+  .shell {
+    margin: 0;
+    border-radius: 0;
+    border-left: none;
+    border-right: none;
+    min-height: 100vh;
+  }
+}

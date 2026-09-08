@@ -1,0 +1,51 @@
+.container {
+  margin-bottom: var(--space-xs);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-xs);
+  font-family: var(--mono);
+  font-size: 0.7rem;
+}
+
+.progress {
+  color: var(--screen-text);
+}
+
+.score {
+  color: var(--light-blue);
+}
+
+.quit {
+  margin-left: auto;
+  background: none;
+  border: 1px solid var(--screen-border);
+  border-radius: var(--radius-sm);
+  color: var(--screen-text-secondary);
+  font-size: 0.65rem;
+  padding: 2px 8px;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.quit:hover {
+  border-color: var(--wrong);
+  color: var(--wrong);
+}
+
+.track {
+  height: 4px;
+  background: var(--screen-border);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.fill {
+  height: 100%;
+  background: var(--light-blue);
+  border-radius: 2px;
+  transition: width 0.3s ease;
+  box-shadow: 0 0 6px var(--screen-glow);
+}

@@ -1,0 +1,132 @@
+.header {
+  padding: var(--space-sm) var(--space-md);
+}
+
+.topBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--space-sm);
+}
+
+.lights {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.lens {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 30% 30%,
+    #fff,
+    var(--light-blue) 55%,
+    var(--light-blue-dark) 100%
+  );
+  box-shadow: 0 0 8px var(--light-blue),
+    inset 0 0 4px rgba(255, 255, 255, 0.6);
+  border: 2px solid rgba(0, 0, 0, 0.3);
+}
+
+.led {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.4);
+}
+
+.red {
+  background: var(--light-red);
+  box-shadow: 0 0 4px var(--light-red);
+}
+
+.yellow {
+  background: var(--light-yellow);
+  box-shadow: 0 0 4px var(--light-yellow);
+}
+
+.green {
+  background: var(--light-green);
+  box-shadow: 0 0 4px var(--light-green);
+  animation: pulseGlow 2s ease-in-out infinite;
+}
+
+@keyframes pulseGlow {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.stats {
+  display: flex;
+  gap: var(--space-sm);
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.streak,
+.games {
+  background: rgba(0, 0, 0, 0.2);
+  padding: 2px 8px;
+  border-radius: var(--radius-sm);
+}
+
+.brand {
+  text-align: center;
+  margin-bottom: var(--space-xs);
+}
+
+.title {
+  font-family: var(--sans);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #fff;
+  text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.3);
+  letter-spacing: 0.05em;
+}
+
+.nav {
+  display: flex;
+  gap: var(--space-xs);
+  justify-content: center;
+}
+
+.navButton {
+  background: rgba(0, 0, 0, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: var(--radius-sm);
+  color: rgba(255, 255, 255, 0.8);
+  padding: var(--space-xs) var(--space-md);
+  font-size: 0.8rem;
+  font-weight: 600;
+  transition: background 0.15s, color 0.15s;
+}
+
+.navButton:hover {
+  background: rgba(0, 0, 0, 0.25);
+  color: #fff;
+}
+
+.navButton.active {
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+@media (max-width: 480px) {
+  .title {
+    font-size: 0.9rem;
+  }
+
+  .lens {
+    width: 22px;
+    height: 22px;
+  }
+}

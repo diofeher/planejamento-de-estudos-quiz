@@ -1,0 +1,151 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+}
+
+.topic {
+  font-family: var(--mono);
+  font-size: 0.65rem;
+  color: var(--light-blue);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.prompt {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--screen-text);
+  line-height: 1.5;
+  white-space: pre-line;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+}
+
+.option {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-sm);
+  padding: 0.4rem 0.6rem;
+  background: var(--screen-bg-raised);
+  border: 1px solid var(--screen-border);
+  border-radius: var(--radius-sm);
+  color: var(--screen-text);
+  font-size: 0.8rem;
+}
+
+.optionLetter {
+  font-family: var(--mono);
+  font-weight: 700;
+  font-size: 0.7rem;
+  color: var(--light-blue);
+  background: rgba(129, 140, 248, 0.1);
+  border-radius: 4px;
+  padding: 2px 5px;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+
+.optionLabel {
+  flex: 1;
+  line-height: 1.4;
+}
+
+.revealButton {
+  background: linear-gradient(
+    155deg,
+    var(--shell-light),
+    var(--shell-primary)
+  );
+  border: 2px solid var(--shell-dark);
+  border-radius: 999px;
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.9rem;
+  padding: 0.6rem 2rem;
+  margin-top: var(--space-sm);
+  align-self: center;
+  box-shadow: 0 4px 0 var(--shell-dark),
+    0 6px 12px rgba(0, 0, 0, 0.3),
+    inset 0 2px 2px rgba(255, 255, 255, 0.3);
+  transition: transform 0.08s ease, box-shadow 0.08s ease;
+}
+
+.revealButton:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 5px 0 var(--shell-dark),
+    0 8px 16px rgba(0, 0, 0, 0.35),
+    inset 0 2px 2px rgba(255, 255, 255, 0.3);
+}
+
+.revealButton:active {
+  transform: translateY(3px);
+  box-shadow: 0 1px 0 var(--shell-dark),
+    inset 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.rateContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-sm);
+  margin-top: var(--space-sm);
+  animation: fadeIn 0.3s ease;
+}
+
+.ratePrompt {
+  font-size: 0.8rem;
+  color: var(--screen-text-secondary);
+}
+
+.rateButtons {
+  display: flex;
+  gap: var(--space-md);
+}
+
+.rateButton {
+  border: 2px solid var(--screen-border);
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 0.85rem;
+  padding: 0.5rem 1.5rem;
+  transition: transform 0.08s ease, box-shadow 0.08s ease, border-color 0.15s;
+}
+
+.rateNo {
+  background: var(--wrong-bg);
+  border-color: var(--wrong);
+  color: var(--wrong);
+}
+
+.rateNo:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(239, 68, 68, 0.3);
+}
+
+.rateYes {
+  background: var(--correct-bg);
+  border-color: var(--correct);
+  color: var(--correct);
+}
+
+.rateYes:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(34, 197, 94, 0.3);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
