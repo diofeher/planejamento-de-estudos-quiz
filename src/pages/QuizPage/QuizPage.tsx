@@ -15,6 +15,14 @@ const allQuestions = SUBJECTS.flatMap((s) =>
   s.chapters.flatMap((ch) => ch.questions),
 );
 
+/** Map subjectId → set of question ids */
+const SUBJECT_QUESTION_IDS: Record<string, Set<string>> = {};
+for (const s of SUBJECTS) {
+  SUBJECT_QUESTION_IDS[s.id] = new Set(
+    s.chapters.flatMap((ch) => ch.questions.map((q) => q.id)),
+  );
+}
+
 export function QuizPage() {
   const review = useReview();
   const { recordResult } = useStatsContext();
@@ -32,14 +40,25 @@ export function QuizPage() {
     }
   }, [review.status, review.score, review.total, recordResult]);
 
-  const handleStartReview = useCallback(() => {
-    const dueCards = sr.getDueCards();
-    if (dueCards.length === 0) return;
-    const dueQuestionIds = new Set(dueCards.map((c) => c.questionId));
-    const dueQuestions = allQuestions.filter((q) => dueQuestionIds.has(q.id));
-    const shuffled = shuffle(dueQuestions);
-    review.startReview(shuffled);
-  }, [sr, review]);
+  const handleStartReview = useCallback(
+    (subjectId?: string) => {
+      const dueCards = sr.getDueCards(subjectId);
+      if (dueCards.length === 0) return;
+      const dueQuestionIds = new Set(dueCards.map((c) => c.questionId));
+
+      const pool = subjectId
+        ? allQuestions.filter(
+            (q) =>
+              dueQuestionIds.has(q.id) &&
+              SUBJECT_QUESTION_IDS[subjectId]?.has(q.id),
+          )
+        : allQuestions.filter((q) => dueQuestionIds.has(q.id));
+
+      const shuffled = shuffle(pool);
+      review.startReview(shuffled);
+    },
+    [sr, review],
+  );
 
   const handleRate = useCallback(
     (knew: boolean) => {
@@ -57,7 +76,7 @@ export function QuizPage() {
     <ScreenBezel>
       {review.status === "idle" && (
         <ReviewLanding
-          srStats={sr.stats}
+          getStats={sr.getStats}
           onStart={handleStartReview}
         />
       )}
@@ -84,7 +103,7 @@ export function QuizPage() {
           score={review.score}
           total={review.total}
           srStats={sr.stats}
-          onReviewAgain={handleStartReview}
+          onReviewAgain={() => handleStartReview()}
           onStop={review.stop}
         />
       )}

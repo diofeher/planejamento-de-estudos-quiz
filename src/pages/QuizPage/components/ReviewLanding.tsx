@@ -1,4 +1,6 @@
+import { useState } from "react";
 import { playSelect } from "../../../lib/sounds";
+import { AVAILABLE_SUBJECTS } from "../../../hooks/useSpacedRepetition";
 import styles from "./ReviewLanding.module.css";
 
 interface SRStats {
@@ -9,14 +11,20 @@ interface SRStats {
 }
 
 interface ReviewLandingProps {
-  srStats: SRStats;
-  onStart: () => void;
+  getStats: (subjectId?: string) => SRStats;
+  onStart: (subjectId?: string) => void;
 }
 
-export function ReviewLanding({ srStats, onStart }: ReviewLandingProps) {
+export function ReviewLanding({ getStats, onStart }: ReviewLandingProps) {
+  const [selectedSubject, setSelectedSubject] = useState<string | undefined>(
+    undefined,
+  );
+
+  const srStats = getStats(selectedSubject);
+
   const handleStart = () => {
     playSelect();
-    onStart();
+    onStart(selectedSubject);
   };
 
   const noDue = srStats.due === 0;
@@ -28,6 +36,27 @@ export function ReviewLanding({ srStats, onStart }: ReviewLandingProps) {
       <p className={styles.subtitle}>
         Estude com repetição espaçada (SM-2) para memorizar a longo prazo
       </p>
+
+      {/* Subject picker */}
+      <div className={styles.subjectPicker}>
+        <button
+          className={`${styles.subjectTab} ${selectedSubject === undefined ? styles.subjectTabActive : ""}`}
+          onClick={() => setSelectedSubject(undefined)}
+          type="button"
+        >
+          📚 Todas
+        </button>
+        {AVAILABLE_SUBJECTS.map((s) => (
+          <button
+            key={s.id}
+            className={`${styles.subjectTab} ${selectedSubject === s.id ? styles.subjectTabActive : ""}`}
+            onClick={() => setSelectedSubject(s.id)}
+            type="button"
+          >
+            {s.emoji} {s.title}
+          </button>
+        ))}
+      </div>
 
       <div className={styles.statsGrid}>
         <div className={`${styles.stat} ${styles.dueStat}`}>

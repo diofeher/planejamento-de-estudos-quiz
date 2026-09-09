@@ -23,6 +23,37 @@
   max-width: 300px;
 }
 
+.subjectPicker {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+  width: 100%;
+  justify-content: center;
+}
+
+.subjectTab {
+  padding: 0.35rem 0.8rem;
+  border: 1px solid var(--screen-border);
+  border-radius: 999px;
+  background: var(--screen-bg-raised);
+  color: var(--screen-text-secondary);
+  font-size: 0.7rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s, color 0.15s;
+}
+
+.subjectTab:hover {
+  border-color: var(--light-blue);
+  color: var(--screen-text);
+}
+
+.subjectTabActive {
+  border-color: var(--light-blue);
+  background: rgba(129, 140, 248, 0.15);
+  color: var(--screen-text);
+}
+
 .statsGrid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);

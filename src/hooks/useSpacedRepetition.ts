@@ -25,6 +25,26 @@ const ALL_QUESTION_IDS = SUBJECTS.flatMap((s) =>
   s.chapters.flatMap((ch) => ch.questions.map((q) => q.id)),
 );
 
+/** Map of subjectId → question ids */
+const SUBJECT_QUESTION_IDS: Record<string, string[]> = {};
+for (const s of SUBJECTS) {
+  SUBJECT_QUESTION_IDS[s.id] = s.chapters.flatMap((ch) =>
+    ch.questions.map((q) => q.id),
+  );
+}
+
+/** Available subjects for filtering */
+export const AVAILABLE_SUBJECTS = SUBJECTS.map((s) => ({
+  id: s.id,
+  title: s.title,
+  emoji: s.emoji,
+}));
+
+function getQuestionIds(subjectId?: string): string[] {
+  if (!subjectId) return ALL_QUESTION_IDS;
+  return SUBJECT_QUESTION_IDS[subjectId] ?? [];
+}
+
 export function useSpacedRepetition() {
   const [cards, setCards] = useState<CardMap>(loadCards);
 
@@ -41,52 +61,67 @@ export function useSpacedRepetition() {
     [],
   );
 
-  const getDueCards = useCallback((): CardState[] => {
-    // Cards that exist and are due
-    const dueExisting = Object.values(cards).filter((c) => isDue(c));
-
-    // Questions never reviewed are also "due" (new cards)
-    const newCardIds = ALL_QUESTION_IDS.filter((id) => !cards[id]);
-    const newCards = newCardIds.map(getNewCardState);
-
-    return [...dueExisting, ...newCards];
-  }, [cards]);
+  const getDueCards = useCallback(
+    (subjectId?: string): CardState[] => {
+      const ids = getQuestionIds(subjectId);
+      const dueExisting = ids
+        .map((id) => cards[id])
+        .filter((c): c is CardState => c != null && isDue(c));
+      const newCards = ids.filter((id) => !cards[id]).map(getNewCardState);
+      return [...dueExisting, ...newCards];
+    },
+    [cards],
+  );
 
   const getCardState = useCallback(
     (questionId: string): CardState | undefined => cards[questionId],
     [cards],
   );
 
-  const stats = useMemo(() => {
-    const total = ALL_QUESTION_IDS.length;
-    let mastered = 0;
-    let learning = 0;
-    let due = 0;
+  const getStats = useCallback(
+    (subjectId?: string) => {
+      const ids = getQuestionIds(subjectId);
+      const total = ids.length;
+      let mastered = 0;
+      let learning = 0;
+      let due = 0;
 
-    for (const id of ALL_QUESTION_IDS) {
-      const card = cards[id];
-      if (!card) {
-        // Never seen = due
-        due += 1;
-        continue;
+      for (const id of ids) {
+        const card = cards[id];
+        if (!card) {
+          due += 1;
+          continue;
+        }
+        if (card.interval > 21) {
+          mastered += 1;
+        } else {
+          learning += 1;
+        }
+        if (isDue(card)) {
+          due += 1;
+        }
       }
-      if (card.interval > 21) {
-        mastered += 1;
-      } else {
-        learning += 1;
-      }
-      if (isDue(card)) {
-        due += 1;
-      }
-    }
 
-    return { total, due, mastered, learning };
-  }, [cards]);
+      return { total, due, mastered, learning };
+    },
+    [cards],
+  );
+
+  // Global stats (for dashboard backward compat)
+  const stats = useMemo(() => getStats(), [getStats]);
 
   const resetCards = useCallback(() => {
     persistCards({});
     setCards({});
   }, []);
 
-  return { cards, recordReview, getDueCards, getCardState, stats, resetCards };
+  return {
+    cards,
+    recordReview,
+    getDueCards,
+    getCardState,
+    stats,
+    getStats,
+    resetCards,
+  };
 }
