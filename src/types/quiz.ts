@@ -4,6 +4,8 @@ export interface QuizQuestion {
   topic: string;
   question: string;
   options: string[];
+  /** Index of correct option. -1 or undefined = no known answer (flashcard mode). */
+  correctIndex?: number;
 }
 
 export interface Chapter {
