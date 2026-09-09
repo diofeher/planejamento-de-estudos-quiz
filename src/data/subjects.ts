@@ -4598,7 +4598,7 @@ export const SUBJECTS: Subject[] = [
   {
     "id": "língua-portuguesa-português",
     "title": "Língua Portuguesa (Português)",
-    "description": "1393 questões",
+    "description": "1392 questões",
     "emoji": "📝",
     "chapters": [
       {
@@ -5993,7 +5993,7 @@ export const SUBJECTS: Subject[] = [
       {
         "id": "coerencia-coesao-anafora-catafora-uso-dos-conectores--pronomes-relativos-conjuncoes-etc",
         "title": "Coerência. Coesão (Anáfora, Catáfora, Uso dos Conectores - Pronomes Relativos, Conjunções, etc)",
-        "description": "80 questões",
+        "description": "79 questões",
         "emoji": "📋",
         "questions": [
           {
@@ -6106,20 +6106,6 @@ export const SUBJECTS: Subject[] = [
               "a priorização da leitura silenciosa como única forma de aprimorar a escrita."
             ],
             "correctIndex": 1
-          },
-          {
-            "id": "4043327-1523",
-            "chapter": "coerencia-coesao-anafora-catafora-uso-dos-conectores--pronomes-relativos-conjuncoes-etc",
-            "topic": "Coerência. Coesão (Anáfora, Catáfora, Uso dos Conectores - Pronomes Relativos, Conjunções, etc)",
-            "question": "Em uma turma do Ensino Fundamental – anos finais, o professor observa que os alunos produzem textos com ideias relevantes, mas desorganizadas, apresentando repetições excessivas e dificuldades de progressão temática. Para enfrentar esse problema, o docente planeja intervenções voltadas ao ensino de estratégias de textualização. À luz da Linguística Textual, a estratégia mais adequada para promover a continuidade temática e a unidade de sentido dos textos é:",
-            "options": [
-              "o trabalho com referenciação, por meio do uso de pronomes, sinônimos e elipses que retomem informações já introduzidas.",
-              "a ampliação do repertório de regras gramaticais normativas.",
-              "o uso sistemático de exercícios de cópia e reescrita literal.",
-              "a ênfase exclusiva na correção ortográfica dos textos produzidos.",
-              "a priorização da leitura silenciosa como única forma de aprimorar a escrita."
-            ],
-            "correctIndex": 2
           },
           {
             "id": "4043470-1524",
