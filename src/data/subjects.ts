@@ -21,7 +21,7 @@ export const SUBJECTS: Subject[] = [
             "options": [
               "poderá ser utilizado pelos servidores e empregados públicos que estão autorizados a receber os recursos de adiantamento, sendo estes responsáveis pelo uso devido e pela guarda do mesmo.",
               "é emitido sempre em nome do Governo do Estado/SEFAZ, tendo a identificação do servidor ou empregado público responsável pela utilização do mesmo.",
-              "será gerenciado pela SEFAZ &#x2013; a qual, para tal, adotará medidas necessárias junto à instituição financeira &#x2013;, ficando facultado, em virtude de contrato firmado, o pagamento de taxas ou tarifas de adesão e de manutenção, anuidades ou quaisquer outras decorrentes da sua obtenção e uso.",
+              "será gerenciado pela SEFAZ – a qual, para tal, adotará medidas necessárias junto à instituição financeira –, ficando facultado, em virtude de contrato firmado, o pagamento de taxas ou tarifas de adesão e de manutenção, anuidades ou quaisquer outras decorrentes da sua obtenção e uso.",
               "poderá ser utilizado nas compras de bens e serviços, devendo ser utilizada a forma de crédito para registro da operação, sendo permitida a realização de compras com pagamento a prazo ou parcelado, considerando que a instituição financeira efetuará o débito em conta corrente de relacionamento da Unidade de Governo (Órgão ou Entidade)."
             ],
             "correctIndex": 0
@@ -38,7 +38,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3966743-34",
             "chapter": "ciclo-orcamentario",
             "topic": "Ciclo Orçamentário",
-            "question": "O ciclo orçamentário compreende etapas interdependentes que asseguram planejamento e controle das finanças públicas. &Agrave; luz do exposto, o ciclo orçamentário abrange:",
+            "question": "O ciclo orçamentário compreende etapas interdependentes que asseguram planejamento e controle das finanças públicas. À luz do exposto, o ciclo orçamentário abrange:",
             "options": [
               "Apenas a execução e o controle das despesas.",
               "Elaboração, aprovação, execução e controle do orçamento.",
@@ -74,11 +74,11 @@ export const SUBJECTS: Subject[] = [
             "topic": "Controle da Gestão Fiscal (arts. 56 a 59 da LRF)",
             "question": "A Lei 101/2000 estabelece que o prazo para a emissão de parecer prévio conclusivo pelos Tribunais de Contas, sobre as contas apresentadas pelos chefes do poder executivo, é de",
             "options": [
-              "60 dias do recebimento, se outro não estiver estabelecido nas constituições estaduais ou nas leis org&acirc;nicas municipais, ou para município com população inferior a 200 mil habitantes que não sejam capitais.",
-              "45 dias do recebimento, se outro não estiver estabelecido nas constituições estaduais ou nas leis org&acirc;nicas municipais.",
-              "90 dias do recebimento, se outro não estiver estabelecido nas constituições estaduais ou nas leis org&acirc;nicas municipais, exceto para município com população inferior a 100 mil habitantes.",
-              "30 dias do recebimento, se outro não estiver estabelecido nas constituições estaduais ou nas leis org&acirc;nicas municipais, ou para município com população inferior a 100 mil habitantes que não sejam capitais.",
-              "180 dias do recebimento, se outro não estiver estabelecido nas constituições estaduais ou nas leis org&acirc;nicas municipais."
+              "60 dias do recebimento, se outro não estiver estabelecido nas constituições estaduais ou nas leis orgânicas municipais, ou para município com população inferior a 200 mil habitantes que não sejam capitais.",
+              "45 dias do recebimento, se outro não estiver estabelecido nas constituições estaduais ou nas leis orgânicas municipais.",
+              "90 dias do recebimento, se outro não estiver estabelecido nas constituições estaduais ou nas leis orgânicas municipais, exceto para município com população inferior a 100 mil habitantes.",
+              "30 dias do recebimento, se outro não estiver estabelecido nas constituições estaduais ou nas leis orgânicas municipais, ou para município com população inferior a 100 mil habitantes que não sejam capitais.",
+              "180 dias do recebimento, se outro não estiver estabelecido nas constituições estaduais ou nas leis orgânicas municipais."
             ],
             "correctIndex": 0
           },
@@ -92,7 +92,7 @@ export const SUBJECTS: Subject[] = [
               "Compete privativamente ao Presidente do Senado prestar, anualmente, ao Congresso Nacional, dentro de noventa dias após a abertura da sessão legislativa, as contas referentes ao exercício anterior.",
               "Os tribunais de contas alertarão o Ministério público que os montantes das dívidas consolidada e mobiliária, das operações de crédito e da concessão de garantia se encontram acima de 50% dos respectivos limites.",
               "A prestação de contas evidenciará o desempenho da arrecadação em relação à previsão, verificando principalmente a existência de superávit primário para as contas apresentadas.",
-              "A prestação de contas evidenciará o desempenho da arrecadação em relação à previsão, destacando as providências adotadas no &acirc;mbito da fiscalização das receitas e combate à sonegação, as ações de recuperação de créditos nas inst&acirc;ncias administrativa e judicial, bem como as demais medidas para incremento das receitas tributárias e de contribuições."
+              "A prestação de contas evidenciará o desempenho da arrecadação em relação à previsão, destacando as providências adotadas no âmbito da fiscalização das receitas e combate à sonegação, as ações de recuperação de créditos nas instâncias administrativa e judicial, bem como as demais medidas para incremento das receitas tributárias e de contribuições."
             ],
             "correctIndex": 4
           }
@@ -162,7 +162,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3809975-40",
             "chapter": "creditos-adicionais",
             "topic": "Créditos Adicionais",
-            "question": "Durante a execução orçamentária de um município, o contador público é convocado para orientar a abertura de créditos adicionais diante da necessidade de reforçar dotações insuficientes e atender despesas não previstas originalmente na Lei Orçamentária Anual (LOA). Com base na legislação vigente, especialmente a Lei n&ordm; 4.320/64, e nos princípios da administração financeira pública, assinale a alternativa correta.",
+            "question": "Durante a execução orçamentária de um município, o contador público é convocado para orientar a abertura de créditos adicionais diante da necessidade de reforçar dotações insuficientes e atender despesas não previstas originalmente na Lei Orçamentária Anual (LOA). Com base na legislação vigente, especialmente a Lei nº 4.320/64, e nos princípios da administração financeira pública, assinale a alternativa correta.",
             "options": [
               "Os créditos suplementares são utilizados para atender despesas novas, não contempladas na LOA, e exigem autorização legislativa específica e prévia.",
               "Os créditos especiais destinam-se ao reforço de dotações orçamentárias já existentes, desde que haja justificativa técnica e disponibilidade financeira.",
@@ -175,11 +175,11 @@ export const SUBJECTS: Subject[] = [
             "id": "2827559-41",
             "chapter": "creditos-adicionais",
             "topic": "Créditos Adicionais",
-            "question": "Conforme estabelece a Lei n.&ordm; 4.320/1964, sobre créditos adicionais, &#x201c;autorizações de despesas não computadas ou insuficientemente dotadas na Lei de Orçamento&#x201d;, os quais, dependendo da sua finalidade, são classificados como suplementares, especiais ou extraordinários, assinale a alternativa correta .",
+            "question": "Conforme estabelece a Lei n.º 4.320/1964, sobre créditos adicionais, “autorizações de despesas não computadas ou insuficientemente dotadas na Lei de Orçamento”, os quais, dependendo da sua finalidade, são classificados como suplementares, especiais ou extraordinários, assinale a alternativa correta .",
             "options": [
               "Os créditos especiais permitem que o governo libere mais recursos para projetos previstos no orçamento e que precisam de reforços.",
               "Os créditos especiais, por sua vez, são para despesas imprevisíveis e urgentes, como as decorrentes de guerras e calamidades públicas.",
-              "Em maio de 2020, por exemplo, a Presidência da República publicou a Medida Provisória n.&ordm; 967/2020, que destinava crédito especial de R$ 5,566 bilhões para ações de combate à pandemia.",
+              "Em maio de 2020, por exemplo, a Presidência da República publicou a Medida Provisória n.º 967/2020, que destinava crédito especial de R$ 5,566 bilhões para ações de combate à pandemia.",
               "Os créditos suplementares são para necessidades não contempladas no orçamento. Ambos precisam ser instituídos por meio de uma lei, após aprovação do Legislativo e sanção do poder Executivo.",
               "No caso dos créditos extraordinários, o governo é dispensado de apresentar previamente quais serão as fontes dos recursos. No entanto, para créditos adicionais, suplementares ou especiais, é preciso especificar a origem do dinheiro no projeto de lei enviado ao Congresso."
             ],
@@ -203,7 +203,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3275730-43",
             "chapter": "creditos-adicionais",
             "topic": "Créditos Adicionais",
-            "question": "No &acirc;mbito da execução orçamentária dos entes federados, os créditos suplementares e os créditos especiais são exemplos de",
+            "question": "No âmbito da execução orçamentária dos entes federados, os créditos suplementares e os créditos especiais são exemplos de",
             "options": [
               "créditos extraordinários.",
               "créditos ilimitados.",
@@ -231,7 +231,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3985893-45",
             "chapter": "creditos-adicionais",
             "topic": "Créditos Adicionais",
-            "question": "Conforme a Lei n. &ordm; 4.320/1964, os créditos suplementares e especiais dependem da existência de recursos disponíveis para ocorrerem as despesas, e a anulação de dotações é uma das formas de viabilizá-los. Indique a alternativa que considera outra fonte de recursos para a abertura de créditos suplementares e especiais.",
+            "question": "Conforme a Lei n. º 4.320/1964, os créditos suplementares e especiais dependem da existência de recursos disponíveis para ocorrerem as despesas, e a anulação de dotações é uma das formas de viabilizá-los. Indique a alternativa que considera outra fonte de recursos para a abertura de créditos suplementares e especiais.",
             "options": [
               "Operações de créditos que excedam o montante das despesas de capital do exercício subsequente.",
               "Aumento de tributos e contribuições, desde que não cumulativos.",
@@ -266,7 +266,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827603-95",
             "chapter": "da-destinacao-de-recursos-para-o-setor-privado-arts-26-a-28-da-lrf",
             "topic": "Da Destinação de Recursos para o Setor Privado (arts. 26 a 28 da LRF)",
-            "question": "Quanto a destinação de recursos públicos para o setor privado à luz da Lei Complementar n.&ordm; 101/2000, identifique a alternativa correta .",
+            "question": "Quanto a destinação de recursos públicos para o setor privado à luz da Lei Complementar n.º 101/2000, identifique a alternativa correta .",
             "options": [
               "Na concessão de crédito por ente da Federação à pessoa física, ou jurídica que não esteja sob seu controle direto ou indireto, os encargos financeiros, comissões e despesas congêneres não serão inferiores aos definidos em Decreto ou ao custo de captação.",
               "Dependem de autorização em lei específica, as prorrogações e composições de dívidas decorrentes de operações de crédito, bem como a concessão de empréstimos ou financiamentos em desacordo com o caput, sendo o subsídio correspondente consignado na lei orçamentária.",
@@ -288,7 +288,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3532509-96",
             "chapter": "definicoes-limites-e-reconducao-da-divida-arts-29-a-31-da-lrf",
             "topic": "Definições, Limites e Recondução da Dívida (arts. 29 a 31 da LRF)",
-            "question": "A Lei Complementar n&ordm; 101, de 4 de maio de 2000, conhecida como Lei de Responsabilidade Fiscal (LRF), é uma legislação brasileira que estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal. Seu principal objetivo é garantir o equilíbrio das contas públicas e a transparência na administração dos recursos financeiros da União, dos estados, do Distrito Federal e dos municípios. Nesse dispositivo, acerca da recondução da dívida aos limites, marque a alternativa correta.",
+            "question": "A Lei Complementar nº 101, de 4 de maio de 2000, conhecida como Lei de Responsabilidade Fiscal (LRF), é uma legislação brasileira que estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal. Seu principal objetivo é garantir o equilíbrio das contas públicas e a transparência na administração dos recursos financeiros da União, dos estados, do Distrito Federal e dos municípios. Nesse dispositivo, acerca da recondução da dívida aos limites, marque a alternativa correta.",
             "options": [
               "Se a dívida consolidada de um ente da Federação ultrapassar o respectivo limite ao final de um trimestre, deverá ser a ele reconduzida até o término dos três subsequentes, reduzindo o excedente em pelo menos 25% (vinte e cinco por cento) no primeiro.",
               "Se a dívida consolidada de um ente da Federação ultrapassar o respectivo limite ao final de um quadrimestre, deverá ser a ele reconduzida até o término dos três subsequentes, reduzindo o excedente em pelo menos 25% (vinte e cinco por cento) no primeiro.",
@@ -302,7 +302,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4039185-97",
             "chapter": "definicoes-limites-e-reconducao-da-divida-arts-29-a-31-da-lrf",
             "topic": "Definições, Limites e Recondução da Dívida (arts. 29 a 31 da LRF)",
-            "question": "A Lei complementar n&ordm; 101/2000 &#x2013; Lei de Responsabilidade Fiscal &#x2013; estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências. Essa lei dispõe sobre dívida pública e endividamento. A esse respeito, assinale a alternativa que corresponde à definição legal de dívida pública mobiliária.",
+            "question": "A Lei complementar nº 101/2000 – Lei de Responsabilidade Fiscal – estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências. Essa lei dispõe sobre dívida pública e endividamento. A esse respeito, assinale a alternativa que corresponde à definição legal de dívida pública mobiliária.",
             "options": [
               "Dívida pública representada por títulos emitidos pela União, inclusive os do Banco Central do Brasil, Estados e Municípios.",
               "Montante total, apurado sem duplicidade, das obrigações financeiras do ente da Federação, assumidas em virtude de leis, contratos, convênios ou tratados e da realização de operações de crédito, para amortização em prazo superior a doze meses.",
@@ -316,7 +316,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827541-98",
             "chapter": "definicoes-limites-e-reconducao-da-divida-arts-29-a-31-da-lrf",
             "topic": "Definições, Limites e Recondução da Dívida (arts. 29 a 31 da LRF)",
-            "question": "Para a Lei de Responsabilidade Fiscal (LRF) (Lei Complementar n.&ordm; 101/2000), a Dívida Pública Consolidada ou Fundada corresponde ao montante total, apurado sem duplicidade, das obrigações financeiras do ente da Federação, assumidas em virtude de leis, contratos, convênios ou tratados e da realização de operações de crédito, para amortização em prazo superior a doze meses. De acordo com a LRF, o refinanciamento do principal da dívida mobiliária não excederá, ao término de cada exercício financeiro",
+            "question": "Para a Lei de Responsabilidade Fiscal (LRF) (Lei Complementar n.º 101/2000), a Dívida Pública Consolidada ou Fundada corresponde ao montante total, apurado sem duplicidade, das obrigações financeiras do ente da Federação, assumidas em virtude de leis, contratos, convênios ou tratados e da realização de operações de crédito, para amortização em prazo superior a doze meses. De acordo com a LRF, o refinanciamento do principal da dívida mobiliária não excederá, ao término de cada exercício financeiro",
             "options": [
               "o valor médio do montante final dos 3 (três) exercícios anteriores, acrescidos de atualização monetária e custos operacionais.",
               "o valor médio do montante final dos 5 (cinco) exercícios anteriores, somado ao montante das operações de crédito autorizadas no orçamento para este efeito e efetivamente realizadas, sem acréscimos ou atualizações monetárias.",
@@ -358,7 +358,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3985921-101",
             "chapter": "definicoes-limites-e-reconducao-da-divida-arts-29-a-31-da-lrf",
             "topic": "Definições, Limites e Recondução da Dívida (arts. 29 a 31 da LRF)",
-            "question": "A Lei de Responsabilidade Fiscal (LRF), Lei Complementar n&ordm; 101/2000, estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal. Uma das inovações trazida pela referida lei, foi a introdução de limites para a dívida pública. Diante do exposto, informe a medida a ser tomada se os entes da Federação excederem os limites estabelecidos para a dívida consolidada.",
+            "question": "A Lei de Responsabilidade Fiscal (LRF), Lei Complementar nº 101/2000, estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal. Uma das inovações trazida pela referida lei, foi a introdução de limites para a dívida pública. Diante do exposto, informe a medida a ser tomada se os entes da Federação excederem os limites estabelecidos para a dívida consolidada.",
             "options": [
               "Têm um prazo de dois quadrimestres para retornar ao limite, adotando medidas como limitação de empenho e movimentação financeira.",
               "São obrigados a reduzir o excedente em até um terço no primeiro quadrimestre.",
@@ -407,7 +407,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827601-89",
             "chapter": "despesas-com-pessoal-e-seguridade-social-arts-18-a-24-da-lrf",
             "topic": "Despesas com Pessoal e Seguridade Social (arts. 18 a 24 da LRF)",
-            "question": "Tendo por base as disposições contidas na Lei Complementar n.&deg; 101/2000, é possível afirmar que",
+            "question": "Tendo por base as disposições contidas na Lei Complementar n.° 101/2000, é possível afirmar que",
             "options": [
               "serão considerados atos de nomeação ou de provimento de cargo público, aqueles que, de qualquer modo, acarretem a criação ou o aumento de despesa obrigatória.",
               "é nulo de pleno direito, ato de que resulte aumento da despesa com pessoal nos 280 (duzentos e oitenta) dias anteriores ao final do mandato do titular de Poder ou órgão.",
@@ -421,7 +421,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3272938-90",
             "chapter": "despesas-com-pessoal-e-seguridade-social-arts-18-a-24-da-lrf",
             "topic": "Despesas com Pessoal e Seguridade Social (arts. 18 a 24 da LRF)",
-            "question": "A Lei complementar n&ordm; 101/00 estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, e, além de outros temas, determina o limite de gastos dos entes federados para a despesa total com pessoal. Assim, está correto o que é especificado na seguinte alternativa:",
+            "question": "A Lei complementar nº 101/00 estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, e, além de outros temas, determina o limite de gastos dos entes federados para a despesa total com pessoal. Assim, está correto o que é especificado na seguinte alternativa:",
             "options": [
               "Não poderá ultrapassar o limite de 50% para a União; 50% para os estados e 60% para os municípios da previsão de receita para o período.",
               "Deverá estar limitada a 50% para a União e 60% para os estados e municípios da receita arrecadada no exercício anterior.",
@@ -437,7 +437,7 @@ export const SUBJECTS: Subject[] = [
             "topic": "Despesas com Pessoal e Seguridade Social (arts. 18 a 24 da LRF)",
             "question": "Acerca dos limites e do controle das despesas com pessoal, previstos na Lei de Responsabilidade Fiscal, assinale a alternativa correta.",
             "options": [
-              "A despesa total com pessoal será apurada em 1&ordm; de janeiro do exercício seguinte aos 12 (doze) meses do exercício anterior, adotando-se o regime de competência, independentemente de empenho.",
+              "A despesa total com pessoal será apurada em 1º de janeiro do exercício seguinte aos 12 (doze) meses do exercício anterior, adotando-se o regime de competência, independentemente de empenho.",
               "A despesa total com pessoal será apurada somando-se a realizada, no mês em referência, com as dos 11 (onze) dias imediatamente anteriores, adotando-se o regime de caixa, condicionado ao empenho.",
               "A verificação do cumprimento dos limites da despesa total com pessoal será realizada ao final de cada quadrimestre.",
               "Para a apuração da despesa total com pessoal, será observada a remuneração líquida do servidor, excluídas todas deduções e retenções legais."
@@ -531,7 +531,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827520-76",
             "chapter": "disposicoes-preliminares-arts-1º-e-2º-da-lrf",
             "topic": "Disposições Preliminares (arts. 1º e 2º da LRF)",
-            "question": "A Lei Complementar n.&ordm; 101/2000, que estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, afirma em seu artigo 1&ordm;, parágrafo 1&ordm;, que a responsabilidade na gestão fiscal pressupõe a ação planejada e transparente, em que se previnem riscos e corrigem desvios capazes de afetar o equilíbrio das contas públicas, mediante o cumprimento de metas de resultados entre receitas e despesas e a obediência a limites e condições no que tange a",
+            "question": "A Lei Complementar n.º 101/2000, que estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, afirma em seu artigo 1º, parágrafo 1º, que a responsabilidade na gestão fiscal pressupõe a ação planejada e transparente, em que se previnem riscos e corrigem desvios capazes de afetar o equilíbrio das contas públicas, mediante o cumprimento de metas de resultados entre receitas e despesas e a obediência a limites e condições no que tange a",
             "options": [
               "incentivos fiscais, renúncias de receitas diversas, precatórios e despesas com pessoal e previdência.",
               "geração de despesas com pessoal e previdência, antecipações de crédito, dívidas ativas no Cadin, dívida pública interna e externa e direitos reais de garantia.",
@@ -553,9 +553,9 @@ export const SUBJECTS: Subject[] = [
             "id": "3985917-50",
             "chapter": "divida-ativa",
             "topic": "Dívida Ativa",
-            "question": "De acordo com a Lei n. &ordm; 4.320/1964, a dívida ativa é composta por créditos da Fazenda Pública, de natureza tributária e não tributária. Assinale a alternativa que caracteriza a natureza dos créditos que compõem a dívida ativa não tributária.",
+            "question": "De acordo com a Lei n. º 4.320/1964, a dívida ativa é composta por créditos da Fazenda Pública, de natureza tributária e não tributária. Assinale a alternativa que caracteriza a natureza dos créditos que compõem a dívida ativa não tributária.",
             "options": [
-              "Multas de infrações de tr&acirc;nsito e indenizações por danos causados ao patrimônio público.",
+              "Multas de infrações de trânsito e indenizações por danos causados ao patrimônio público.",
               "Impostos e contribuições sociais devidos pelos contribuintes.",
               "Empréstimos e financiamentos concedidos pelo poder público.",
               "Receitas provenientes de aluguéis de imóveis públicos e royalties.",
@@ -567,7 +567,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3985927-51",
             "chapter": "divida-ativa",
             "topic": "Dívida Ativa",
-            "question": "A Lei n. &ordm; 4.320/1964 prevê que os créditos da Fazenda Pública, de natureza tributária e não tributária, serão escriturados como receita do exercício em que forem arrecadados. No caso da dívida ativa, identifique o momento da escrituração do crédito como receita.",
+            "question": "A Lei n. º 4.320/1964 prevê que os créditos da Fazenda Pública, de natureza tributária e não tributária, serão escriturados como receita do exercício em que forem arrecadados. No caso da dívida ativa, identifique o momento da escrituração do crédito como receita.",
             "options": [
               "No início de cada exercício financeiro, para créditos de longo prazo.",
               "Quando do efetivo recebimento do crédito pela Fazenda Pública.",
@@ -589,7 +589,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3966717-52",
             "chapter": "estagios-da-despesa-publica",
             "topic": "Estágios da Despesa Pública",
-            "question": "Os estágios da despesa pública, conforme a Lei n&ordm; 4.320/64, seguem uma sequência lógica que assegura controle e legalidade. A ordem correta desses estágios é:",
+            "question": "Os estágios da despesa pública, conforme a Lei nº 4.320/64, seguem uma sequência lógica que assegura controle e legalidade. A ordem correta desses estágios é:",
             "options": [
               "Pagamento, liquidação e empenho.",
               "Liquidação, empenho e pagamento.",
@@ -655,7 +655,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3295997-57",
             "chapter": "estagios-da-despesa-publica",
             "topic": "Estágios da Despesa Pública",
-            "question": "Para que o Poder Público possa realizar e desempenhar as suas atividades, é necessário que ocorra a aplicação das despesas públicas. A aplicação ocorre através de quatro etapas: o empenho, a liquidação, a ordem de pagamento e o pagamento. Considerando tais etapas, no &acirc;mbito da Lei n&ordm; 4.320, é válido afirmar que",
+            "question": "Para que o Poder Público possa realizar e desempenhar as suas atividades, é necessário que ocorra a aplicação das despesas públicas. A aplicação ocorre através de quatro etapas: o empenho, a liquidação, a ordem de pagamento e o pagamento. Considerando tais etapas, no âmbito da Lei nº 4.320, é válido afirmar que",
             "options": [
               "o empenho da despesa pode exceder o limite dos créditos concedidos.",
               "é possível a realização de despesa sem empenho prévio.",
@@ -669,7 +669,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4081080-58",
             "chapter": "estagios-da-despesa-publica",
             "topic": "Estágios da Despesa Pública",
-            "question": "A execução da despesa orçamentária ocorre em três estágios, na forma prevista na Lei n&ordm; 4.320/1964. Aponte a alternativa que os apresenta.",
+            "question": "A execução da despesa orçamentária ocorre em três estágios, na forma prevista na Lei nº 4.320/1964. Aponte a alternativa que os apresenta.",
             "options": [
               "Previsão, Liquidação e Recolhimento.",
               "Empenho, Liquidação e Pagamento.",
@@ -683,7 +683,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4081086-59",
             "chapter": "estagios-da-despesa-publica",
             "topic": "Estágios da Despesa Pública",
-            "question": "Conforme dispõe a Lei n&ordm; 4.320/1964, a liquidação consiste na verificação do direito adquirido pelo credor tendo por base os títulos e documentos comprobatórios do respectivo crédito. Com base nisso, selecione a opção que apresenta a base para a liquidação da despesa por fornecimentos feitos ou serviços prestados.",
+            "question": "Conforme dispõe a Lei nº 4.320/1964, a liquidação consiste na verificação do direito adquirido pelo credor tendo por base os títulos e documentos comprobatórios do respectivo crédito. Com base nisso, selecione a opção que apresenta a base para a liquidação da despesa por fornecimentos feitos ou serviços prestados.",
             "options": [
               "O contrato; a nota de empenho; os comprovantes da entrega de material ou da prestação efetiva do serviço; comprovante de pagamento.",
               "O contrato; nota de orçamento realizado; os comprovantes da entrega de material ou da prestação efetiva do serviço; comprovante de pagamento.",
@@ -767,7 +767,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827606-103",
             "chapter": "operacoes-de-credito-arts-32-a-39-da-lrf",
             "topic": "Operações de Crédito (arts. 32 a 39 da LRF)",
-            "question": "Acerca Das Operações de Crédito por Antecipação de Receita Orçamentária, à luz da Lei Complementar n.&ordm; 101/2000, é correto afirmar que a operação de crédito por antecipação de receita",
+            "question": "Acerca Das Operações de Crédito por Antecipação de Receita Orçamentária, à luz da Lei Complementar n.º 101/2000, é correto afirmar que a operação de crédito por antecipação de receita",
             "options": [
               "será autorizada se forem cobrados outros encargos que não a taxa de juros da operação, obrigatoriamente prefixada ou indexada à taxa básica financeira, ou a que vier a esta substituir.",
               "será realizada somente após o vigésimo dia do início do exercício.",
@@ -817,7 +817,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3532478-77",
             "chapter": "planejamento-e-orcamento-publico-arts-3º-a-10-da-lrf",
             "topic": "Planejamento e Orçamento Público (arts. 3º a 10 da LRF)",
-            "question": "A Lei Complementar n&ordm; 101, de 4 de maio de 2000, estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências. Acerca do escopo dessa norma, assinale a alternativa correta.",
+            "question": "A Lei Complementar nº 101, de 4 de maio de 2000, estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências. Acerca do escopo dessa norma, assinale a alternativa correta.",
             "options": [
               "O resultado do Banco Central do Brasil, apurado após a constituição ou reversão de reservas, constitui receita do Tesouro Nacional, e será transferido até o quinto dia útil subsequente à aprovação dos balanços semestrais.",
               "O resultado do Banco Central do Brasil, apurado após a constituição ou reversão de reservas, constitui receita do Tesouro Nacional, e será transferido até o décimo dia útil subsequente à aprovação dos balanços semestrais.",
@@ -831,7 +831,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827062-78",
             "chapter": "planejamento-e-orcamento-publico-arts-3º-a-10-da-lrf",
             "topic": "Planejamento e Orçamento Público (arts. 3º a 10 da LRF)",
-            "question": "Consoante a Lei Complementar n.&ordm; 101, de 04/05/2000, que estabelece normas de finanças públicas voltadas à responsabilidade na gestão fiscal e dá outras providências, em seu Capítulo Il, é possível afirmar, em relação ao planejamento que",
+            "question": "Consoante a Lei Complementar n.º 101, de 04/05/2000, que estabelece normas de finanças públicas voltadas à responsabilidade na gestão fiscal e dá outras providências, em seu Capítulo Il, é possível afirmar, em relação ao planejamento que",
             "options": [
               "disporá também sobre: normas relativas ao controle de custos e à avaliação dos resultados dos programas financiados com recursos dos orçamentos.",
               "entende-se como ente da Federação: a União, cada Estado, o Distrito Federal e cada Município.",
@@ -845,7 +845,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827595-79",
             "chapter": "planejamento-e-orcamento-publico-arts-3º-a-10-da-lrf",
             "topic": "Planejamento e Orçamento Público (arts. 3º a 10 da LRF)",
-            "question": "No tocante à Lei Orçamentária Anual, à luz do que dispõe a Lei Complementar n.&ordm; 101/2000, considera-se",
+            "question": "No tocante à Lei Orçamentária Anual, à luz do que dispõe a Lei Complementar n.º 101/2000, considera-se",
             "options": [
               "o resultado negativo não constituirá obrigação do Tesouro para com o Banco Central do Brasil e será consignado em dotação específica no orçamento.",
               "a atualização monetária principal da dívida mobiliária refinanciada poderá excepcionalmente superar a variação do índice de preços, previsto na lei de diretrizes orçamentárias, ou em legislação específica.",
@@ -859,7 +859,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3270484-80",
             "chapter": "planejamento-e-orcamento-publico-arts-3º-a-10-da-lrf",
             "topic": "Planejamento e Orçamento Público (arts. 3º a 10 da LRF)",
-            "question": "Considerando que a Lei Complementar N&ordm; 101, de 4 de Maio de 2000, estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências, com amparo no Capítulo II do Título VI da Constituição, temos nela inculcada que a lei de diretrizes orçamentárias atenderá o disposto no art. 165, &sect;2&ordm; da Constituição e disporá também sobre:",
+            "question": "Considerando que a Lei Complementar Nº 101, de 4 de Maio de 2000, estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências, com amparo no Capítulo II do Título VI da Constituição, temos nela inculcada que a lei de diretrizes orçamentárias atenderá o disposto no art. 165, §2º da Constituição e disporá também sobre:",
             "options": [
               "equilíbrio entre receitas e despesas; demonstrativo das metas anuais, instruído com memória e metodologia de cálculo que justifiquem os resultados pretendidos, comparando-as com as fixadas nos três exercícios anteriores, e evidenciando a consistência delas com as premissas e os objetivos da política econômica nacional; dentre outros.",
               "demais condições e exigências para transferências de recursos a entidades públicas e privadas; quadro demonstrativo do cálculo da meta do resultado primário de que trata a lei, que evidencie os principais agregados de receitas e despesas, os resultados, comparando-os com os valores programados para o exercício em curso e os realizados nos 2 (dois) exercícios anteriores, e as estimativas para o exercício a que se refere a lei de diretrizes orçamentárias e para os subsequentes; dentre outros.",
@@ -878,7 +878,7 @@ export const SUBJECTS: Subject[] = [
               "No anexo de metas fiscais se estabelecem as metas anuais, em valores correntes e constantes, relativas a receitas, despesas, resultados nominal e primário e montante da dívida pública, para o exercício a que se referirem e para os dois seguintes.",
               "No anexo de metas fiscais serão apresentadas as notas explicativas sobre os custos da remuneração das disponibilidades do Tesouro Nacional e da manutenção das reservas cambiais e a rentabilidade de sua carteira de títulos, destacando os de emissão da União.",
               "No anexo de metas fiscais são apresentados os indicadores de desempenho que servirão de base para posterior avaliação da execução do orçamento do exercício a que se refere.",
-              "No anexo de metas fiscais serão apresentados os objetivos das políticas monetária, creditícia e cambial, bem como os par&acirc;metros e as projeções para seus principais agregados e variáveis, e ainda as metas de inflação, para o exercício subsequente.",
+              "No anexo de metas fiscais serão apresentados os objetivos das políticas monetária, creditícia e cambial, bem como os parâmetros e as projeções para seus principais agregados e variáveis, e ainda as metas de inflação, para o exercício subsequente.",
               "No anexo de metas fiscais serão avaliados os passivos contingentes e outros riscos capazes de afetar as contas públicas, informando as providências a serem tomadas, caso se concretizem."
             ],
             "correctIndex": 0
@@ -947,7 +947,7 @@ export const SUBJECTS: Subject[] = [
             "options": [
               "até o final dos meses de maio, setembro e fevereiro, o Ministro ou Secretário de Estado da Fazenda demonstrará e avaliará o cumprimento das metas fiscais de cada quadrimestre e a trajetória da dívida.",
               "objetiva identificar e tornar público os beneficiários de pagamento de sentenças judiciais para o cada bimestre do exercício.",
-              "deve ser elaborado pelo presidente da C&acirc;mara dos deputados e divulgado nos sites oficiais do governo, a fim de atender o princípio da publicidade e transparência.",
+              "deve ser elaborado pelo presidente da Câmara dos deputados e divulgado nos sites oficiais do governo, a fim de atender o princípio da publicidade e transparência.",
               "consiste na verificação, pelo poder executivo, do cumprimento das metas fiscais estabelecidas em cada exercício (período de um ano) e na divulgação da informação para a sociedade.",
               "quando verificado que a realização da receita não será suficiente para atendimento dos objetivos estabelecidos nas metas fiscais (superávit secundário), os poderes deverão interromper todos os pagamentos, até o restabelecimento da receita prevista."
             ],
@@ -1020,7 +1020,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827528-17",
             "chapter": "principios-orcamentarios",
             "topic": "Princípios Orçamentários",
-            "question": "Em se tratando dos princípios norteadores do Orçamento Público, temos que o da Exclusividade afirma que, excluídos os investimentos das empresas estatais controladas e dependentes, e o orçamento da seguridade social, previstos nos Incisos II e III do &sect; 5.&ordm; do Artigo 165 da Constituição Federal de 1988, e no Artigo 5.&ordm; da Lei n.&ordm; 4.320/1964, fica estabelecido que a Lei Orçamentária não conterá dispositivo estranho à previsão de receita e fixação da despesa. Excluem-se dessa proibição",
+            "question": "Em se tratando dos princípios norteadores do Orçamento Público, temos que o da Exclusividade afirma que, excluídos os investimentos das empresas estatais controladas e dependentes, e o orçamento da seguridade social, previstos nos Incisos II e III do § 5.º do Artigo 165 da Constituição Federal de 1988, e no Artigo 5.º da Lei n.º 4.320/1964, fica estabelecido que a Lei Orçamentária não conterá dispositivo estranho à previsão de receita e fixação da despesa. Excluem-se dessa proibição",
             "options": [
               "as despesas com pessoal e a autorização para abertura de crédito adicional especial.",
               "a autorização para abertura de crédito adicional extraordinário e despesas com pessoal.",
@@ -1062,10 +1062,10 @@ export const SUBJECTS: Subject[] = [
             "topic": "Princípios Orçamentários",
             "question": "O orçamento deve ser uno, ou seja, deve existir apenas um orçamento para dado exercício financeiro e para determinado ente, contendo todas as receitas e despesas. Ao apresentar-se de modo integrado, e não segmentado, é possível obter um retrato geral das finanças públicas, qual seja, a estimativa das receitas e a fixação das despesas para cada exercício financeiro. Assim, permite-se ao Legislativo e à sociedade uma visão geral e um controle direto das operações financeiras de responsabilidade da administração pública. Diante do exposto, sobre o Princípio da Unidade, respaldado na Lei 4.320/64, sabe-se que:",
             "options": [
-              "As leis de iniciativa do Poder Executivo e Legislativo estabelecerão o plano plurianual, as diretrizes orçamentárias e os orçamentos anuais. Reafirma-se a necessidade de que o orçamento público seja instituído por &#x201c;lei&#x201d;. Veda-se, ademais, o início ou a realização de programas ou projetos, ou de despesas, ou mesmo a assunção de obrigações fora do orçamento público. Obriga-se, assim, que qualquer autorização de gasto seja direcionada para a peça orçamentária.",
+              "As leis de iniciativa do Poder Executivo e Legislativo estabelecerão o plano plurianual, as diretrizes orçamentárias e os orçamentos anuais. Reafirma-se a necessidade de que o orçamento público seja instituído por “lei”. Veda-se, ademais, o início ou a realização de programas ou projetos, ou de despesas, ou mesmo a assunção de obrigações fora do orçamento público. Obriga-se, assim, que qualquer autorização de gasto seja direcionada para a peça orçamentária.",
               "Antes, o Orçamento Fiscal era sempre equilibrado, sendo aprovado pelo Legislativo. O orçamento monetário e o das Empresas Estatais eram deficitários e sem controle e, além do mais, não eram votados. Ora, como o déficit público e os subsídios mais importantes estavam no orçamento monetário, e não no orçamento Fiscal, o Legislativo encontrava-se, na prática, alijado das decisões mais relevantes em relação à política fiscal e monetária da Nação.",
-              "O princípio da unidade é respaldado legalmente por meio do Artigo 2&ordm; da Lei 4.320/64 e pelo &sect; 5&ordm; do Artigo 165&ordm; da Constituição Federal de 1988, estando previsto e empregado desde 1964. Contudo, ao longo da década de 1980, havia o convívio simult&acirc;neo com três orçamentos distintos: o orçamento fiscal, o orçamento monetário e o orçamento das estatais, ocorrendo consolidação entre eles.",
-              "O Artigo 62&ordm;, da Constituição Federal de 1967, ampliou o alcance de sua aplicação ao incluir, no orçamento anual, as entidades que não recebessem subvenções ou transferências à conta do orçamento."
+              "O princípio da unidade é respaldado legalmente por meio do Artigo 2º da Lei 4.320/64 e pelo § 5º do Artigo 165º da Constituição Federal de 1988, estando previsto e empregado desde 1964. Contudo, ao longo da década de 1980, havia o convívio simultâneo com três orçamentos distintos: o orçamento fiscal, o orçamento monetário e o orçamento das estatais, ocorrendo consolidação entre eles.",
+              "O Artigo 62º, da Constituição Federal de 1967, ampliou o alcance de sua aplicação ao incluir, no orçamento anual, as entidades que não recebessem subvenções ou transferências à conta do orçamento."
             ],
             "correctIndex": 1
           },
@@ -1103,7 +1103,7 @@ export const SUBJECTS: Subject[] = [
             "options": [
               "O princípio do orçamento impositivo estabelece o dever de execução de determinadas programações orçamentárias, imprimindo um caráter vinculante na lei orçamentária.",
               "De acordo com o princípio da unidade, o orçamento deve conter, em peça única, as receitas e as despesas de todos os entes federados.",
-              "O princípio da anualidade determina que todo orçamento é anual e que o respectivo exercício financeiro será de 1&ordm; de julho a 31 de junho do ano seguinte.",
+              "O princípio da anualidade determina que todo orçamento é anual e que o respectivo exercício financeiro será de 1º de julho a 31 de junho do ano seguinte.",
               "O princípio da pureza ou exclusividade orçamentária não comporta exceções, estabelecendo que as leis orçamentárias não conterão dispositivo estranho à previsão da receita e à fixação da despesa."
             ],
             "correctIndex": 0
@@ -1112,7 +1112,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3296048-24",
             "chapter": "principios-orcamentarios",
             "topic": "Princípios Orçamentários",
-            "question": "No &acirc;mbito do orçamento público em cada exercício, o montante da despesa autorizada não pode ser superior ao total das receitas estimadas para o período. Tal relação tem o objetivo de evitar o déficit fiscal. Tal menção refere-se ao princípio do(a)",
+            "question": "No âmbito do orçamento público em cada exercício, o montante da despesa autorizada não pode ser superior ao total das receitas estimadas para o período. Tal relação tem o objetivo de evitar o déficit fiscal. Tal menção refere-se ao princípio do(a)",
             "options": [
               "orçamento bruto.",
               "exclusividade.",
@@ -1126,13 +1126,13 @@ export const SUBJECTS: Subject[] = [
             "id": "3985884-25",
             "chapter": "principios-orcamentarios",
             "topic": "Princípios Orçamentários",
-            "question": "Segundo a Lei n. &ordm; 4.320/1964, a Lei Orçamentária Anual (LOA) consiste em um instrumento crucial para a gestão fiscal e financeira do setor público no Brasil, articulando as diretrizes orçamentárias e operacionais do governo, possibilitando o planejamento e execução de políticas públicas. Nesse contexto, assinale a alternativa que descreve uma característica fundamental da referida lei.",
+            "question": "Segundo a Lei n. º 4.320/1964, a Lei Orçamentária Anual (LOA) consiste em um instrumento crucial para a gestão fiscal e financeira do setor público no Brasil, articulando as diretrizes orçamentárias e operacionais do governo, possibilitando o planejamento e execução de políticas públicas. Nesse contexto, assinale a alternativa que descreve uma característica fundamental da referida lei.",
             "options": [
               "É elaborada anualmente, mas sua vigência é indefinida.",
               "É peça orçamentária de elaboração exclusiva do governo federal.",
               "É uma peça de caráter plurianual que abrange três exercícios financeiros.",
               "Permite a transferência de recursos entre órgãos de diferentes poderes sem autorização legislativa.",
-              "Deve ser elaborada com observ&acirc;ncia ao princípio da universalidade."
+              "Deve ser elaborada com observância ao princípio da universalidade."
             ],
             "correctIndex": 4
           },
@@ -1195,7 +1195,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4080700-30",
             "chapter": "principios-orcamentarios",
             "topic": "Princípios Orçamentários",
-            "question": "Os princípios orçamentários são aquelas regras fundamentais que funcionam como norteadoras da prática orçamentária. São um conjunto de premissas que devem ser observadas durante cada etapa da elaboração orçamentária. Nesse sentido, o princípio no qual estabelece que a lei orçamentária não poderá conter matéria estranha à fixação das despesas e à previsão das receitas, e está previsto no art.165, &sect; 8&ordm;, da Constituição, refere-se ao princípio do(a)",
+            "question": "Os princípios orçamentários são aquelas regras fundamentais que funcionam como norteadoras da prática orçamentária. São um conjunto de premissas que devem ser observadas durante cada etapa da elaboração orçamentária. Nesse sentido, o princípio no qual estabelece que a lei orçamentária não poderá conter matéria estranha à fixação das despesas e à previsão das receitas, e está previsto no art.165, § 8º, da Constituição, refere-se ao princípio do(a)",
             "options": [
               "equilíbrio.",
               "não-afetação (não-vinculação) das receitas.",
@@ -1273,8 +1273,8 @@ export const SUBJECTS: Subject[] = [
             "question": "O Regime de Adiantamento é aplicável aos casos de despesas expressamente definidos em lei e consiste na entrega de numerário a servidor, sempre precedida de empenho na dotação própria para o fim de realizar despesas, que não possam subordinar-se ao processo normal de aplicação (Lei 4.320/1964, art. 68). Sobre o tema, indique a alternativa correta.",
             "options": [
               "Suprimento de fundos é uma modalidade de dispensa de licitação.",
-              "Substitui a dispensa em função do valor ou a dispensa da situação de calamidade da Lei n&ordm; 13.979/2020.",
-              "No &acirc;mbito federal, está previsto e regulado o Cartão de Pagamento do Governo Federal - CPGF (Cartão Corporativo), o que deverá ser seguido fielmente pelos demais entes.",
+              "Substitui a dispensa em função do valor ou a dispensa da situação de calamidade da Lei nº 13.979/2020.",
+              "No âmbito federal, está previsto e regulado o Cartão de Pagamento do Governo Federal - CPGF (Cartão Corporativo), o que deverá ser seguido fielmente pelos demais entes.",
               "É possível que o Distrito Federal, os Estados e os Municípios regulamentem o suprimento de fundos, inclusive é recomendável. Alguns Tribunais de Contas exigem a regulamentação, por meio de decreto ou lei, sob pena de censura às despesas realizadas.",
               "É dispensável que o responsável pelo recebimento de dinheiro público por meio de suprimento de fundos seja um agente público, seja agente político, empregado público, servidor público efetivo ou servidor comissionado, podendo ser também um trabalhador terceirizado."
             ],
@@ -1284,7 +1284,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3985914-72",
             "chapter": "regime-de-adiantamento",
             "topic": "Regime de Adiantamento",
-            "question": "&Eacute; caracterizado por ser um adiantamento de valores a um servidor para futura prestação de contas. Esse adiantamento constitui despesa orçamentária, ou seja, para conceder o recurso, é necessário percorrer os três estágios da despesa orçamentária: empenho, liquidação e pagamento. O trecho acima está alinhado ao conceito de",
+            "question": "É caracterizado por ser um adiantamento de valores a um servidor para futura prestação de contas. Esse adiantamento constitui despesa orçamentária, ou seja, para conceder o recurso, é necessário percorrer os três estágios da despesa orçamentária: empenho, liquidação e pagamento. O trecho acima está alinhado ao conceito de",
             "options": [
               "despesas de exercícios anteriores.",
               "suprimento de fundos.",
@@ -1323,9 +1323,9 @@ export const SUBJECTS: Subject[] = [
             "question": "Sobre o Relatório Resumido da Execução Orçamentária (RREO) correspondente a publicação bimestral que apresenta as informações fiscais consolidadas de cada ente do país, assinale a alternativa correta .",
             "options": [
               "O RREO abrange todos os poderes e cada poder, de cada ente federado deve publicar seu relatório.",
-              "É exigência do &sect; 3.&ordm;, artigo 165, da Constituição Federal de 1988 e deve ser publicado pelo Poder Executivo até 60 (sessenta) dias após o encerramento de cada bimestre.",
+              "É exigência do § 3.º, artigo 165, da Constituição Federal de 1988 e deve ser publicado pelo Poder Executivo até 60 (sessenta) dias após o encerramento de cada bimestre.",
               "Balanço que espelha as receitas arrecadadas e despesas orçamentárias, permitindo o acompanhamento pelo órgão de controle de contas (TCE) e também pela sociedade, que pode avaliar o desempenho da execução orçamentária da Administração Municipal.",
-              "As normas para elaboração e publicação do RREO são estabelecidas pela Lei de Responsabilidade Fiscal (Lei Complementar n.&ordm; 101/2000) e detalhadas no Manual de Contabilidade Aplicada ao Setor Público.",
+              "As normas para elaboração e publicação do RREO são estabelecidas pela Lei de Responsabilidade Fiscal (Lei Complementar n.º 101/2000) e detalhadas no Manual de Contabilidade Aplicada ao Setor Público.",
               "Congrega as informações da execução orçamentária de todos os poderes, Executivo, Legislativo e Judiciário, excetuando o Ministério Público e a Defensoria Pública, e deve ser publicado pelas esferas Federal, Estadual, Distrital e Municipal."
             ],
             "correctIndex": 2
@@ -1477,10 +1477,10 @@ export const SUBJECTS: Subject[] = [
             "topic": "Restos a Pagar (RAP)",
             "question": "Em relação às despesas, para efeito do encerramento do exercício financeiro, deve ser identificado o pertencimento da despesa por meio das regras de classificação estabelecidas durante a apuração dos valores que serão pagos no exercício seguinte, classificando tais despesas em Restos a Pagar Processados (RPP) e Restos a Pagar Não Processados (RPNP). Nesse sentido, as Diretorias Gerais ou unidades equivalentes devem observar as datas limites previstas no Anexo II do Manual de Encerramento de Exercício da Secretaria de Fazenda da Bahia, para que seja planejada a apuração dos valores que podem ser pagos no exercício corrente. Sobre o tema em questão, é correto afirmar que:",
             "options": [
-              "De acordo com a 9&ordf; edição do MCASP, os RPNP liquidados no exercício, mas não pagos, devem ser transferidos para RPP. Essa rotina só pode ocorrer no processo de transferência entre os exercícios.",
-              "Destaca-se que a Lei de Responsabilidade Fiscal (LRF) veda contrair obrigação, exclusivamente, no último quadrimestre do mandato do governante sem que exista a respectiva cobertura financeira, eliminando, assim, as heranças fiscais &#x2013; conforme disposto em seu Artigo 42&ordm;.",
+              "De acordo com a 9ª edição do MCASP, os RPNP liquidados no exercício, mas não pagos, devem ser transferidos para RPP. Essa rotina só pode ocorrer no processo de transferência entre os exercícios.",
+              "Destaca-se que a Lei de Responsabilidade Fiscal (LRF) veda contrair obrigação, exclusivamente, no último quadrimestre do mandato do governante sem que exista a respectiva cobertura financeira, eliminando, assim, as heranças fiscais – conforme disposto em seu Artigo 42º.",
               "Esta edição do MCASP recomenda ainda que a inscrição de restos a pagar deve observar as disponibilidades financeiras e condições da legislação pertinente, de modo a prevenir riscos e corrigir desvios capazes de afetar o equilíbrio das contas públicas, conforme estabelecido na Lei de Responsabilidade Fiscal (LRF).",
-              "Conforme legislação da STN, a verificação das despesas empenhadas e não pagas ao final do exercício será realizada com base no amparo da receita orçamentária. Esta, por sua vez, integrará o ativo financeiro do ente público ao fim do exercício. Quando não liquidada, a despesa empenhada não poderá constar como passivo financeiro &#x2013; restos a pagar &#x2013;, mesmo se ocorrido o fato gerador da obrigação do pagamento."
+              "Conforme legislação da STN, a verificação das despesas empenhadas e não pagas ao final do exercício será realizada com base no amparo da receita orçamentária. Esta, por sua vez, integrará o ativo financeiro do ente público ao fim do exercício. Quando não liquidada, a despesa empenhada não poderá constar como passivo financeiro – restos a pagar –, mesmo se ocorrido o fato gerador da obrigação do pagamento."
             ],
             "correctIndex": 2
           },
@@ -1599,7 +1599,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827589-107",
             "chapter": "transparencia-da-gestao-fiscal-arts-48-e-49-da-lrf",
             "topic": "Transparência da Gestão Fiscal (arts. 48 e 49 da LRF)",
-            "question": "Sobre a transparência, controle e fiscalização abordados na Lei Complementar n.&ordm; n&deg; 101/2000, identifique a afirmativa correta .",
+            "question": "Sobre a transparência, controle e fiscalização abordados na Lei Complementar n.º n° 101/2000, identifique a afirmativa correta .",
             "options": [
               "A União, os Estados, o Distrito Federal e os Municípios disponibilizarão suas informações e dados contábeis, orçamentários e fiscais conforme periodicidade, formato e sistema estabelecidos pelo órgão central de contabilidade da União, os quais deverão ser divulgados em meio eletrônico de acesso restrito aos órgãos de fiscalização.",
               "A prestação de contas estadual conterá demonstrativos do Tesouro Nacional e das agências financeiras oficiais de fomento, incluído o Banco Nacional de Desenvolvimento Econômico e Social, especificando os empréstimos e financiamentos concedidos com recursos oriundos dos orçamentos fiscal e da seguridade social e, no caso das agências financeiras, avaliação circunstanciada do impacto fiscal de suas atividades no exercício.",
@@ -1675,7 +1675,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4080671-12",
             "chapter": "tecnicasespecies-orcamentarias-orcamento-programa-tradicional-participativo-base-zero-etc",
             "topic": "Técnicas/Espécies Orçamentárias (Orçamento Programa, Tradicional, Participativo, Base Zero, etc)",
-            "question": "O Orçamento público é o instrumento de gestão de maior relev&acirc;ncia e provavelmente o mais antigo da administração pública. &Eacute; um instrumento que os governos usam para organizar os seus recursos financeiros. Partindo da intenção inicial de controle, o orçamento público tem evoluído e vem incorporando novas instrumentalidades. Nesse sentido, a técnica orçamentária que foi introduzida na esfera federal pelo Decreto-Lei n&ordm; 200, de 23 de fevereiro de 1967, que menciona o orçamento como plano de ação do governo federal, é o",
+            "question": "O Orçamento público é o instrumento de gestão de maior relevância e provavelmente o mais antigo da administração pública. É um instrumento que os governos usam para organizar os seus recursos financeiros. Partindo da intenção inicial de controle, o orçamento público tem evoluído e vem incorporando novas instrumentalidades. Nesse sentido, a técnica orçamentária que foi introduzida na esfera federal pelo Decreto-Lei nº 200, de 23 de fevereiro de 1967, que menciona o orçamento como plano de ação do governo federal, é o",
             "options": [
               "orçamento de desempenho.",
               "orçamento de realizações.",
@@ -1733,7 +1733,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3966712-2",
             "chapter": "processo-organizacional-e-funcoes-administrativas",
             "topic": "Processo Organizacional e Funções Administrativas",
-            "question": "Em organizações públicas contempor&acirc;neas, a atuação gerencial envolve a aplicação integrada das funções clássicas do processo administrativo. Essas funções estruturam a ação administrativa e orientam a coordenação de recursos humanos, financeiros e tecnológicos na busca pelos objetivos institucionais. No &acirc;mbito dessas funções administrativas, identifique a alternativa que expressa corretamente a finalidade da função controle.",
+            "question": "Em organizações públicas contemporâneas, a atuação gerencial envolve a aplicação integrada das funções clássicas do processo administrativo. Essas funções estruturam a ação administrativa e orientam a coordenação de recursos humanos, financeiros e tecnológicos na busca pelos objetivos institucionais. No âmbito dessas funções administrativas, identifique a alternativa que expressa corretamente a finalidade da função controle.",
             "options": [
               "Estabelecer a missão institucional e os objetivos estratégicos da organização.",
               "Definir a estrutura organizacional e a distribuição formal das responsabilidades.",
@@ -1776,11 +1776,11 @@ export const SUBJECTS: Subject[] = [
             "topic": "Processo Organizacional e Funções Administrativas",
             "question": "A metodologia que define melhor as funções do administrador, separando as tarefas por etapas dentro de um ciclo e que possibilita definir e enxergar melhor o trabalho e trazer mais resultados em uma empresa ou outro tipo de organização, consiste nas fases:",
             "options": [
-              "Planejar, Organizar e Controlar &#x2013; POC",
-              "Planejar, Organizar, Dirigir e Controlar &#x2013; PODC",
-              "Planejar, Organizar, Segmentar e Controlar &#x2013; POSC",
-              "Planejar, Dirigir e Controlar &#x2013; PDC",
-              "Planejar, Estruturar, Executar e Controlar &#x2013; PEEC"
+              "Planejar, Organizar e Controlar – POC",
+              "Planejar, Organizar, Dirigir e Controlar – PODC",
+              "Planejar, Organizar, Segmentar e Controlar – POSC",
+              "Planejar, Dirigir e Controlar – PDC",
+              "Planejar, Estruturar, Executar e Controlar – PEEC"
             ],
             "correctIndex": 1
           },
@@ -1802,7 +1802,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2898502-7",
             "chapter": "processo-organizacional-e-funcoes-administrativas",
             "topic": "Processo Organizacional e Funções Administrativas",
-            "question": "Dentre as funções administrativas, há aquela que se caracteriza como coletiva, partindo do princípio da responsabilidade compartilhada. Em organizações de maior porte, tal função ganha contornos na estrutura &#x2013; seja através de sistemas regulares de acompanhamento das atividades em curso ou mesmo de unidades estabelecidas no desenho organizacional &#x2013; com funções de assessoramento e de mitigação de eventuais desvios ocorridos. A função administrativa em questão é o(a):",
+            "question": "Dentre as funções administrativas, há aquela que se caracteriza como coletiva, partindo do princípio da responsabilidade compartilhada. Em organizações de maior porte, tal função ganha contornos na estrutura – seja através de sistemas regulares de acompanhamento das atividades em curso ou mesmo de unidades estabelecidas no desenho organizacional – com funções de assessoramento e de mitigação de eventuais desvios ocorridos. A função administrativa em questão é o(a):",
             "options": [
               "Planejamento.",
               "Direção.",
@@ -1848,7 +1848,7 @@ export const SUBJECTS: Subject[] = [
             "topic": "Análise Tipológica (Tipologia Documental)",
             "question": "A tipologia documental diz respeito à diversidade de produção documental. São vários os tipos de documentos que diariamente são produzidos, cada um com suas características e finalidades. Nesse sentido, sobre esse tema, assinale a alternativa correta .",
             "options": [
-              "Documentos produzidos por uma atividade que obedece a múltiplas funções estando regulados por um procedimento ou um tr&acirc;mite e que contenha formatos, conteúdos e suportes diversos. De acordo com essa definição, cada atividade e/ ou função se derivam várias séries de documentos.",
+              "Documentos produzidos por uma atividade que obedece a múltiplas funções estando regulados por um procedimento ou um trâmite e que contenha formatos, conteúdos e suportes diversos. De acordo com essa definição, cada atividade e/ ou função se derivam várias séries de documentos.",
               "Pode-se citar como exemplo que, da função contábil, geram-se documentos como os livros diário, razão, balancete, mas também pode gerar outros tipos de documentos que podem estar na mesma série documental e que não sejam, especificamente, documentos contábeis ou assemelhados.",
               "Entende-se como uma série documental tipológica o agrupamento de espécies documentais específicas dentro das respectivas funções geradoras.",
               "A definição proposta de tipo documental passa a ser, então, a espécie documental somada à função que a produziu, criando séries tipológicas, isto é, vários tipos documentais equivalem a uma série documental.",
@@ -1863,7 +1863,7 @@ export const SUBJECTS: Subject[] = [
             "question": "A espécie documental é a configuração que o documento assume de acordo com a disposição e a natureza de sua informação (objeto da Diplomática), bem como que o tipo documental é a espécie documental, não mais como \"fórmula\", e sim já imbuído da atividade que o gerou (objeto da Tipologia). Assim, é possível estabelecer dois pontos de partida para a análise tipológica: o da Diplomática e o da Arquivística. Assinale a afirmativa correta, correspondente à Tipologia Arquivística.",
             "options": [
               "O elemento inicial tem de ser, necessariamente, a entidade produtora, e o percurso será: da sua competência à sua estrutura; da sua estrutura ao seu funcionamento; do seu funcionamento à atividade refletida no documento; da atividade ao tipo; do tipo à espécie; da espécie ao documento.",
-              "A análise tipológica arquivista entende que a tramitação (procedimento de gestão) corresponde/correspondeu à expressão Diplomática, já que o ato implícito na espécie possui tr&acirc;mites obrigatórios.",
+              "A análise tipológica arquivista entende que a tramitação (procedimento de gestão) corresponde/correspondeu à expressão Diplomática, já que o ato implícito na espécie possui trâmites obrigatórios.",
               "Seu elemento inicial é a decodificação do próprio documento, e suas etapas serão: da anatomia do texto ao discurso; do discurso à espécie; da espécie ao tipo; do tipo à atividade; da atividade ao produtor.",
               "A análise tipológica vai abster-se do levantamento das relações internas dentro do conjunto documental, ao qual, a unidade estudada pertence, porque a verificação arquivista independe das características do conjunto."
             ],
@@ -1878,7 +1878,7 @@ export const SUBJECTS: Subject[] = [
               "a configuração interna do documento.",
               "a gênese documental.",
               "o tipo documental.",
-              "a lógica org&acirc;nica dos conjuntos documentais.",
+              "a lógica orgânica dos conjuntos documentais.",
               "a espécie documental."
             ],
             "correctIndex": 3
@@ -1959,12 +1959,12 @@ export const SUBJECTS: Subject[] = [
             "id": "3966952-121",
             "chapter": "definicao-e-classificacao-dos-arquivos",
             "topic": "Definição e Classificação dos Arquivos",
-            "question": "Durante a revisão do arquivo setorial, o Assistente em Administração orienta a equipe sobre critérios conceituais para evitar confusões entre &#x201c;arquivo&#x201d;, &#x201c;documento&#x201d; e &#x201c;informação&#x201d; ao organizar processos e memorandos. Para alinhar a prática cotidiana às bases do campo, ele registra em manual interno a ordem da tríplice dimensão do objeto da arquivologia, indicada na literatura como referência para não inverter a relação entre esses elementos. Tendo por base o exposto, marque a alternativa que completa corretamente o enunciado, considerando que a tríplice dimensão e sua ordem são expressas por:",
+            "question": "Durante a revisão do arquivo setorial, o Assistente em Administração orienta a equipe sobre critérios conceituais para evitar confusões entre “arquivo”, “documento” e “informação” ao organizar processos e memorandos. Para alinhar a prática cotidiana às bases do campo, ele registra em manual interno a ordem da tríplice dimensão do objeto da arquivologia, indicada na literatura como referência para não inverter a relação entre esses elementos. Tendo por base o exposto, marque a alternativa que completa corretamente o enunciado, considerando que a tríplice dimensão e sua ordem são expressas por:",
             "options": [
-              "Arquivos &#x2013; documentos de arquivo &#x2013; informação, mantendo a informação como consequência do documento no interior do arquivo.",
-              "Informação &#x2013; arquivos &#x2013; documentos de arquivo, priorizando a informação como objeto preferencial da arquivologia e tratando o documento como elemento secundário do conjunto arquivístico.",
-              "Arquivos &#x2013; informação &#x2013; documentos de arquivo, supondo que a informação antecede o documento e que este apenas materializa conteúdos definidos pela gestão administrativa.",
-              "Documentos de arquivo &#x2013; arquivos &#x2013; informação, assumindo o documento como ponto inicial e o arquivo como resultado da acumulação."
+              "Arquivos – documentos de arquivo – informação, mantendo a informação como consequência do documento no interior do arquivo.",
+              "Informação – arquivos – documentos de arquivo, priorizando a informação como objeto preferencial da arquivologia e tratando o documento como elemento secundário do conjunto arquivístico.",
+              "Arquivos – informação – documentos de arquivo, supondo que a informação antecede o documento e que este apenas materializa conteúdos definidos pela gestão administrativa.",
+              "Documentos de arquivo – arquivos – informação, assumindo o documento como ponto inicial e o arquivo como resultado da acumulação."
             ],
             "correctIndex": 0
           },
@@ -2017,7 +2017,7 @@ export const SUBJECTS: Subject[] = [
             "question": "Em se tratando de arquivologia, pode-se afirmar que cada tipo de arquivo apresenta características próprias e variadas. Por essas particularidades, eles são classificados em quatro grupos, de acordo com",
             "options": [
               "O assunto tratado; as pessoas física ou jurídica a que foi destinado; o ciclo temporal; o tamanho físico.",
-              "A import&acirc;ncia do assunto tratado; o grau de segurança da informação; a natureza da entidade que os criou; o tempo para ser descartado.",
+              "A importância do assunto tratado; o grau de segurança da informação; a natureza da entidade que os criou; o tempo para ser descartado.",
               "O tipo de meio da informação; o grau de necessidade da informação; a pessoa física ou jurídica a quem foi destinado; a necessidade ou não de sigilo.",
               "O tipo de informação e a característica do meio; a criticidade da informação; a natureza de seus documentos; o tempo para ser guardado.",
               "A natureza da entidade que os criou; os estágios de sua evolução; a extensão da sua atenção; a natureza dos seus documentos."
@@ -2091,7 +2091,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3618257-131",
             "chapter": "definicao-e-classificacao-dos-documentos",
             "topic": "Definição e Classificação dos Documentos",
-            "question": "De acordo com Luciana Durante, é preciso levar em conta dois pressupostos básicos que determinam o valor de prova e informativo dos documentos arquivísticos: que os documentos arquivísticos atestam ações e transações, e que sua veracidade depende das circunst&acirc;ncias de sua criação e preservação. A autora expõe ainda, que esses pressupostos estão ligados às características dos documentos arquivísticos e à sua integridade. Marque qual é a característica dos documentos arquivísticos que está vinculada ao continuum de criação, manutenção e custódia.",
+            "question": "De acordo com Luciana Durante, é preciso levar em conta dois pressupostos básicos que determinam o valor de prova e informativo dos documentos arquivísticos: que os documentos arquivísticos atestam ações e transações, e que sua veracidade depende das circunstâncias de sua criação e preservação. A autora expõe ainda, que esses pressupostos estão ligados às características dos documentos arquivísticos e à sua integridade. Marque qual é a característica dos documentos arquivísticos que está vinculada ao continuum de criação, manutenção e custódia.",
             "options": [
               "Imparcialidade",
               "Autenticidade",
@@ -2109,7 +2109,7 @@ export const SUBJECTS: Subject[] = [
             "options": [
               "Conteúdo estável",
               "Foma fixa",
-              "Relação org&acirc;nica",
+              "Relação orgânica",
               "Contexto identificável",
               "Ação"
             ],
@@ -2196,7 +2196,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3618266-163",
             "chapter": "funcoes-arquivisticas-nocoes-gerais",
             "topic": "Funções Arquivísticas (Noções Gerais)",
-            "question": "As funções arquivísticas são entendidas como o que se espera no desempenho do profissional de Arquivologia. A trajetória da arquivística corroborou para que os canadenses, mais precisamente representados por Carol Couture e Yves Rosseau, admitissem sete funções existentes dentro da área. Eles as entendiam como tarefas que o profissional de arquivo deve desempenhar. E como uma função pode ser primordial para a concepção da outra, interligando-se. A função arquivista que está vinculada diretamente à função social que contém o arquivo, à sociedade da informação e ao paradigma social da Ciência da Informação, porque congrega aspectos que trabalham dinamicamente entre a informação org&acirc;nica, o usuário da informação e o arquivo é a(o)",
+            "question": "As funções arquivísticas são entendidas como o que se espera no desempenho do profissional de Arquivologia. A trajetória da arquivística corroborou para que os canadenses, mais precisamente representados por Carol Couture e Yves Rosseau, admitissem sete funções existentes dentro da área. Eles as entendiam como tarefas que o profissional de arquivo deve desempenhar. E como uma função pode ser primordial para a concepção da outra, interligando-se. A função arquivista que está vinculada diretamente à função social que contém o arquivo, à sociedade da informação e ao paradigma social da Ciência da Informação, porque congrega aspectos que trabalham dinamicamente entre a informação orgânica, o usuário da informação e o arquivo é a(o)",
             "options": [
               "Recolhimento.",
               "Conservação.",
@@ -2210,7 +2210,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3618272-164",
             "chapter": "funcoes-arquivisticas-nocoes-gerais",
             "topic": "Funções Arquivísticas (Noções Gerais)",
-            "question": "As funções arquivísticas são essenciais para nortear as atividades de qualquer arquivo ou instituição arquivística. Com o advento da Lei n&ordm; 12.527, de 18 de novembro de 2011, conhecida como Lei de Acesso à Informação (LAI), o uso dos arquivos como fonte de informações passou a ser o foco da gestão arquivística de documentos. Marque o item que indica qual é a função arquivística considerada importante para a transparência e o compartilhamento de informações, que são caminhos seguros para a tomada de decisão, para a preservação da memória técnica e administrativa das organizações contempor&acirc;neas e para o pleno exercício da cidadania.",
+            "question": "As funções arquivísticas são essenciais para nortear as atividades de qualquer arquivo ou instituição arquivística. Com o advento da Lei nº 12.527, de 18 de novembro de 2011, conhecida como Lei de Acesso à Informação (LAI), o uso dos arquivos como fonte de informações passou a ser o foco da gestão arquivística de documentos. Marque o item que indica qual é a função arquivística considerada importante para a transparência e o compartilhamento de informações, que são caminhos seguros para a tomada de decisão, para a preservação da memória técnica e administrativa das organizações contemporâneas e para o pleno exercício da cidadania.",
             "options": [
               "Classificação",
               "Difusão",
@@ -2306,7 +2306,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3532870-171",
             "chapter": "funcoes-arquivisticas-nocoes-gerais",
             "topic": "Funções Arquivísticas (Noções Gerais)",
-            "question": "A função arquivística capaz de planejar que o suporte no qual será produzido o documento seja proporcionalmente adequado à import&acirc;ncia da informação que será registrada, o que faz com que suportes mais resistentes sejam utilizados para a produção de documentos identificados anteriormente à produção como de guarda permanente, por exemplo, é a",
+            "question": "A função arquivística capaz de planejar que o suporte no qual será produzido o documento seja proporcionalmente adequado à importância da informação que será registrada, o que faz com que suportes mais resistentes sejam utilizados para a produção de documentos identificados anteriormente à produção como de guarda permanente, por exemplo, é a",
             "options": [
               "classificação.",
               "difusão.",
@@ -2334,7 +2334,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3532884-173",
             "chapter": "funcoes-arquivisticas-nocoes-gerais",
             "topic": "Funções Arquivísticas (Noções Gerais)",
-            "question": "A função arquivística por meio da qual se dá visibilidade às fontes, antecipando ao público a riqueza documental de um arquivo, cuja import&acirc;ncia se dá, entre outras razões, ao fato de construir, através do conhecimento desse patrimônio, a noção do seu valor, é a",
+            "question": "A função arquivística por meio da qual se dá visibilidade às fontes, antecipando ao público a riqueza documental de um arquivo, cuja importância se dá, entre outras razões, ao fato de construir, através do conhecimento desse patrimônio, a noção do seu valor, é a",
             "options": [
               "avaliação.",
               "descrição.",
@@ -2400,7 +2400,7 @@ export const SUBJECTS: Subject[] = [
             "topic": "História da Arquivologia",
             "question": "Na administração pública brasileira, assinale o item que indica qual o marco associou os arquivos à conquista de direitos civis e ao exercício pleno da cidadania.",
             "options": [
-              "A publicação da Lei federal n&ordm; 8.159/91.",
+              "A publicação da Lei federal nº 8.159/91.",
               "A promulgação da Constituição Federal de 1988.",
               "A atuação do Departamento Administrativo do Serviço Público (Dasp).",
               "A criação do Arquivo Nacional.",
@@ -2414,7 +2414,7 @@ export const SUBJECTS: Subject[] = [
             "topic": "História da Arquivologia",
             "question": "Em meio à era das consolidações de memórias no espaço político e social, os arquivos passam a ser percebidos como patrimônio documental, necessários à manutenção, construção e significação da memória coletiva dos grupos sociais. No Brasil, assinale o marco histórico que considera o arquivo como patrimônio.",
             "options": [
-              "Lei n&ordm; 6.546, de 4 de julho de 1978.",
+              "Lei nº 6.546, de 4 de julho de 1978.",
               "Constituição Federal de 1988.",
               "Criação da Associação de Pesquisa Histórica e Arquivística (APHA), em 1971. Constituição de 1949.",
               "Criação do Arquivo Público do Império, em 1838."
@@ -2489,7 +2489,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3618294-139",
             "chapter": "principios-e-teorias-de-arquivologia",
             "topic": "Princípios e Teorias de Arquivologia",
-            "question": "O arranjo arquivístico implica também processos intelectuais, pois, para poder ordená-los, o responsável deve ter um conhecimento completo da história da instituição que produziu a documentação &#x2014; sua origem, função e desenvolvimento organizacional e funcional. Só assim, com este estudo inicial, se tornará claro o melhor método de agrupar e arranjar os documentos estabelecendo suas relações. Na organização física dos documentos permanentes, o arranjo terá de obedecer ao princípio arquivístico:",
+            "question": "O arranjo arquivístico implica também processos intelectuais, pois, para poder ordená-los, o responsável deve ter um conhecimento completo da história da instituição que produziu a documentação — sua origem, função e desenvolvimento organizacional e funcional. Só assim, com este estudo inicial, se tornará claro o melhor método de agrupar e arranjar os documentos estabelecendo suas relações. Na organização física dos documentos permanentes, o arranjo terá de obedecer ao princípio arquivístico:",
             "options": [
               "Respeito aos Fundos.",
               "Organicidade.",
@@ -2506,7 +2506,7 @@ export const SUBJECTS: Subject[] = [
             "question": "A Arquivologia deve ser tratada como uma importante ciência e disciplina, que tem como objetivo o gerenciamento de todas as informações que possam ser registradas em documentos de arquivos. Para tanto, utiliza-se de",
             "options": [
               "critérios determinados, em leis específicas, que devem ser aplicados, de forma padronizada, no arquivamento de todos os tipos de documentos, sejam eles de procedência pública ou privada, desde que em formatos aceitáveis legalmente.",
-              "normas técnicas e práticas diversas, com o intuito exclusivo de guarda de documentos de real import&acirc;ncia para a vida de organizações públicas ou privadas, determinadas em lei ou regulamentos internos dos órgãos.",
+              "normas técnicas e práticas diversas, com o intuito exclusivo de guarda de documentos de real importância para a vida de organizações públicas ou privadas, determinadas em lei ou regulamentos internos dos órgãos.",
               "princípios, normas, técnicas e procedimentos diversos, que são aplicados nos processos de composição, de coleta, de análise, de identificação, de organização, de processamento, de desenvolvimento, de utilização, de publicação, de fornecimento, de circulação, de armazenamento e de recuperação de informações.",
               "princípios administrativos e legais, atribuídos pelas administrações municipais, a quem cabe a regulamentação específica de gerenciamento da informação.",
               "conhecimentos exclusivamente científicos específicos na área documental, tendo como embasamento os estudos acadêmicos sobre comunicação e informação, em esfera física e digital."
@@ -2564,7 +2564,7 @@ export const SUBJECTS: Subject[] = [
               "São quatro os requisitos que conferem ao documento digital equivalência com o analógico (produzido em papel): certificação de autoria (assinatura), certificação de integridade (não-alteração), garantia de sigilo dos conteúdos (através de perfis de usuários) e certificação da tempestividade (protocolo eletrônico).",
               "Documento digital é todo registro gerado ou recebido por intermédio de sistemas de computação, por uma entidade pública ou privada no desempenho de suas atividades, armazenado e disponibilizado ou não em meio eletrônico. Em outras palavras, é aquele que nasce, tramita e é destinado por meio computacional.",
               "Documento Digital, é aquele convertido para o meio digital através do uso de um digitalizador de imagens. Um documento digital é uma cópia digitalizada de um documento originalmente analógico.",
-              "Documentos de arquivo formam um conjunto org&acirc;nico, refletindo as atividades a que se vinculam, expressando os atos de seus produtores no exercício de suas funções. Assim, a natureza do suporte ou formato, e não a razão de sua origem ou a função pela qual são produzidos, é que determina a sua condição de documento de arquivo"
+              "Documentos de arquivo formam um conjunto orgânico, refletindo as atividades a que se vinculam, expressando os atos de seus produtores no exercício de suas funções. Assim, a natureza do suporte ou formato, e não a razão de sua origem ou a função pela qual são produzidos, é que determina a sua condição de documento de arquivo"
             ],
             "correctIndex": 1
           },
@@ -2572,7 +2572,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3532862-145",
             "chapter": "principios-e-teorias-de-arquivologia",
             "topic": "Princípios e Teorias de Arquivologia",
-            "question": "A corrente da arquivística, de origem quebequense, preocupada com o tratamento informacional e documental integrado às três idades e que reúne as principais qualidades da arquivística tradicional e dos Records Managements , agregando a eles o produto de diversas pesquisas e aplicações práticas com ênfase na informação org&acirc;nica e nos princípios fundamentais da arquivística, é a",
+            "question": "A corrente da arquivística, de origem quebequense, preocupada com o tratamento informacional e documental integrado às três idades e que reúne as principais qualidades da arquivística tradicional e dos Records Managements , agregando a eles o produto de diversas pesquisas e aplicações práticas com ênfase na informação orgânica e nos princípios fundamentais da arquivística, é a",
             "options": [
               "Archives Administration .",
               "Records Continuum .",
@@ -2684,7 +2684,7 @@ export const SUBJECTS: Subject[] = [
               "Refere-se ao registro e ao controle dos documentos que transitam entre setores, empresas ou órgãos, servindo para tornar possível o acesso às informações de fluxo de documentos que foram expedidos ou recebidos dentro de uma instituição.",
               "É apenas um procedimento de catalogação que tem por objetivo precípuo a geração de um modo eficaz de guarda de documentos úteis.",
               "É o registro de entrada de correspondências em repartição oficial com a finalidade específica de identificar remetentes de correspondências oficiais em cada órgão.",
-              "Consiste apenas no envio dos documentos originais &#x2013; com seus respectivos anexos, se for o caso &#x2013; aos destinatários, via Correios (ECT), malotes ou por entrega pessoal."
+              "Consiste apenas no envio dos documentos originais – com seus respectivos anexos, se for o caso – aos destinatários, via Correios (ECT), malotes ou por entrega pessoal."
             ],
             "correctIndex": 1
           }
@@ -2722,7 +2722,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2767694-181",
             "chapter": "abrangencia-do-controle-art-70-da-cf",
             "topic": "Abrangência do Controle (art. 70 da CF)",
-            "question": "No &acirc;mbito do controle da Administração Pública, os Tribunais de Contas podem proceder à fiscalização contábil, financeira, orçamentária, operacional e patrimonial quanto à",
+            "question": "No âmbito do controle da Administração Pública, os Tribunais de Contas podem proceder à fiscalização contábil, financeira, orçamentária, operacional e patrimonial quanto à",
             "options": [
               "convencionalidade.",
               "fragmentariedade.",
@@ -2809,7 +2809,7 @@ export const SUBJECTS: Subject[] = [
             "question": "Acerca dos conceitos de Estado, Governo e Administração Pública, assinale a alternativa correta:",
             "options": [
               "Conceitualmente, o Estado não se limita apenas ao exercício da função executiva.",
-              "Em sentido org&acirc;nico, consiste a administração pública no conjunto de atividades administrativas exercidas pelo Estado com o fim de materializar os interesses coletivos.",
+              "Em sentido orgânico, consiste a administração pública no conjunto de atividades administrativas exercidas pelo Estado com o fim de materializar os interesses coletivos.",
               "Estado e Governo são faces da mesma moeda, pois ambos dependem da vontade popular majoritária para serem tidos como legítimos.",
               "Em sentido funcional, consiste a administração pública na associação de entidades e agentes estatais com o fim comum de exercer a função administrativa do Estado."
             ],
@@ -2923,7 +2923,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2903733-244",
             "chapter": "administracao-indireta",
             "topic": "Administração Indireta",
-            "question": "Entidade dotada de personalidade jurídica de direito privado pela qual o Estado se vale, com a finalidade de executar atividade econômica de seu interesse. A entidade tem forma jurídica de sociedade anônima, cujo capital é distribuído entre o Governo e particulares. Em razão da natureza de pessoa jurídica de direito privado, sua din&acirc;mica no setor econômico é mais versátil e flexível, principalmente em comparação com o funcionamento burocrático das pessoas jurídicas de direito público. Considerando-se o exposto, pode-se assegurar que o excerto descreve as",
+            "question": "Entidade dotada de personalidade jurídica de direito privado pela qual o Estado se vale, com a finalidade de executar atividade econômica de seu interesse. A entidade tem forma jurídica de sociedade anônima, cujo capital é distribuído entre o Governo e particulares. Em razão da natureza de pessoa jurídica de direito privado, sua dinâmica no setor econômico é mais versátil e flexível, principalmente em comparação com o funcionamento burocrático das pessoas jurídicas de direito público. Considerando-se o exposto, pode-se assegurar que o excerto descreve as",
             "options": [
               "Sociedades de Economia Mistas.",
               "Agências Executivas.",
@@ -2950,7 +2950,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3026698-246",
             "chapter": "administracao-indireta",
             "topic": "Administração Indireta",
-            "question": "Após a reestruturação do Ministério da Saúde, foi criada a Agência Nacional de Vigil&acirc;ncia Sanitária, cujo objetivo é normatizar e controlar a qualidade de produtos e serviços relacionados à Saúde Pública. A nova entidade, dotada de autonomia administrativa e financeira, deve ser classificada corretamente dentro da organização administrativa do Estado. Nesse sentido, considerando os princípios que regem a Administração Pública, a Agência Nacional de Vigil&acirc;ncia Sanitária enquadra-se na categoria de:",
+            "question": "Após a reestruturação do Ministério da Saúde, foi criada a Agência Nacional de Vigilância Sanitária, cujo objetivo é normatizar e controlar a qualidade de produtos e serviços relacionados à Saúde Pública. A nova entidade, dotada de autonomia administrativa e financeira, deve ser classificada corretamente dentro da organização administrativa do Estado. Nesse sentido, considerando os princípios que regem a Administração Pública, a Agência Nacional de Vigilância Sanitária enquadra-se na categoria de:",
             "options": [
               "Empresa pública.",
               "Fundação pública.",
@@ -2994,11 +2994,11 @@ export const SUBJECTS: Subject[] = [
             "topic": "Administração Indireta",
             "question": "Marque a alternativa que indica o instituto que tem como uma de suas finalidades a proteção das unidades de conservação federais, além de executar ações governamentais de implantação, gestão, fiscalização e monitoramento.",
             "options": [
-              "Instituto Nacional da Mata Atl&acirc;ntica.",
+              "Instituto Nacional da Mata Atlântica.",
               "Instituto Estadual do Meio Ambiente.",
               "Instituto Chico Mendes.",
               "Instituto Brasileiro do Meio Ambiente.",
-              "Instituto de Pesquisas Jardim Bot&acirc;nico do Rio de Janeiro."
+              "Instituto de Pesquisas Jardim Botânico do Rio de Janeiro."
             ],
             "correctIndex": 2
           },
@@ -3011,7 +3011,7 @@ export const SUBJECTS: Subject[] = [
               "às Sociedades Anônimas de Investidores e às Fundações públicas.",
               "às Fundações públicas e às Autarquias de serviços ou territoriais.",
               "às Autarquias de serviços ou territoriais e às Agências Reguladoras federais com sede no Estado de Minas Gerais.",
-              "às C&acirc;maras de Justiça Desportiva e às Empresas públicas."
+              "às Câmaras de Justiça Desportiva e às Empresas públicas."
             ],
             "correctIndex": 1
           },
@@ -3209,7 +3209,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827635-199",
             "chapter": "atos-administrativos-especies-classificacao-fases-de-constituicao",
             "topic": "Atos Administrativos: Espécies, Classificação, Fases de Constituição",
-            "question": "Ato administrativo discricionário e precário pelo qual a Administração Pública consente que o particular execute serviço de utilidade pública ou utilize privativamente bem público. A discricionaridade e a precariedade são caracterizadas pela circunst&acirc;ncia de que a Administração Pública pode sopesar critérios administrativos para expedição do ato administrativo, bem como pelo fato de que não se confere ao particular o direito à continuidade de executar o serviço ou utilizar o bem. Assinale a alternativa que corresponde ao ato administrativo descrito pelo enunciado.",
+            "question": "Ato administrativo discricionário e precário pelo qual a Administração Pública consente que o particular execute serviço de utilidade pública ou utilize privativamente bem público. A discricionaridade e a precariedade são caracterizadas pela circunstância de que a Administração Pública pode sopesar critérios administrativos para expedição do ato administrativo, bem como pelo fato de que não se confere ao particular o direito à continuidade de executar o serviço ou utilizar o bem. Assinale a alternativa que corresponde ao ato administrativo descrito pelo enunciado.",
             "options": [
               "Parecer.",
               "Decreto.",
@@ -3254,7 +3254,7 @@ export const SUBJECTS: Subject[] = [
               "parecer público.",
               "decisão coordenada.",
               "termo de declaração.",
-              "sindic&acirc;ncia administrativa."
+              "sindicância administrativa."
             ],
             "correctIndex": 3
           },
@@ -3262,7 +3262,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2903691-203",
             "chapter": "atos-administrativos-especies-classificacao-fases-de-constituicao",
             "topic": "Atos Administrativos: Espécies, Classificação, Fases de Constituição",
-            "question": "A descrição de &#x201c;ato administrativo mediante o qual a Administração Pública confere licença ou autorização para prática de ato ou exercício de atividade sujeitos ao poder de polícia do Estado; sendo a forma ou o revestimento exterior do ato de licença ou autorização, quais são considerados conteúdos do ato&#x201d; é característica do",
+            "question": "A descrição de “ato administrativo mediante o qual a Administração Pública confere licença ou autorização para prática de ato ou exercício de atividade sujeitos ao poder de polícia do Estado; sendo a forma ou o revestimento exterior do ato de licença ou autorização, quais são considerados conteúdos do ato” é característica do",
             "options": [
               "o visto.",
               "o parecer.",
@@ -3303,7 +3303,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3026687-206",
             "chapter": "atos-administrativos-especies-classificacao-fases-de-constituicao",
             "topic": "Atos Administrativos: Espécies, Classificação, Fases de Constituição",
-            "question": "S&acirc;mia, líder comunitária e ativista social, solicitou ao Município de Teresina o fechamento de um dos quarteirões/ quadras da Rua das Flores, a fim de realizar uma atividade social de recreação para crianças. De maneira discricionária, o referido Município permitiu o fechamento da via pública, durante algumas horas em um dia específico da semana. Diante de tal, considerando o Direito Administrativo brasileiro, o ato administrativo praticado pela Prefeitura caracteriza-se como um(a)",
+            "question": "Sâmia, líder comunitária e ativista social, solicitou ao Município de Teresina o fechamento de um dos quarteirões/ quadras da Rua das Flores, a fim de realizar uma atividade social de recreação para crianças. De maneira discricionária, o referido Município permitiu o fechamento da via pública, durante algumas horas em um dia específico da semana. Diante de tal, considerando o Direito Administrativo brasileiro, o ato administrativo praticado pela Prefeitura caracteriza-se como um(a)",
             "options": [
               "apostilamento.",
               "autorização.",
@@ -3371,7 +3371,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2687388-212",
             "chapter": "atos-administrativos-especies-classificacao-fases-de-constituicao",
             "topic": "Atos Administrativos: Espécies, Classificação, Fases de Constituição",
-            "question": "Dentre o rol exemplificativo dos atos administrativos, encontra-se o ato de remoção do servidor público, deslocando-o no &acirc;mbito do mesmo quadro, com ou sem mudança de sede. De acordo com a doutrina, tal ato administrativo é considerado discricionário e também pode ser classificado como",
+            "question": "Dentre o rol exemplificativo dos atos administrativos, encontra-se o ato de remoção do servidor público, deslocando-o no âmbito do mesmo quadro, com ou sem mudança de sede. De acordo com a doutrina, tal ato administrativo é considerado discricionário e também pode ser classificado como",
             "options": [
               "Ato enunciativo.",
               "Ato normativo.",
@@ -3469,7 +3469,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3531642-184",
             "chapter": "conceito-de-atos-administrativos",
             "topic": "Conceito de Atos Administrativos",
-            "question": "Atos praticados pela Administração desprovidos de manifestação de vontade cuja natureza é meramente executória, que consiste nos eventos da natureza, não decorrentes da manifestação ou declaração administrativa, que não são aptos a produzir efeitos no &acirc;mbito do Direito Administrativo. Nesse sentido, o texto refere-se ao conceito de",
+            "question": "Atos praticados pela Administração desprovidos de manifestação de vontade cuja natureza é meramente executória, que consiste nos eventos da natureza, não decorrentes da manifestação ou declaração administrativa, que não são aptos a produzir efeitos no âmbito do Direito Administrativo. Nesse sentido, o texto refere-se ao conceito de",
             "options": [
               "fatos administrativos.",
               "atos da administração.",
@@ -3504,7 +3504,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4039104-422",
             "chapter": "conceitos-e-caracteristicas-dos-contratos-administrativos-formalizacao-dos-contratos-arts-89-a-95-da-lei-nº-141332021",
             "topic": "Conceitos e Características dos Contratos Administrativos. Formalização dos Contratos (arts. 89 a 95 da Lei nº 14.133/2021)",
-            "question": "A respeito dos contratos administrativos, à luz do que nos leciona a Lei n&ordm; 14.133/2021, é correto afirmar que:",
+            "question": "A respeito dos contratos administrativos, à luz do que nos leciona a Lei nº 14.133/2021, é correto afirmar que:",
             "options": [
               "é vedado à Administração convocar os licitantes remanescentes, na ordem de classificação, para a celebração do contrato nas condições propostas pelo licitante vencedor quando o convocado não assinar o termo de contrato ou não aceitar ou não retirar o instrumento equivalente no prazo e nas condições estabelecidas.",
               "a recusa justificada do adjudicatário em assinar o contrato ou em aceitar ou retirar o instrumento equivalente no prazo estabelecido pela Administração caracterizará o descumprimento total da obrigação assumida e o sujeitará às penalidades legalmente estabelecidas e à imediata perda da garantia de proposta em favor do órgão ou entidade licitante.",
@@ -3537,7 +3537,7 @@ export const SUBJECTS: Subject[] = [
               "tal empresa pode desistir da assinatura do contrato administrativo sem apresentar qualquer justificativa e sem sofrer penalidade.",
               "tal empresa poderá solicitar a prorrogação do prazo de convocação por 1 (uma) vez, pelo dobro do período, durante seu transcurso, justificando devidamente o pleito, desde que o motivo apresentado seja aceito pela Administração.",
               "Caso a referida empresa não assine o contrato, será facultado à Administração convocar os licitantes remanescentes, na ordem de classificação, para a celebração do contrato nas condições constantes na proposta daquele que aceitar a contratação.",
-              "Na hipótese de nenhum dos licitantes aceitar a contratação nos termos da proposta da empresa Z, a Administração, observados o valor estimado e sua eventual atualização nos termos do edital, poderá convocar os licitantes remanescentes para negociação, sem observ&acirc;ncia da ordem de classificação, com vistas à obtenção de preço melhor, mesmo que acima do preço do adjudicatário.",
+              "Na hipótese de nenhum dos licitantes aceitar a contratação nos termos da proposta da empresa Z, a Administração, observados o valor estimado e sua eventual atualização nos termos do edital, poderá convocar os licitantes remanescentes para negociação, sem observância da ordem de classificação, com vistas à obtenção de preço melhor, mesmo que acima do preço do adjudicatário.",
               "No caso de nenhum dos licitantes aceitar a contratação nos termos da proposta da empresa Z, a Administração pode adjudicar e celebrar o contrato nas condições ofertadas pelos licitantes remanescentes, atendida a ordem classificatória, quando frustrada a negociação de melhor condição."
             ],
             "correctIndex": 4
@@ -3601,7 +3601,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2517769-429",
             "chapter": "conceitos-e-caracteristicas-dos-contratos-administrativos-formalizacao-dos-contratos-arts-89-a-95-da-lei-nº-141332021",
             "topic": "Conceitos e Características dos Contratos Administrativos. Formalização dos Contratos (arts. 89 a 95 da Lei nº 14.133/2021)",
-            "question": "Sobre os Contratos Administrativos, de acordo com a Lei n&ordm; 14.133/2021, analise os itens abaixo e responda: I. Os contratos deverão estabelecer com clareza e precisão as condições para sua execução, expressas em cláusulas que definam os direitos, as obrigações e as responsabilidades das partes, em conformidade com os termos do edital de licitação e os da proposta vencedora ou com os termos do ato que autorizou a contratação direta e os da respectiva proposta. II. A Administração convocará regularmente o licitante vencedor para assinar o termo de contrato ou para aceitar ou retirar o instrumento equivalente, dentro do prazo e nas condições estabelecidas no edital de licitação, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas nesta Lei. III. Será obrigatório à Administração, quando o convocado não assinar o termo de contrato ou não aceitar ou não retirar o instrumento equivalente no prazo e nas condições estabelecidas, convocar os licitantes remanescentes, na ordem de classificação, para a celebração do contrato nas condições propostas pelo licitante vencedor. IV . Nos contratos com prazos acima de dois anos de duração, o contrato deverá conter cláusula que estabeleça o índice de reajustamento de preço, com data-base vinculada à data do orçamento estimado, e poderá ser estabelecido mais de um índice específico ou setorial, em conformidade com a realidade de mercado dos respectivos insumos. Estão corretos os itens:",
+            "question": "Sobre os Contratos Administrativos, de acordo com a Lei nº 14.133/2021, analise os itens abaixo e responda: I. Os contratos deverão estabelecer com clareza e precisão as condições para sua execução, expressas em cláusulas que definam os direitos, as obrigações e as responsabilidades das partes, em conformidade com os termos do edital de licitação e os da proposta vencedora ou com os termos do ato que autorizou a contratação direta e os da respectiva proposta. II. A Administração convocará regularmente o licitante vencedor para assinar o termo de contrato ou para aceitar ou retirar o instrumento equivalente, dentro do prazo e nas condições estabelecidas no edital de licitação, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas nesta Lei. III. Será obrigatório à Administração, quando o convocado não assinar o termo de contrato ou não aceitar ou não retirar o instrumento equivalente no prazo e nas condições estabelecidas, convocar os licitantes remanescentes, na ordem de classificação, para a celebração do contrato nas condições propostas pelo licitante vencedor. IV . Nos contratos com prazos acima de dois anos de duração, o contrato deverá conter cláusula que estabeleça o índice de reajustamento de preço, com data-base vinculada à data do orçamento estimado, e poderá ser estabelecido mais de um índice específico ou setorial, em conformidade com a realidade de mercado dos respectivos insumos. Estão corretos os itens:",
             "options": [
               "apenas I, II e IV",
               "apenas I, III e IV",
@@ -3623,7 +3623,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4154768-397",
             "chapter": "contratacao-direta-inexigibilidade-e-dispensa-arts-72-a-75-da-lei-nº-141332021",
             "topic": "Contratação Direta, Inexigibilidade e Dispensa (arts. 72 a 75 da Lei nº 14.133/2021)",
-            "question": "Durante a instrução de processo administrativo destinado à contratação de determinado objeto, verificou-se uma situação na qual a competição entre fornecedores se mostrava inviável, exigindo a identificação da modalidade legal de contratação compatível com a hipótese apresentada. &Agrave; luz da Lei n&ordm; 14.133/2021, assinale a alternativa correta.",
+            "question": "Durante a instrução de processo administrativo destinado à contratação de determinado objeto, verificou-se uma situação na qual a competição entre fornecedores se mostrava inviável, exigindo a identificação da modalidade legal de contratação compatível com a hipótese apresentada. À luz da Lei nº 14.133/2021, assinale a alternativa correta.",
             "options": [
               "É inexigível a licitação quando o valor estimado da contratação for reduzido.",
               "É inexigível a licitação quando inviável a competição.",
@@ -3637,7 +3637,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4154810-398",
             "chapter": "contratacao-direta-inexigibilidade-e-dispensa-arts-72-a-75-da-lei-nº-141332021",
             "topic": "Contratação Direta, Inexigibilidade e Dispensa (arts. 72 a 75 da Lei nº 14.133/2021)",
-            "question": "Durante processo administrativo de contratação direta, a Administração avaliou hipótese de contratação para solução urgente, com instrução do procedimento, justificativa da situação e definição do objeto necessário ao atendimento da demanda. &Agrave; luz da Lei n&ordm; 14.133/2021, assinale a alternativa correta.",
+            "question": "Durante processo administrativo de contratação direta, a Administração avaliou hipótese de contratação para solução urgente, com instrução do procedimento, justificativa da situação e definição do objeto necessário ao atendimento da demanda. À luz da Lei nº 14.133/2021, assinale a alternativa correta.",
             "options": [
               "A licitação é dispensável nos casos de emergência ou calamidade pública, quando presentes os requisitos legais e limitada a contratação ao atendimento da situação.",
               "A licitação é inexigível quando a Administração pretende reduzir a duração do procedimento e demonstrar vantagem financeira na contratação escolhida.",
@@ -3651,7 +3651,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4155560-399",
             "chapter": "contratacao-direta-inexigibilidade-e-dispensa-arts-72-a-75-da-lei-nº-141332021",
             "topic": "Contratação Direta, Inexigibilidade e Dispensa (arts. 72 a 75 da Lei nº 14.133/2021)",
-            "question": "As licitações e contratos administrativos são regidos por princípios e normas que buscam garantir a seleção da proposta mais vantajosa para a Administração, bem como a observ&acirc;ncia da legalidade, impessoalidade e igualdade de condições entre os concorrentes. Considerando o regime jurídico das licitações, é correto afirmar que:",
+            "question": "As licitações e contratos administrativos são regidos por princípios e normas que buscam garantir a seleção da proposta mais vantajosa para a Administração, bem como a observância da legalidade, impessoalidade e igualdade de condições entre os concorrentes. Considerando o regime jurídico das licitações, é correto afirmar que:",
             "options": [
               "A inexigibilidade de licitação ocorre quando há inviabilidade de competição, como na contratação de profissional do setor artístico consagrado pela crítica especializada ou pela opinião pública.",
               "A modalidade de concorrência é utilizada para contratos de quaisquer valores, dispensando a publicação de edital.",
@@ -3665,7 +3665,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3615822-400",
             "chapter": "contratacao-direta-inexigibilidade-e-dispensa-arts-72-a-75-da-lei-nº-141332021",
             "topic": "Contratação Direta, Inexigibilidade e Dispensa (arts. 72 a 75 da Lei nº 14.133/2021)",
-            "question": "O processo de contratação direta, que compreende os casos de inexigibilidade e de dispensa de licitação. &Eacute; inexigível a licitação quando",
+            "question": "O processo de contratação direta, que compreende os casos de inexigibilidade e de dispensa de licitação. É inexigível a licitação quando",
             "options": [
               "para contratação que envolva valores inferiores a R$ 100.000,00 (cem mil reais).",
               "transferência de tecnologia ou licenciamento de direito de uso.",
@@ -3679,7 +3679,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3616505-402",
             "chapter": "contratacao-direta-inexigibilidade-e-dispensa-arts-72-a-75-da-lei-nº-141332021",
             "topic": "Contratação Direta, Inexigibilidade e Dispensa (arts. 72 a 75 da Lei nº 14.133/2021)",
-            "question": "Na forma da Lei Federal n&ordm; 14.133, de 01/04/2021, é inexigível a licitação quando inviável a competição, em especial nos casos de:",
+            "question": "Na forma da Lei Federal nº 14.133, de 01/04/2021, é inexigível a licitação quando inviável a competição, em especial nos casos de:",
             "options": [
               "contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras.",
               "contratação que possa acarretar comprometimento da segurança nacional, nos casos estabelecidos pelo Ministro de Estado da Defesa, mediante demanda dos comandos das Forças Armadas ou dos demais ministérios.",
@@ -3693,7 +3693,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3619490-403",
             "chapter": "contratacao-direta-inexigibilidade-e-dispensa-arts-72-a-75-da-lei-nº-141332021",
             "topic": "Contratação Direta, Inexigibilidade e Dispensa (arts. 72 a 75 da Lei nº 14.133/2021)",
-            "question": "Define a Lei Federal n&ordm; 14.133, de 01/04/2021 (Licitações e Contratos), que materiais de uso das Forças Armadas, com exceção de materiais de uso pessoal e administrativo, quando houver necessidade de manter a padronização requerida pela estrutura de apoio logístico dos meios navais, aéreos e terrestres, mediante autorização por ato do comandante da força militar, são adquiridos por meio de",
+            "question": "Define a Lei Federal nº 14.133, de 01/04/2021 (Licitações e Contratos), que materiais de uso das Forças Armadas, com exceção de materiais de uso pessoal e administrativo, quando houver necessidade de manter a padronização requerida pela estrutura de apoio logístico dos meios navais, aéreos e terrestres, mediante autorização por ato do comandante da força militar, são adquiridos por meio de",
             "options": [
               "dispensa de licitação.",
               "inexigibilidade de licitação.",
@@ -3721,7 +3721,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4039103-405",
             "chapter": "contratacao-direta-inexigibilidade-e-dispensa-arts-72-a-75-da-lei-nº-141332021",
             "topic": "Contratação Direta, Inexigibilidade e Dispensa (arts. 72 a 75 da Lei nº 14.133/2021)",
-            "question": "Tomando por base as disposições presentes na Lei n&ordm; 14.133/2021, assinale a alternativa que indica corretamente uma das hipóteses de inexigibilidade de licitação.",
+            "question": "Tomando por base as disposições presentes na Lei nº 14.133/2021, assinale a alternativa que indica corretamente uma das hipóteses de inexigibilidade de licitação.",
             "options": [
               "Contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública.",
               "Contratação que envolva valores inferiores a R$ 100.000,00 (cem mil reais), no caso de obras e serviços de engenharia ou de serviços de manutenção de veículos automotores.",
@@ -3735,7 +3735,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827641-406",
             "chapter": "contratacao-direta-inexigibilidade-e-dispensa-arts-72-a-75-da-lei-nº-141332021",
             "topic": "Contratação Direta, Inexigibilidade e Dispensa (arts. 72 a 75 da Lei nº 14.133/2021)",
-            "question": "Mediante termos constantes na Lei n&deg; 14.133/2021, é correto afirmar que é inexigível a licitação para",
+            "question": "Mediante termos constantes na Lei n° 14.133/2021, é correto afirmar que é inexigível a licitação para",
             "options": [
               "contratação que possa acarretar comprometimento da segurança nacional.",
               "contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras.",
@@ -3763,7 +3763,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3026623-408",
             "chapter": "contratacao-direta-inexigibilidade-e-dispensa-arts-72-a-75-da-lei-nº-141332021",
             "topic": "Contratação Direta, Inexigibilidade e Dispensa (arts. 72 a 75 da Lei nº 14.133/2021)",
-            "question": "Após uma série de fortes tempestades, diversas escolas municipais de uma região sofreram danos significativos em suas infraestruturas, comprometendo a segurança dos alunos e a continuidade das atividades educacionais. Após análise detalhada, o gestor público responsável conclui que a situação se enquadra em uma das hipóteses legais que dispensam a realização de licitação. Com base na Lei n&ordm; 8.666/93 e suas alterações posteriores, identifique a justificativa apropriada para a dispensa da licitação.",
+            "question": "Após uma série de fortes tempestades, diversas escolas municipais de uma região sofreram danos significativos em suas infraestruturas, comprometendo a segurança dos alunos e a continuidade das atividades educacionais. Após análise detalhada, o gestor público responsável conclui que a situação se enquadra em uma das hipóteses legais que dispensam a realização de licitação. Com base na Lei nº 8.666/93 e suas alterações posteriores, identifique a justificativa apropriada para a dispensa da licitação.",
             "options": [
               "Contratação de instituição sem fins lucrativos.",
               "Exclusividade de fornecimento demonstrada através de atestado.",
@@ -3847,7 +3847,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3278403-415",
             "chapter": "contratacao-direta-inexigibilidade-e-dispensa-arts-72-a-75-da-lei-nº-141332021",
             "topic": "Contratação Direta, Inexigibilidade e Dispensa (arts. 72 a 75 da Lei nº 14.133/2021)",
-            "question": "A Lei N&ordm; 8.666/1993 define as seguintes modalidades de licitação: Concorrência, Tomada de Preço, Carta-Convite, Leilão e Concurso. Posteriormente, foi criada uma outra modalidade de licitação denominada de Pregão, regulamentada pela Lei N&ordm; 10.520/2002. Sobre as leis de licitações e o processo de compras no serviço público, assinale a opção correta.",
+            "question": "A Lei Nº 8.666/1993 define as seguintes modalidades de licitação: Concorrência, Tomada de Preço, Carta-Convite, Leilão e Concurso. Posteriormente, foi criada uma outra modalidade de licitação denominada de Pregão, regulamentada pela Lei Nº 10.520/2002. Sobre as leis de licitações e o processo de compras no serviço público, assinale a opção correta.",
             "options": [
               "Deve-se levar em conta sempre o atendimento ao principio da celeridade, competitividade, qualquer preço e comparação seletiva das propostas.",
               "Abster-se de aceitar propostas de bens com características diferentes das especificadas em edital, em respeito ao princípio da publicidade e ao instrumento convocatório.",
@@ -3916,7 +3916,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2769351-420",
             "chapter": "contratacao-direta-inexigibilidade-e-dispensa-arts-72-a-75-da-lei-nº-141332021",
             "topic": "Contratação Direta, Inexigibilidade e Dispensa (arts. 72 a 75 da Lei nº 14.133/2021)",
-            "question": "A Lei Federal n&ordm; 14.133, de 1&ordm; de abril de 2021 (Lei de Licitações e Contratos Administrativos), define diferentes critérios que podem vir a dispensar licitação, como por exemplo, os valores de contratação. Nesse sentido, a referida lei estabelece que, no caso de obras e serviços de engenharia e no caso de outros serviços e compras, é dispensável procedimento licitatório para valores, respectivamente , inferiores a",
+            "question": "A Lei Federal nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), define diferentes critérios que podem vir a dispensar licitação, como por exemplo, os valores de contratação. Nesse sentido, a referida lei estabelece que, no caso de obras e serviços de engenharia e no caso de outros serviços e compras, é dispensável procedimento licitatório para valores, respectivamente , inferiores a",
             "options": [
               "R$ 50.000,00 (cinquenta mil reais) e R$ 25.000,00 (vinte e cinco mil reais).",
               "R$ 100.000,00 (cem mil reais) e R$ 50.000,00 (cinquenta mil reais).",
@@ -3938,7 +3938,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3616508-451",
             "chapter": "controle-das-contratacoes-arts-169-a-173-da-lei-nº-141332021",
             "topic": "Controle das Contratações (arts. 169 a 173 da Lei nº 14.133/2021)",
-            "question": "Diploma a Lei Federal n&ordm; 14.133, de 01/04/2021, que as contratações públicas deverão submeter-se a práticas contínuas e permanentes de gestão de riscos e de controle preventivo, inclusive mediante adoção de recursos de tecnologia da informação, e, além de estar subordinadas ao controle social, sujeitar-se-ão à seguinte linha de defesa:",
+            "question": "Diploma a Lei Federal nº 14.133, de 01/04/2021, que as contratações públicas deverão submeter-se a práticas contínuas e permanentes de gestão de riscos e de controle preventivo, inclusive mediante adoção de recursos de tecnologia da informação, e, além de estar subordinadas ao controle social, sujeitar-se-ão à seguinte linha de defesa:",
             "options": [
               "primeira linha de defesa, integrada pelo órgão central de controle interno da Administração e pelo tribunal de contas.",
               "segunda linha de defesa, integrada por servidores e empregados públicos, agentes de licitação e autoridades que atuam na estrutura de governança do órgão ou entidade.",
@@ -3952,7 +3952,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3026710-452",
             "chapter": "controle-das-contratacoes-arts-169-a-173-da-lei-nº-141332021",
             "topic": "Controle das Contratações (arts. 169 a 173 da Lei nº 14.133/2021)",
-            "question": "Em uma auditoria interna realizada por um técnico administrativo, identifica-se que um contrato administrativo foi aumentado em 30% do valor inicialmente contratado, sem a devida justificação e em desacordo com a Nova Lei de Licitações N&ordm; 14.133/21. A ação correta a ser tomada nesse caso implica que o técnico administrativo",
+            "question": "Em uma auditoria interna realizada por um técnico administrativo, identifica-se que um contrato administrativo foi aumentado em 30% do valor inicialmente contratado, sem a devida justificação e em desacordo com a Nova Lei de Licitações Nº 14.133/21. A ação correta a ser tomada nesse caso implica que o técnico administrativo",
             "options": [
               "recomende a aprovação do aditamento por entender que aumentos de até 50% são permitidos pela legislação.",
               "notifique os órgãos de controle interno sobre a irregularidade para que medidas corretivas sejam tomadas.",
@@ -3996,7 +3996,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4154796-387",
             "chapter": "criterios-de-julgamento-arts-33-a-39-da-lei-nº-141332021",
             "topic": "Critérios de Julgamento (arts. 33 a 39 da Lei nº 14.133/2021)",
-            "question": "Durante a elaboração de edital de licitação, a comissão responsável analisou os critérios de julgamento previstos na Lei n&ordm; 14.133/2021, buscando identificar aqueles expressamente autorizados pela legislação para seleção da proposta mais vantajosa. &Agrave; luz da Lei n&ordm; 14.133/2021, indique a alternativa correta.",
+            "question": "Durante a elaboração de edital de licitação, a comissão responsável analisou os critérios de julgamento previstos na Lei nº 14.133/2021, buscando identificar aqueles expressamente autorizados pela legislação para seleção da proposta mais vantajosa. À luz da Lei nº 14.133/2021, indique a alternativa correta.",
             "options": [
               "O menor preço constitui um dos critérios de julgamento das propostas.",
               "A conveniência administrativa constitui critério de julgamento das propostas.",
@@ -4010,7 +4010,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3283070-388",
             "chapter": "criterios-de-julgamento-arts-33-a-39-da-lei-nº-141332021",
             "topic": "Critérios de Julgamento (arts. 33 a 39 da Lei nº 14.133/2021)",
-            "question": "As normas de Licitações e de Contratos Administrativos (Lei n&ordm; 14.133/2021) prevê que o julgamento das propostas será realizado de acordo com critérios previamente estabelecidos na lei. Por exemplo, o critério do menor preço, da melhor técnica ou do conteúdo artístico. Nesse contexto, pode-se afirmar que",
+            "question": "As normas de Licitações e de Contratos Administrativos (Lei nº 14.133/2021) prevê que o julgamento das propostas será realizado de acordo com critérios previamente estabelecidos na lei. Por exemplo, o critério do menor preço, da melhor técnica ou do conteúdo artístico. Nesse contexto, pode-se afirmar que",
             "options": [
               "o julgamento, por maior retorno econômico, considera o maior lucro atingível pelo licitante vencedor, aplicando-se um desconto de, no mínimo, 50% (cinquenta) por cento em favor da Administração.",
               "o julgamento, por maior retorno econômico, considera o maior lucro possível na licitação, aplicando-se um desconto de, no mínimo, 25% (vinte e cinco) por cento em favor da Administração.",
@@ -4031,7 +4031,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3858462-316",
             "chapter": "da-anulacao-revogacao-e-convalidacao-arts-53-a-55-da-lei-nº-97841999",
             "topic": "Da Anulação, Revogação e Convalidação (arts. 53 a 55 da Lei nº 9.784/1999)",
-            "question": "No tocante ao tema &#x201c;da anulação, revogação e convalidação&#x201d;, abordado na Lei n&ordm; 9.784/1999, assinale a alternativa correta .",
+            "question": "No tocante ao tema “da anulação, revogação e convalidação”, abordado na Lei nº 9.784/1999, assinale a alternativa correta .",
             "options": [
               "A Administração deve anular seus próprios atos, quando eivados de vício de legalidade, e pode revogá-los por motivo de conveniência ou oportunidade, independentemente dos direitos adquiridos.",
               "O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, independentemente de comprovada má-fé.",
@@ -4044,7 +4044,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3032436-318",
             "chapter": "da-anulacao-revogacao-e-convalidacao-arts-53-a-55-da-lei-nº-97841999",
             "topic": "Da Anulação, Revogação e Convalidação (arts. 53 a 55 da Lei nº 9.784/1999)",
-            "question": "Conforme as disposições da Lei n&ordm; 9.784/99 acerca da anulação, revogação e convalidação dos atos administrativos, assinale a alternativa correta.",
+            "question": "Conforme as disposições da Lei nº 9.784/99 acerca da anulação, revogação e convalidação dos atos administrativos, assinale a alternativa correta.",
             "options": [
               "Considera-se exercício do direito de anular qualquer medida de autoridade administrativa que importe impugnação à validade do ato.",
               "A Administração deve anular seus próprios atos, quando eivados de vício de legalidade, mas não pode revogá-los por motivo de conveniência ou oportunidade, ainda que respeitados os direitos adquiridos.",
@@ -4058,7 +4058,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3071776-319",
             "chapter": "da-anulacao-revogacao-e-convalidacao-arts-53-a-55-da-lei-nº-97841999",
             "topic": "Da Anulação, Revogação e Convalidação (arts. 53 a 55 da Lei nº 9.784/1999)",
-            "question": "Durante o prazo de 5 (cinco) anos previsto na Lei Federal n&ordm; 9.784/99 (art. 54), a relação do indivíduo com a Administração Pública não está completamente estabilizada, de forma que o cidadão ainda fica submetido a eventual revisão ou anulação do ato que o beneficia. A isso chamamos corretamente de:",
+            "question": "Durante o prazo de 5 (cinco) anos previsto na Lei Federal nº 9.784/99 (art. 54), a relação do indivíduo com a Administração Pública não está completamente estabilizada, de forma que o cidadão ainda fica submetido a eventual revisão ou anulação do ato que o beneficia. A isso chamamos corretamente de:",
             "options": [
               "Prescrição administrativa.",
               "Decadência administrativa.",
@@ -4072,7 +4072,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3097419-320",
             "chapter": "da-anulacao-revogacao-e-convalidacao-arts-53-a-55-da-lei-nº-97841999",
             "topic": "Da Anulação, Revogação e Convalidação (arts. 53 a 55 da Lei nº 9.784/1999)",
-            "question": "O processo administrativo consiste no conjunto de atividades realizadas pela Administração Pública com o objetivo final de dar efeito a algo previsto em lei, sendo regulado pela Lei n&ordm; 9.784/99, chamada de Lei de Processo Administrativo. Nesse sentido, a Administração deve anular seus próprios atos, quando eivados de vício de legalidade, e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos. O direito da Administração de anular os atos administrativos de que decorrem efeitos favoráveis para os destinatários decaiem:",
+            "question": "O processo administrativo consiste no conjunto de atividades realizadas pela Administração Pública com o objetivo final de dar efeito a algo previsto em lei, sendo regulado pela Lei nº 9.784/99, chamada de Lei de Processo Administrativo. Nesse sentido, a Administração deve anular seus próprios atos, quando eivados de vício de legalidade, e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos. O direito da Administração de anular os atos administrativos de que decorrem efeitos favoráveis para os destinatários decaiem:",
             "options": [
               "3 anos.",
               "2 anos.",
@@ -4086,7 +4086,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3295980-321",
             "chapter": "da-anulacao-revogacao-e-convalidacao-arts-53-a-55-da-lei-nº-97841999",
             "topic": "Da Anulação, Revogação e Convalidação (arts. 53 a 55 da Lei nº 9.784/1999)",
-            "question": "O processo administrativo consiste no conjunto de atividades realizadas pela Administração Pública com o objetivo final de dar efeito a algo previsto em lei, sendo regulado pela Lei n&ordm; 9.784/99, chamada de Lei de Processo Administrativo. Nesse sentido, a Administração deve anular seus próprios atos, quando eivados de vício de legalidade, e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos. O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em",
+            "question": "O processo administrativo consiste no conjunto de atividades realizadas pela Administração Pública com o objetivo final de dar efeito a algo previsto em lei, sendo regulado pela Lei nº 9.784/99, chamada de Lei de Processo Administrativo. Nesse sentido, a Administração deve anular seus próprios atos, quando eivados de vício de legalidade, e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos. O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em",
             "options": [
               "6 anos.",
               "5 anos.",
@@ -4108,7 +4108,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4098833-308",
             "chapter": "da-competencia-arts-11-a-17-da-lei-nº-97841999",
             "topic": "Da Competência (arts. 11 a 17 da Lei nº 9.784/1999)",
-            "question": "A delegação de competência, no &acirc;mbito do processo administrativo federal, constitui técnica de desconcentração funcional, permitindo a transferência temporária do exercício de atribuições administrativas, nos termos da Lei n&ordm; 9.784/1999. Todavia, o legislador estabeleceu hipóteses expressas de indelegabilidade. &Agrave; luz do art. 13 da referida lei, assinale a alternativa que contempla exclusivamente hipóteses legais de vedação à delegação.",
+            "question": "A delegação de competência, no âmbito do processo administrativo federal, constitui técnica de desconcentração funcional, permitindo a transferência temporária do exercício de atribuições administrativas, nos termos da Lei nº 9.784/1999. Todavia, o legislador estabeleceu hipóteses expressas de indelegabilidade. À luz do art. 13 da referida lei, assinale a alternativa que contempla exclusivamente hipóteses legais de vedação à delegação.",
             "options": [
               "A edição de atos normativos internos; A decisão final em processos administrativos sancionadores; As matérias sujeitas a reserva legal; As atribuições delegadas por ato do Chefe do Poder Executivo.",
               "A edição de atos regulamentares; A avocação temporária de competência; A decisão de recursos administrativos; A aplicação de penalidades a servidores públicos.",
@@ -4122,7 +4122,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3809919-309",
             "chapter": "da-competencia-arts-11-a-17-da-lei-nº-97841999",
             "topic": "Da Competência (arts. 11 a 17 da Lei nº 9.784/1999)",
-            "question": "A respeito do tema &#x201c;competências&#x201d;, à luz do que nos leciona a Lei n&ordm; 9.784/1999, é possível afirmar que:",
+            "question": "A respeito do tema “competências”, à luz do que nos leciona a Lei nº 9.784/1999, é possível afirmar que:",
             "options": [
               "A competência é irrenunciável e se exerce pelos órgãos administrativos a que foi atribuída como própria, salvo os casos de delegação e avocação legalmente admitidos.",
               "A edição de atos de caráter normativo pode ser objeto de delegação.",
@@ -4135,7 +4135,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3810071-310",
             "chapter": "da-competencia-arts-11-a-17-da-lei-nº-97841999",
             "topic": "Da Competência (arts. 11 a 17 da Lei nº 9.784/1999)",
-            "question": "Quanto à Lei Federal n&ordm; 9.784/99, que regula o processo administrativo no &acirc;mbito da Administração Pública Federal, temos que a competência é irrenunciável e se exerce pelos órgãos administrativos a que foi atribuída como própria, salvo os casos de delegação e avocação legalmente admitidos, assunto que nos remete diretamente ao que corretamente se consigna apenas em:",
+            "question": "Quanto à Lei Federal nº 9.784/99, que regula o processo administrativo no âmbito da Administração Pública Federal, temos que a competência é irrenunciável e se exerce pelos órgãos administrativos a que foi atribuída como própria, salvo os casos de delegação e avocação legalmente admitidos, assunto que nos remete diretamente ao que corretamente se consigna apenas em:",
             "options": [
               "O ato de delegação é irrevogável até que se finalize o período estipulado pela autoridade delegante.",
               "Inexistindo competência legal específica, o processo administrativo deverá ser iniciado perante a autoridade de menor grau hierárquico para decidir.",
@@ -4148,9 +4148,9 @@ export const SUBJECTS: Subject[] = [
             "id": "3276637-312",
             "chapter": "da-competencia-arts-11-a-17-da-lei-nº-97841999",
             "topic": "Da Competência (arts. 11 a 17 da Lei nº 9.784/1999)",
-            "question": "Tratando-se da competência, à luz do disposto na Lei Federal n&ordm; 9.784/1999, que regula o processo administrativo, assinale a alternativa correta.",
+            "question": "Tratando-se da competência, à luz do disposto na Lei Federal nº 9.784/1999, que regula o processo administrativo, assinale a alternativa correta.",
             "options": [
-              "Um órgão administrativo e seu titular poderão, se não houver impedimento legal, delegar parte da sua competência a outros órgãos ou titulares, ainda que estes não lhe sejam hierarquicamente subordinados, quando for conveniente, em razão de circunst&acirc;ncias de índole técnica, social, econômica, jurídica ou territorial.",
+              "Um órgão administrativo e seu titular poderão, se não houver impedimento legal, delegar parte da sua competência a outros órgãos ou titulares, ainda que estes não lhe sejam hierarquicamente subordinados, quando for conveniente, em razão de circunstâncias de índole técnica, social, econômica, jurídica ou territorial.",
               "O ato de delegação somente poderá ser revogado pela autoridade delegante por meio de decisão fundamentada, transitada em julgado.",
               "Inexistindo competência legal específica, o processo administrativo deverá ser iniciado perante a autoridade de maior grau hierárquico para decidir.",
               "O ato de delegação e sua revogação não necessitam ser publicados no meio oficial.",
@@ -4170,7 +4170,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4073223-279",
             "chapter": "da-declaracao-de-bens-art-13-da-lei-nº-84291992",
             "topic": "Da Declaração de Bens (art. 13 da Lei nº 8.429/1992)",
-            "question": "Nos termos da Lei n&ordm; 8.429/1992, que dispõe sobre as sanções aplicáveis em virtude da prática de atos de improbidade administrativa, a exigência de apresentação da declaração de bens e rendas pelo agente público está vinculada a medidas de controle e transparência no exercício da função pública. Considerando as obrigações legais relativas à referida declaração, assinale a alternativa correta.",
+            "question": "Nos termos da Lei nº 8.429/1992, que dispõe sobre as sanções aplicáveis em virtude da prática de atos de improbidade administrativa, a exigência de apresentação da declaração de bens e rendas pelo agente público está vinculada a medidas de controle e transparência no exercício da função pública. Considerando as obrigações legais relativas à referida declaração, assinale a alternativa correta.",
             "options": [
               "A apresentação da declaração de bens é facultativa ao agente público, devendo ocorrer somente nos casos de suspeita de enriquecimento ilícito ou por solicitação do órgão de controle interno.",
               "A declaração de bens deve ser entregue exclusivamente no momento da posse, não sendo exigida qualquer atualização posterior, salvo no caso de denúncia formal de enriquecimento ilícito.",
@@ -4192,7 +4192,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3619499-289",
             "chapter": "da-prescricao-arts-23-a-23-c-da-lei-nº-84291992",
             "topic": "Da Prescrição (arts. 23 a 23-C da Lei nº 8.429/1992)",
-            "question": "Define a Lei Federal n&ordm; 8.429, de 02/06/1992, que a ação para a aplicação das sanções previstas prescreve em 8 (oito) anos, contados a partir da ocorrência do fato ou, no caso de infrações permanentes, do dia em que cessou a permanência. Assim, o ajuizamento da ação de improbidade administrativa importa corretamente em:",
+            "question": "Define a Lei Federal nº 8.429, de 02/06/1992, que a ação para a aplicação das sanções previstas prescreve em 8 (oito) anos, contados a partir da ocorrência do fato ou, no caso de infrações permanentes, do dia em que cessou a permanência. Assim, o ajuizamento da ação de improbidade administrativa importa corretamente em:",
             "options": [
               "Suspensão do prazo.",
               "Derrogação do prazo.",
@@ -4242,7 +4242,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3611858-339",
             "chapter": "das-definicoes-art-6º-da-lei-nº-141332021",
             "topic": "Das Definições (art. 6º da Lei nº 14.133/2021)",
-            "question": "Na forma da Lei Federal n&ordm; 14.133, de 01/04/2021, temos que aqueles cujo modelo de execução contratual exige, entre outros requisitos, que os empregados do contratado fiquem à disposição nas dependências do contratante para a prestação dos serviços, são corretamente chamados de",
+            "question": "Na forma da Lei Federal nº 14.133, de 01/04/2021, temos que aqueles cujo modelo de execução contratual exige, entre outros requisitos, que os empregados do contratado fiquem à disposição nas dependências do contratante para a prestação dos serviços, são corretamente chamados de",
             "options": [
               "serviços técnicos especializados de natureza predominantemente intelectual.",
               "serviços de engenharia.",
@@ -4256,7 +4256,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3614397-340",
             "chapter": "das-definicoes-art-6º-da-lei-nº-141332021",
             "topic": "Das Definições (art. 6º da Lei nº 14.133/2021)",
-            "question": "Na forma da Lei Federal n&ordm; 14.133, de 01/04/2021, que regula as licitações e contratos do poder público, definimos corretamente como licitante :",
+            "question": "Na forma da Lei Federal nº 14.133, de 01/04/2021, que regula as licitações e contratos do poder público, definimos corretamente como licitante :",
             "options": [
               "indivíduo que, em virtude de eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, exerce mandato, cargo, emprego ou função em pessoa jurídica integrante da Administração Pública.",
               "pessoa física ou jurídica, ou consórcio de pessoas jurídicas, que participa ou manifesta a intenção de participar de processo licitatório, sendo-lhe equiparável, para os fins desta Lei, ao fornecedor ou ao prestador de serviço que, em atendimento à solicitação da Administração, oferece proposta.",
@@ -4284,7 +4284,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4073377-342",
             "chapter": "das-definicoes-art-6º-da-lei-nº-141332021",
             "topic": "Das Definições (art. 6º da Lei nº 14.133/2021)",
-            "question": "De acordo com a Lei n&ordm; 14.133, de 1&ordm; de abril de 2021, considera-se a unidade de atuação dotada de personalidade jurídica o(a):",
+            "question": "De acordo com a Lei nº 14.133, de 1º de abril de 2021, considera-se a unidade de atuação dotada de personalidade jurídica o(a):",
             "options": [
               "Órgão.",
               "Autoridade.",
@@ -4311,10 +4311,10 @@ export const SUBJECTS: Subject[] = [
             "id": "3032504-344",
             "chapter": "das-definicoes-art-6º-da-lei-nº-141332021",
             "topic": "Das Definições (art. 6º da Lei nº 14.133/2021)",
-            "question": "Termo de Referência é o documento que define o objeto e todos os elementos da contratação, devendo conter as especificações de bens e serviços e seguir uma série de par&acirc;metros e elementos descritivos. Dentre as afirmativas a seguir, assinale aquela que não corresponde a tais par&acirc;metros.",
+            "question": "Termo de Referência é o documento que define o objeto e todos os elementos da contratação, devendo conter as especificações de bens e serviços e seguir uma série de parâmetros e elementos descritivos. Dentre as afirmativas a seguir, assinale aquela que não corresponde a tais parâmetros.",
             "options": [
               "Forma e critérios de seleção do fornecedor.",
-              "Estimativas do valor da contratação, acompanhadas dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte, com os par&acirc;metros utilizados para a obtenção dos preços e para os respectivos cálculos, que devem constar de documento separado e classificado.",
+              "Estimativas do valor da contratação, acompanhadas dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte, com os parâmetros utilizados para a obtenção dos preços e para os respectivos cálculos, que devem constar de documento separado e classificado.",
               "Modelo de execução do objeto, que consiste na definição de como o contrato deverá produzir os resultados pretendidos desde o seu início até o seu encerramento.",
               "Modelo de gestão do contrato, que descreve como a execução do objeto será acompanhada e fiscalizada pelo órgão ou entidade.",
               "Valor exato da contratação, o qual não poderá sofrer alterações ao longo da execução do objeto, sob pena de cometimento do crime de modificação ou pagamento irregular em contrato administrativo."
@@ -4325,11 +4325,11 @@ export const SUBJECTS: Subject[] = [
             "id": "3071769-345",
             "chapter": "das-definicoes-art-6º-da-lei-nº-141332021",
             "topic": "Das Definições (art. 6º da Lei nº 14.133/2021)",
-            "question": "Na forma da Lei Federal n&ordm; 14.133/2021 e de mais disposições normativas, que regem as licitações e contratos administrativos, temos enumerados em seu extenso art. 6&ordm; uma série de conceitos e definições de necessária compreensão para o tema. Dentre os comandos referendados, temos o \"projeto executivo\", corretamente conceituado apenas em:",
+            "question": "Na forma da Lei Federal nº 14.133/2021 e de mais disposições normativas, que regem as licitações e contratos administrativos, temos enumerados em seu extenso art. 6º uma série de conceitos e definições de necessária compreensão para o tema. Dentre os comandos referendados, temos o \"projeto executivo\", corretamente conceituado apenas em:",
             "options": [
-              "Conjunto de peças técnicas com todos os subsídios necessários à elaboração do edital, que deve conter, no mínimo, os par&acirc;metros e elementos descritivos detalhados na forma da lei.",
+              "Conjunto de peças técnicas com todos os subsídios necessários à elaboração do edital, que deve conter, no mínimo, os parâmetros e elementos descritivos detalhados na forma da lei.",
               "Cláusula contratual definidora de riscos e responsabilidades entre as partes e caracterizadora do equilíbrio econômico-financeiro inicial do contrato, em termos de ônus financeiro decorrente de eventos supervenientes à contratação.",
-              "Conjunto de documentos necessários para a contratação de bens e serviços, que deve conter os par&acirc;metros e elementos descritivos detalhados na própria legislação licitatória.",
+              "Conjunto de documentos necessários para a contratação de bens e serviços, que deve conter os parâmetros e elementos descritivos detalhados na própria legislação licitatória.",
               "Conjunto de procedimentos para realização, mediante contratação direta ou licitação nas modalidades pregão ou concorrência, de registro formal de preços relativos à prestação de serviços, obras e à aquisição e locação de bens para contratações futuras.",
               "Conjunto de elementos necessários e suficientes à execução completa da obra, como detalhamento de todas soluções previstas no projeto básico, a identificação de serviços, de materiais e de equipamentos a serem incorporados à obra, bem como suas especificações técnicas, de acordo com as normas técnicas pertinentes."
             ],
@@ -4339,7 +4339,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3270498-346",
             "chapter": "das-definicoes-art-6º-da-lei-nº-141332021",
             "topic": "Das Definições (art. 6º da Lei nº 14.133/2021)",
-            "question": "Conforme aduz a Lei Federal n&ordm; 14.133 de 01 de abril de 2021 (dispõe sobre licitações e contratos administrativos), na seção conceitual, aqueles que impõem ao contratado o dever de realizar a prestação de um serviço específico em período predeterminado, podendo ser prorrogado, desde que justificadamente, pelo prazo necessário à conclusão do objeto, serão assim chamados apenas de:",
+            "question": "Conforme aduz a Lei Federal nº 14.133 de 01 de abril de 2021 (dispõe sobre licitações e contratos administrativos), na seção conceitual, aqueles que impõem ao contratado o dever de realizar a prestação de um serviço específico em período predeterminado, podendo ser prorrogado, desde que justificadamente, pelo prazo necessário à conclusão do objeto, serão assim chamados apenas de:",
             "options": [
               "serviços técnicos especializados de natureza predominantemente intelectual.",
               "serviço de engenharia.",
@@ -4367,7 +4367,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3275729-348",
             "chapter": "das-definicoes-art-6º-da-lei-nº-141332021",
             "topic": "Das Definições (art. 6º da Lei nº 14.133/2021)",
-            "question": "No &acirc;mbito das licitações públicas, o conceito de serviços contínuos é essencial para que a Administração Pública faça uma contratação dentro dos ditames da lei. Nesse contexto, entende-se corretamente por serviço contínuo aquele",
+            "question": "No âmbito das licitações públicas, o conceito de serviços contínuos é essencial para que a Administração Pública faça uma contratação dentro dos ditames da lei. Nesse contexto, entende-se corretamente por serviço contínuo aquele",
             "options": [
               "contratado pela Administração Pública para a manutenção da atividade estatal, decorrentes de necessidades básicas ou extraordinárias.",
               "contratado pelo Poder Público para a manutenção das suas atividades, decorrentes de demandas básicas e extraordinárias.",
@@ -4381,7 +4381,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3283066-349",
             "chapter": "das-definicoes-art-6º-da-lei-nº-141332021",
             "topic": "Das Definições (art. 6º da Lei nº 14.133/2021)",
-            "question": "Considerando as definições contidas na Lei de Licitações e de Contratos Administrativos (Lei n&ordm; 14.133/2021), assinale a alternativa correta.",
+            "question": "Considerando as definições contidas na Lei de Licitações e de Contratos Administrativos (Lei nº 14.133/2021), assinale a alternativa correta.",
             "options": [
               "O trabalho licitado, para fins de auditorias financeiras e tributárias, é considerado serviço especial e extraordinário.",
               "Considera-se autoridade qualquer agente público, efetivo ou temporário, que esteja lotado na Administração Pública direta ou indireta.",
@@ -4416,7 +4416,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3888798-257",
             "chapter": "das-disposicoes-gerais-arts-1º-a-8º-a-da-lei-nº-84291992",
             "topic": "Das Disposições Gerais (arts. 1º a 8º-A da Lei nº 8.429/1992)",
-            "question": "&Agrave; luz do texto expresso da Lei n&ordm; 8.429/1992, após as alterações introduzidas pela Lei n&ordm; 14.230/2021, considera-se ato de improbidade administrativa aquele que:",
+            "question": "À luz do texto expresso da Lei nº 8.429/1992, após as alterações introduzidas pela Lei nº 14.230/2021, considera-se ato de improbidade administrativa aquele que:",
             "options": [
               "É praticado com dolo, caracterizado pela vontade livre e consciente de alcançar o resultado ilícito tipificado na lei, não sendo admitida a modalidade culposa, salvo disposição legal expressa.",
               "Resulta em dano ao erário, ainda que decorrente exclusivamente de culpa grave do agente público, desde que demonstrado nexo causal.",
@@ -4430,7 +4430,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3889207-258",
             "chapter": "das-disposicoes-gerais-arts-1º-a-8º-a-da-lei-nº-84291992",
             "topic": "Das Disposições Gerais (arts. 1º a 8º-A da Lei nº 8.429/1992)",
-            "question": "&Agrave; luz do texto expresso da Lei n&ordm; 8.429/1992, no que se refere à responsabilização do terceiro que induz ou concorre para a prática do ato de improbidade administrativa, é correto afirmar que:",
+            "question": "À luz do texto expresso da Lei nº 8.429/1992, no que se refere à responsabilização do terceiro que induz ou concorre para a prática do ato de improbidade administrativa, é correto afirmar que:",
             "options": [
               "O terceiro que induz ou concorre dolosamente para a prática do ato de improbidade, ou dele se beneficia sob qualquer forma direta ou indireta, sujeita-se às sanções previstas na lei, no que couber.",
               "A responsabilização do terceiro depende de prévia condenação criminal do agente público envolvido.",
@@ -4444,11 +4444,11 @@ export const SUBJECTS: Subject[] = [
             "id": "4154785-259",
             "chapter": "das-disposicoes-gerais-arts-1º-a-8º-a-da-lei-nº-84291992",
             "topic": "Das Disposições Gerais (arts. 1º a 8º-A da Lei nº 8.429/1992)",
-            "question": "Durante programa institucional de integridade e prevenção à corrupção, discutiu-se a definição legal dos atos de improbidade administrativa após as alterações promovidas pela Lei n&ordm; 14.230/2021, especialmente quanto ao elemento subjetivo exigido para sua caracterização. &Agrave; luz da Lei n&ordm; 8.429/1992, marque a alternativa correta.",
+            "question": "Durante programa institucional de integridade e prevenção à corrupção, discutiu-se a definição legal dos atos de improbidade administrativa após as alterações promovidas pela Lei nº 14.230/2021, especialmente quanto ao elemento subjetivo exigido para sua caracterização. À luz da Lei nº 8.429/1992, marque a alternativa correta.",
             "options": [
-              "Consideram-se atos de improbidade administrativa as condutas culposas ou dolosas tipificadas nos arts. 9&ordm;, 10 e 11 da Lei n&ordm; 8.429/1992.",
+              "Consideram-se atos de improbidade administrativa as condutas culposas ou dolosas tipificadas nos arts. 9º, 10 e 11 da Lei nº 8.429/1992.",
               "Consideram-se atos de improbidade administrativa quaisquer irregularidades praticadas por agente público.",
-              "Consideram-se atos de improbidade administrativa as condutas dolosas tipificadas nos arts. 9&ordm;, 10 e 11 da Lei n&ordm; 8.429/1992.",
+              "Consideram-se atos de improbidade administrativa as condutas dolosas tipificadas nos arts. 9º, 10 e 11 da Lei nº 8.429/1992.",
               "Consideram-se atos de improbidade administrativa os ilícitos disciplinares previstos nos estatutos funcionais.",
               "Consideram-se atos de improbidade administrativa as infrações previstas em regulamentos internos dos órgãos públicos."
             ],
@@ -4463,7 +4463,7 @@ export const SUBJECTS: Subject[] = [
               "A boa-fé objetiva da Administração substitui a necessidade de análise da conduta do agente.",
               "A mera irregularidade administrativa é suficiente para caracterizar improbidade.",
               "A responsabilidade por improbidade independe do elemento subjetivo do agente.",
-              "A caracterização da improbidade exige observ&acirc;ncia dos requisitos previstos em lei, não se confundindo com ilegalidade administrativa isolada.",
+              "A caracterização da improbidade exige observância dos requisitos previstos em lei, não se confundindo com ilegalidade administrativa isolada.",
               "A ausência de dano ao erário impede qualquer forma de responsabilização por improbidade."
             ],
             "correctIndex": 3
@@ -4472,13 +4472,13 @@ export const SUBJECTS: Subject[] = [
             "id": "3611903-261",
             "chapter": "das-disposicoes-gerais-arts-1º-a-8º-a-da-lei-nº-84291992",
             "topic": "Das Disposições Gerais (arts. 1º a 8º-A da Lei nº 8.429/1992)",
-            "question": "Versa o digesto sobre as sanções aplicáveis em virtude da prática de atos de improbidade administrativa, de que trata o art. 37, &sect; 4&ordm; da Constituição Federal que o sistema de responsabilização por atos de improbidade administrativa tutelará a probidade na organização do Estado e no exercício de suas funções, como forma de assegurar a integridade do patrimônio público e social, nos termos a própria Lei. Considerando as disposições gerais sobre o tema, está correto apenas o que se afirma em:",
+            "question": "Versa o digesto sobre as sanções aplicáveis em virtude da prática de atos de improbidade administrativa, de que trata o art. 37, § 4º da Constituição Federal que o sistema de responsabilização por atos de improbidade administrativa tutelará a probidade na organização do Estado e no exercício de suas funções, como forma de assegurar a integridade do patrimônio público e social, nos termos a própria Lei. Considerando as disposições gerais sobre o tema, está correto apenas o que se afirma em:",
             "options": [
               "O sucessor ou o herdeiro daquele que causar dano ao erário ou que se enriquecer ilicitamente estão sujeitos apenas à obrigação de repará-lo até o limite do valor da herança ou do patrimônio transferido.",
               "O mero exercício da função ou desempenho de competências públicas, sem comprovação de ato doloso com fim ilícito, não afasta a responsabilidade por ato de improbidade administrativa.",
-              "Os atos de improbidade violam a probidade na organização do Estado e no exercício de suas funções e a integridade do patrimônio público e social dos Poderes Executivo, Legislativo e Judiciário, apenas quando classificados como administração direta, no &acirc;mbito da União, dos Estados, dos Municípios e do Distrito Federal.",
+              "Os atos de improbidade violam a probidade na organização do Estado e no exercício de suas funções e a integridade do patrimônio público e social dos Poderes Executivo, Legislativo e Judiciário, apenas quando classificados como administração direta, no âmbito da União, dos Estados, dos Municípios e do Distrito Federal.",
               "Configura improbidade a ação ou omissão decorrente de divergência interpretativa da lei, baseada em jurisprudência, ainda que não pacificada, mesmo que não venha a ser posteriormente prevalecente nas decisões dos órgãos de controle ou dos tribunais do Poder Judiciário.",
-              "Para os efeitos da Lei, consideram-se agente público o agente político, o servidor público e todo aquele que exerce, sempre remunerado, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego ou função nas entidades referidas no art. 1&ordm; da própria Lei."
+              "Para os efeitos da Lei, consideram-se agente público o agente político, o servidor público e todo aquele que exerce, sempre remunerado, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego ou função nas entidades referidas no art. 1º da própria Lei."
             ],
             "correctIndex": 0
           },
@@ -4486,10 +4486,10 @@ export const SUBJECTS: Subject[] = [
             "id": "3615811-262",
             "chapter": "das-disposicoes-gerais-arts-1º-a-8º-a-da-lei-nº-84291992",
             "topic": "Das Disposições Gerais (arts. 1º a 8º-A da Lei nº 8.429/1992)",
-            "question": "Conforme vemos na Lei Federal n&ordm; 8.429, de 02/06/1992, o sistema de responsabilização por atos de improbidade administrativa tutelará a probidade na organização do Estado e no exercício de suas funções, como forma de assegurar a integridade do patrimônio público e social, nos termos da própria Lei, de onde podemos corretamente destacar apenas o que se afirma em:",
+            "question": "Conforme vemos na Lei Federal nº 8.429, de 02/06/1992, o sistema de responsabilização por atos de improbidade administrativa tutelará a probidade na organização do Estado e no exercício de suas funções, como forma de assegurar a integridade do patrimônio público e social, nos termos da própria Lei, de onde podemos corretamente destacar apenas o que se afirma em:",
             "options": [
               "configura improbidade a ação ou omissão decorrente de divergência interpretativa da lei, baseada em jurisprudência, ainda que não pacificada, mesmo que não venha a ser posteriormente prevalecente nas decisões dos órgãos de controle ou dos tribunais do Poder Judiciário.",
-              "os atos de improbidade violam a probidade na organização do Estado e no exercício de suas funções e a integridade do patrimônio público e social dos Poderes Executivo, Legislativo e Judiciário, bem como da administração direta e indireta, no &acirc;mbito da União, dos Estados, dos Municípios e do Distrito Federal.",
+              "os atos de improbidade violam a probidade na organização do Estado e no exercício de suas funções e a integridade do patrimônio público e social dos Poderes Executivo, Legislativo e Judiciário, bem como da administração direta e indireta, no âmbito da União, dos Estados, dos Municípios e do Distrito Federal.",
               "não se aplicam ao sistema da improbidade disciplinado nesta Lei os princípios constitucionais do direito administrativo sancionador.",
               "o mero exercício da função ou desempenho de competências públicas, sem comprovação de ato doloso com fim ilícito, é suficiente para que se haja a responsabilidade por ato de improbidade administrativa.",
               "estão sujeitos às sanções os atos de improbidade praticados contra o patrimônio de entidade pública que receba subvenção, benefício ou incentivo, fiscal ou creditício, de entes privados."
@@ -4508,7 +4508,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3616539-287",
             "chapter": "das-disposicoes-penais-arts-19-a-22-da-lei-nº-84291992",
             "topic": "Das Disposições Penais (arts. 19 a 22 da Lei nº 8.429/1992)",
-            "question": "Conforme vemos nas disposições penais da Lei Federal n&ordm; 8.429, de 02/06/1992, podemos assinalar corretamente apenas o que se afirma em:",
+            "question": "Conforme vemos nas disposições penais da Lei Federal nº 8.429, de 02/06/1992, podemos assinalar corretamente apenas o que se afirma em:",
             "options": [
               "A aplicação das sanções previstas na lei depende da efetiva ocorrência de dano ao patrimônio público.",
               "A autoridade judicial competente deverá determinar o afastamento do agente público do exercício do cargo, do emprego ou da função, sem prejuízo da remuneração, quando a medida for necessária à instrução processual ou para evitar a iminente prática de novos ilícitos.",
@@ -4522,7 +4522,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827611-288",
             "chapter": "das-disposicoes-penais-arts-19-a-22-da-lei-nº-84291992",
             "topic": "Das Disposições Penais (arts. 19 a 22 da Lei nº 8.429/1992)",
-            "question": "Nos termos da Lei n.&ordm; 8.429 de junho de 1992, considere a seguinte conduta descritiva: &#x201c;Constitui crime a representação por ato de improbidade contra agente público ou terceiro beneficiário, quando o autor da denúncia o sabe inocente&#x201d;. A conduta apresentada acima, corresponde à pena de",
+            "question": "Nos termos da Lei n.º 8.429 de junho de 1992, considere a seguinte conduta descritiva: “Constitui crime a representação por ato de improbidade contra agente público ou terceiro beneficiário, quando o autor da denúncia o sabe inocente”. A conduta apresentada acima, corresponde à pena de",
             "options": [
               "multa, apenas.",
               "reclusão de um ano e multa.",
@@ -4544,7 +4544,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3889210-272",
             "chapter": "das-penas-art-12-da-lei-nº-84291992",
             "topic": "Das Penas (art. 12 da Lei nº 8.429/1992)",
-            "question": "Conforme a disciplina expressa da Lei n&ordm; 8.429/1992, no que se refere à aplicação das sanções por ato de improbidade administrativa, é correto afirmar que:",
+            "question": "Conforme a disciplina expressa da Lei nº 8.429/1992, no que se refere à aplicação das sanções por ato de improbidade administrativa, é correto afirmar que:",
             "options": [
               "As sanções devem ser aplicadas necessariamente de forma cumulativa, sendo vedada sua aplicação isolada.",
               "A aplicação das sanções independe da análise da gravidade da conduta praticada pelo agente.",
@@ -4604,7 +4604,7 @@ export const SUBJECTS: Subject[] = [
             "options": [
               "Faltou impor a Tício a sanção de pagamento de multa civil de até 24 (vinte e quatro) vezes o valor da remuneração por ele percebida.",
               "Ao invés da pena de suspensão dos direitos políticos, era para ter sido fixada a pena de cassação dos direitos políticos.",
-              "As penas impostas a Tício poderão ser executadas antes do tr&acirc;nsito em julgado da sentença condenatória.",
+              "As penas impostas a Tício poderão ser executadas antes do trânsito em julgado da sentença condenatória.",
               "O juiz somente poderia ter aplicado uma das sanções em questão.",
               "A fixação da pena de suspensão dos direitos políticos por 15 (quinze) anos foi ilegal."
             ],
@@ -4614,7 +4614,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2284074-277",
             "chapter": "das-penas-art-12-da-lei-nº-84291992",
             "topic": "Das Penas (art. 12 da Lei nº 8.429/1992)",
-            "question": "Considere que um agente público, dolosamente e em conluio com funcionários de sociedade de economia mista, permita que, antes da respectiva divulgação oficial, chegue ao conhecimento de determinadas empresas, participantes de cartel de postos de gasolina, o teor de medida política capaz de afetar o preço dos combustíveis. Nesse caso, a chamada Lei de Improbidade Administrativa (Lei n&ordm; 8.429/92) prevê, como possível sanção, a proibição de contratar com o poder público pelo prazo:",
+            "question": "Considere que um agente público, dolosamente e em conluio com funcionários de sociedade de economia mista, permita que, antes da respectiva divulgação oficial, chegue ao conhecimento de determinadas empresas, participantes de cartel de postos de gasolina, o teor de medida política capaz de afetar o preço dos combustíveis. Nesse caso, a chamada Lei de Improbidade Administrativa (Lei nº 8.429/92) prevê, como possível sanção, a proibição de contratar com o poder público pelo prazo:",
             "options": [
               "não inferior a 5 (cinco) anos.",
               "não superior a 4 (quatro) anos.",
@@ -4650,7 +4650,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4153091-496",
             "chapter": "das-responsabilidades-arts-32-a-34-da-lei-nº-125272011",
             "topic": "Das Responsabilidades (arts. 32 a 34 da Lei nº 12.527/2011)",
-            "question": "A Lei de Acesso à Informação (Lei n&ordm; 12.527/2011) estabelece um rol de condutas ilícitas que ensejam a responsabilidade do agente público, visando garantir a efetividade do direito fundamental de acesso aos dados. Acerca das sanções e responsabilidades previstas no referido diploma, assinale a opção correta.",
+            "question": "A Lei de Acesso à Informação (Lei nº 12.527/2011) estabelece um rol de condutas ilícitas que ensejam a responsabilidade do agente público, visando garantir a efetividade do direito fundamental de acesso aos dados. Acerca das sanções e responsabilidades previstas no referido diploma, assinale a opção correta.",
             "options": [
               "A destruição de documentos concernentes a violações de direitos humanos por parte de agentes do Estado enseja responsabilidade penal imediata, o que dispensa a abertura de processo administrativo disciplinar para apuração da conduta.",
               "A imposição de sigilo à informação para obter proveito pessoal ou para ocultação de ato ilegal sujeita o agente público apenas a sanções de natureza disciplinar, sendo vedada a sua responsabilização por improbidade administrativa.",
@@ -4672,7 +4672,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3888810-488",
             "chapter": "das-restricoes-de-acesso-à-informacao-arts-21-a-31-da-lei-nº-125272011",
             "topic": "Das Restrições de Acesso à Informação (arts. 21 a 31 da Lei nº 12.527/2011)",
-            "question": "De acordo com a Lei n&ordm; 12.527/2011, quanto à classificação das informações em razão de seu grau de sigilo, é correto afirmar que:",
+            "question": "De acordo com a Lei nº 12.527/2011, quanto à classificação das informações em razão de seu grau de sigilo, é correto afirmar que:",
             "options": [
               "A classificação em ultrassecreta, secreta ou reservada deve observar prazos máximos de restrição de acesso expressamente fixados em lei.",
               "As informações classificadas como ultrassecretas possuem prazo indeterminado de restrição de acesso, enquanto subsistir o interesse público.",
@@ -4686,7 +4686,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3966679-489",
             "chapter": "das-restricoes-de-acesso-à-informacao-arts-21-a-31-da-lei-nº-125272011",
             "topic": "Das Restrições de Acesso à Informação (arts. 21 a 31 da Lei nº 12.527/2011)",
-            "question": "No que concerne ao tratamento, à custódia e à responsabilidade sobre informações classificadas como sigilosas no &acirc;mbito da Administração Pública, a Lei n&ordm; 12.527/2011 estabelece diretrizes rígidas para o controle de acesso. Tendo em vista as disposições legais sobre a segurança da informação, assinale a alternativa correta.",
+            "question": "No que concerne ao tratamento, à custódia e à responsabilidade sobre informações classificadas como sigilosas no âmbito da Administração Pública, a Lei nº 12.527/2011 estabelece diretrizes rígidas para o controle de acesso. Tendo em vista as disposições legais sobre a segurança da informação, assinale a alternativa correta.",
             "options": [
               "As medidas de proteção contra perda, alteração indevida ou divulgação não autorizada de informações sigilosas aplicam-se exclusivamente aos agentes públicos vinculados estatutariamente ao Estado, não alcançando entidades privadas.",
               "A obrigação de observar as medidas e procedimentos de segurança para o tratamento de informações sigilosas é restrita às autoridades máximas dos órgãos, não sendo exigível o conhecimento de tais normas pelo pessoal subordinado hierarquicamente.",
@@ -4699,7 +4699,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4153030-490",
             "chapter": "das-restricoes-de-acesso-à-informacao-arts-21-a-31-da-lei-nº-125272011",
             "topic": "Das Restrições de Acesso à Informação (arts. 21 a 31 da Lei nº 12.527/2011)",
-            "question": "Um setor do Poder Legislativo estadual precisa classificar uma informação cuja divulgação imediata pode pôr em risco a segurança da sociedade ou do Estado. Aplicando os graus de sigilo e os prazos máximos de restrição previstos na Lei n&ordm; 12.527/2011, a correspondência correta entre grau de sigilo e prazo máximo de restrição de acesso é:",
+            "question": "Um setor do Poder Legislativo estadual precisa classificar uma informação cuja divulgação imediata pode pôr em risco a segurança da sociedade ou do Estado. Aplicando os graus de sigilo e os prazos máximos de restrição previstos na Lei nº 12.527/2011, a correspondência correta entre grau de sigilo e prazo máximo de restrição de acesso é:",
             "options": [
               "Ultrassecreto, 25 anos; secreto, 15 anos; reservado, 5 anos.",
               "Ultrassecreto, 15 anos; secreto, 10 anos; reservado, 5 anos.",
@@ -4719,7 +4719,7 @@ export const SUBJECTS: Subject[] = [
               "O acesso a informações pessoais que digam respeito à intimidade e vida privada terá seu acesso restrito a agentes públicos legalmente autorizados pelo prazo máximo de vinte e cinco anos, contado da data de sua produção, independentemente de classificação de sigilo ou de eventual consentimento.",
               "A autorização para que terceiros acessem informações pessoais relativas à honra e à imagem depende obrigatoriamente de consentimento expresso do titular, não subsistindo hipóteses legais que dispensem tal requisito para fins de pesquisas científicas ou para o cumprimento de ordens judiciais.",
               "As informações ou documentos que versem sobre condutas que impliquem violação dos direitos humanos praticada por agentes públicos admitem classificação no grau de secreto por até quinze anos, visando proteger a segurança das instituições e a estabilidade das relações internacionais.",
-              "A restrição de acesso a informações relativas à vida privada, honra e imagem de uma pessoa não pode ser invocada com o intuito de prejudicar processo de apuração de irregularidades em que o titular das informações estiver envolvido, nem em ações voltadas para a recuperação de fatos históricos de maior relev&acirc;ncia."
+              "A restrição de acesso a informações relativas à vida privada, honra e imagem de uma pessoa não pode ser invocada com o intuito de prejudicar processo de apuração de irregularidades em que o titular das informações estiver envolvido, nem em ações voltadas para a recuperação de fatos históricos de maior relevância."
             ],
             "correctIndex": 4
           },
@@ -4727,7 +4727,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4154798-492",
             "chapter": "das-restricoes-de-acesso-à-informacao-arts-21-a-31-da-lei-nº-125272011",
             "topic": "Das Restrições de Acesso à Informação (arts. 21 a 31 da Lei nº 12.527/2011)",
-            "question": "Durante procedimento de classificação de informações produzidas por órgão público, discutiu-se o prazo máximo de restrição de acesso aplicável às informações classificadas no grau ultrassecreto. &Agrave; luz da Lei n&ordm; 12.527/2011, marque a alternativa correta.",
+            "question": "Durante procedimento de classificação de informações produzidas por órgão público, discutiu-se o prazo máximo de restrição de acesso aplicável às informações classificadas no grau ultrassecreto. À luz da Lei nº 12.527/2011, marque a alternativa correta.",
             "options": [
               "O prazo máximo de restrição de acesso à informação classificada como ultrassecreta é de quinze anos.",
               "O prazo máximo de restrição de acesso à informação classificada como ultrassecreta é de vinte e cinco anos.",
@@ -4741,7 +4741,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4155159-493",
             "chapter": "das-restricoes-de-acesso-à-informacao-arts-21-a-31-da-lei-nº-125272011",
             "topic": "Das Restrições de Acesso à Informação (arts. 21 a 31 da Lei nº 12.527/2011)",
-            "question": "Ao receber solicitação de acesso a documentos produzidos durante procedimento institucional em andamento, a unidade responsável verificou que parte das informações continha elementos cuja divulgação poderia comprometer interesses legalmente protegidos e a própria finalidade do procedimento. &Agrave; luz da Lei n&ordm; 12.527/2011, a restrição de acesso a determinadas informações exige:",
+            "question": "Ao receber solicitação de acesso a documentos produzidos durante procedimento institucional em andamento, a unidade responsável verificou que parte das informações continha elementos cuja divulgação poderia comprometer interesses legalmente protegidos e a própria finalidade do procedimento. À luz da Lei nº 12.527/2011, a restrição de acesso a determinadas informações exige:",
             "options": [
               "Comprovação de que a divulgação poderá gerar repercussão negativa à imagem institucional.",
               "Classificação ou enquadramento da informação nas hipóteses legalmente previstas de restrição de acesso.",
@@ -4755,7 +4755,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3619498-494",
             "chapter": "das-restricoes-de-acesso-à-informacao-arts-21-a-31-da-lei-nº-125272011",
             "topic": "Das Restrições de Acesso à Informação (arts. 21 a 31 da Lei nº 12.527/2011)",
-            "question": "Define a Lei Federal n&ordm; 12.527, de 18/11/2011, que dispõe sobre os procedimentos a serem observados pela União, Estados, Distrito Federal e Municípios, com o fim de garantir o acesso a informações, que podem existir restrições de acesso à informação. Diante disso, os prazos máximos de restrição de acesso à informação, conforme a classificação legal, vigoram a partir da data de sua produção e definidos como ultrassecretos:",
+            "question": "Define a Lei Federal nº 12.527, de 18/11/2011, que dispõe sobre os procedimentos a serem observados pela União, Estados, Distrito Federal e Municípios, com o fim de garantir o acesso a informações, que podem existir restrições de acesso à informação. Diante disso, os prazos máximos de restrição de acesso à informação, conforme a classificação legal, vigoram a partir da data de sua produção e definidos como ultrassecretos:",
             "options": [
               "5 (cinco) anos.",
               "10 (dez) anos.",
@@ -4769,7 +4769,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4039101-495",
             "chapter": "das-restricoes-de-acesso-à-informacao-arts-21-a-31-da-lei-nº-125272011",
             "topic": "Das Restrições de Acesso à Informação (arts. 21 a 31 da Lei nº 12.527/2011)",
-            "question": "Acerca das disposições presentes na Lei de Acesso à Informação &#x2013; Lei n&ordm; 12.527/2011, assinale a alternativa correta referente à proteção e controle de informações sigilosas.",
+            "question": "Acerca das disposições presentes na Lei de Acesso à Informação – Lei nº 12.527/2011, assinale a alternativa correta referente à proteção e controle de informações sigilosas.",
             "options": [
               "O acesso, a divulgação e o tratamento de informação classificada como pública ficarão restritos a pessoas que tenham necessidade de conhecê-la e que sejam devidamente credenciadas na forma do regulamento, sem prejuízo das atribuições dos agentes públicos autorizados por lei.",
               "O acesso à informação classificada como sigilosa não cria a obrigação para aquele que a obteve de resguardar o sigilo.",
@@ -4791,7 +4791,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4098851-213",
             "chapter": "desfazimento-do-ato-administrativo-anulacao-revogacao-cassacao-caducidade-contraposicao",
             "topic": "Desfazimento do Ato Administrativo (Anulação, Revogação, Cassação, Caducidade, Contraposição)",
-            "question": "O Município Alfa editou ato administrativo que declarou a nulidade de licença ambiental anteriormente concedida a determinada empresa, sob o fundamento de vício de competência insanável. A licença havia sido regularmente publicada e produziu efeitos por três anos, período em que a empresa realizou investimentos significativos. Após a declaração de nulidade, o Município determinou a imediata paralisação das atividades, independentemente de ordem judicial. A empresa ajuizou ação alegando: I . Impossibilidade de retroação absoluta dos efeitos da invalidação; II . Necessidade de decisão judicial para sustar as atividades; III . Preservação dos efeitos já produzidos em razão da boa-fé. &Agrave; luz da teoria dos efeitos do ato administrativo e da jurisprudência dominante, assinale a alternativa correta.",
+            "question": "O Município Alfa editou ato administrativo que declarou a nulidade de licença ambiental anteriormente concedida a determinada empresa, sob o fundamento de vício de competência insanável. A licença havia sido regularmente publicada e produziu efeitos por três anos, período em que a empresa realizou investimentos significativos. Após a declaração de nulidade, o Município determinou a imediata paralisação das atividades, independentemente de ordem judicial. A empresa ajuizou ação alegando: I . Impossibilidade de retroação absoluta dos efeitos da invalidação; II . Necessidade de decisão judicial para sustar as atividades; III . Preservação dos efeitos já produzidos em razão da boa-fé. À luz da teoria dos efeitos do ato administrativo e da jurisprudência dominante, assinale a alternativa correta.",
             "options": [
               "A invalidação por vício insanável produz efeitos necessariamente ex nunc, preservando-se integralmente os efeitos pretéritos, ainda que o ato seja nulo de pleno direito.",
               "A presunção de legitimidade do ato administrativo impede sua invalidação após o decurso de três anos, salvo comprovada má-fé do administrado.",
@@ -4819,7 +4819,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4073198-215",
             "chapter": "desfazimento-do-ato-administrativo-anulacao-revogacao-cassacao-caducidade-contraposicao",
             "topic": "Desfazimento do Ato Administrativo (Anulação, Revogação, Cassação, Caducidade, Contraposição)",
-            "question": "&#x201c;(...) é a supressão de um ato administrativo legítimo e eficaz, realizada privativamente pelo ente que o editou utilizando-se da função administrativa, por não mais lhe convir sua existência, em virtude de razões relativas à oportunidade ou conveniência. Concretiza-se mediante a edição de novo ato, discricionário, nos limites da lei. Funda-se no princípio da autotutela, pelo qual a administração dispõe de mecanismos para controlar sua atividade interna visando à consecução dos interesses públicos, sem necessidade do contraditório.&#x201d; BERWIG, Aldemir. Direito Administrativo. Ijuí: Editora Unijuí, 2019. Com base no fragmento apresentado, é correto afirmar que se trata de:",
+            "question": "“(...) é a supressão de um ato administrativo legítimo e eficaz, realizada privativamente pelo ente que o editou utilizando-se da função administrativa, por não mais lhe convir sua existência, em virtude de razões relativas à oportunidade ou conveniência. Concretiza-se mediante a edição de novo ato, discricionário, nos limites da lei. Funda-se no princípio da autotutela, pelo qual a administração dispõe de mecanismos para controlar sua atividade interna visando à consecução dos interesses públicos, sem necessidade do contraditório.” BERWIG, Aldemir. Direito Administrativo. Ijuí: Editora Unijuí, 2019. Com base no fragmento apresentado, é correto afirmar que se trata de:",
             "options": [
               "Revogação.",
               "Extinção.",
@@ -4894,7 +4894,7 @@ export const SUBJECTS: Subject[] = [
               "renúncia aos direitos conferidos pelo ato.",
               "revogação do ato por conveniência e oportunidade.",
               "convalidação do ato para corrigir possíveis ilegalidades.",
-              "caducidade do ato devido à alteração das circunst&acirc;ncias."
+              "caducidade do ato devido à alteração das circunstâncias."
             ],
             "correctIndex": 2
           },
@@ -4942,7 +4942,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2687389-224",
             "chapter": "desfazimento-do-ato-administrativo-anulacao-revogacao-cassacao-caducidade-contraposicao",
             "topic": "Desfazimento do Ato Administrativo (Anulação, Revogação, Cassação, Caducidade, Contraposição)",
-            "question": "O guarda municipal João, após o cumprimento do período aquisitivo de férias, pediu exoneração do cargo público antes de gozar as férias. Diante de tal situação, a autoridade competente indeferiu o pedido de exoneração e manteve João no serviço público pelo prazo de 30 (trinta) dias sem trabalhar, após o que foi efetivada uma exoneração de ofício. &Agrave; luz dos conceitos de invalidação, revogação e anulação dos atos administrativos, assinale a alternativa correta.",
+            "question": "O guarda municipal João, após o cumprimento do período aquisitivo de férias, pediu exoneração do cargo público antes de gozar as férias. Diante de tal situação, a autoridade competente indeferiu o pedido de exoneração e manteve João no serviço público pelo prazo de 30 (trinta) dias sem trabalhar, após o que foi efetivada uma exoneração de ofício. À luz dos conceitos de invalidação, revogação e anulação dos atos administrativos, assinale a alternativa correta.",
             "options": [
               "Como João requereu uma exoneração a pedido, é nulo o ato administrativo de exoneração de ofício na situação em questão.",
               "A autoridade competente deveria ter anulado o pedido de exoneração de João, pois a situação em questão não contempla juízo de conveniência e oportunidade.",
@@ -4989,7 +4989,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3888808-460",
             "chapter": "disposicoes-gerais-arts-1º-a-5º-da-lei-nº-125272011",
             "topic": "Disposições Gerais (arts. 1º a 5º da Lei nº 12.527/2011)",
-            "question": "Consoante os termos expressos da Lei n&ordm; 12.527/2011, o acesso à informação pública pelos interessados:",
+            "question": "Consoante os termos expressos da Lei nº 12.527/2011, o acesso à informação pública pelos interessados:",
             "options": [
               "Depende de motivação expressa do requerente, que deverá demonstrar interesse direto e específico na informação solicitada.",
               "Somente será assegurado mediante prévia autorização da autoridade máxima do órgão ou entidade detentora da informação.",
@@ -5003,7 +5003,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3966706-461",
             "chapter": "disposicoes-gerais-arts-1º-a-5º-da-lei-nº-125272011",
             "topic": "Disposições Gerais (arts. 1º a 5º da Lei nº 12.527/2011)",
-            "question": "A Lei n&ordm; 12.527/2011 estabelece mecanismos que fortalecem a transparência pública. Nesse contexto, a finalidade central da Lei de Acesso à Informação consiste em:",
+            "question": "A Lei nº 12.527/2011 estabelece mecanismos que fortalecem a transparência pública. Nesse contexto, a finalidade central da Lei de Acesso à Informação consiste em:",
             "options": [
               "Assegurar ao cidadão o direito de acesso às informações públicas.",
               "Restringir o acesso a dados governamentais estratégicos.",
@@ -5016,7 +5016,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3966931-462",
             "chapter": "disposicoes-gerais-arts-1º-a-5º-da-lei-nº-125272011",
             "topic": "Disposições Gerais (arts. 1º a 5º da Lei nº 12.527/2011)",
-            "question": "Previsto no inciso XXXIII do art. 5&ordm; da Constituição Federal, o direito de informação trata do dever de fornecimento de informações pelos órgãos públicos, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado. Regulamentando tal dispositivo constitucional, a Lei n&ordm; 12.527/2011 (Lei de Acesso à Informação &#x2013; LAI) determina que o acesso à informação será franqueado mediante:",
+            "question": "Previsto no inciso XXXIII do art. 5º da Constituição Federal, o direito de informação trata do dever de fornecimento de informações pelos órgãos públicos, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado. Regulamentando tal dispositivo constitucional, a Lei nº 12.527/2011 (Lei de Acesso à Informação – LAI) determina que o acesso à informação será franqueado mediante:",
             "options": [
               "processos jurídicos e céleres, de forma independente, imparcial e em linguagem pública.",
               "processos administrativos públicos, transparentes e subjetivos.",
@@ -5029,7 +5029,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4154771-463",
             "chapter": "disposicoes-gerais-arts-1º-a-5º-da-lei-nº-125272011",
             "topic": "Disposições Gerais (arts. 1º a 5º da Lei nº 12.527/2011)",
-            "question": "Durante a análise de requerimento formulado por cidadão perante órgão público, discutiram-se a finalidade dos procedimentos disciplinados pela Lei de Acesso à Informação e os princípios que a orientam. &Agrave; luz da Lei n&ordm; 12.527/2011, assinale a opção correta.",
+            "question": "Durante a análise de requerimento formulado por cidadão perante órgão público, discutiram-se a finalidade dos procedimentos disciplinados pela Lei de Acesso à Informação e os princípios que a orientam. À luz da Lei nº 12.527/2011, assinale a opção correta.",
             "options": [
               "Os procedimentos previstos na Lei de Acesso à Informação destinam-se a assegurar o direito fundamental de acesso à informação e devem ser executados em conformidade com os princípios básicos da Administração Pública.",
               "Os procedimentos previstos na Lei de Acesso à Informação exigem demonstração de interesse jurídico específico pelo requerente.",
@@ -5043,13 +5043,13 @@ export const SUBJECTS: Subject[] = [
             "id": "4154832-464",
             "chapter": "disposicoes-gerais-arts-1º-a-5º-da-lei-nº-125272011",
             "topic": "Disposições Gerais (arts. 1º a 5º da Lei nº 12.527/2011)",
-            "question": "Durante reunião destinada à implementação de políticas de transparência pública, discutiu-se uma das diretrizes expressamente previstas na Lei n&ordm; 12.527/2011. Diante disso, assinale a alternativa correta.",
+            "question": "Durante reunião destinada à implementação de políticas de transparência pública, discutiu-se uma das diretrizes expressamente previstas na Lei nº 12.527/2011. Diante disso, assinale a alternativa correta.",
             "options": [
-              "A observ&acirc;ncia do sigilo como regra geral e da publicidade como exceção constitui diretriz da Lei de Acesso à Informação.",
+              "A observância do sigilo como regra geral e da publicidade como exceção constitui diretriz da Lei de Acesso à Informação.",
               "A publicidade das informações públicas depende de autorização judicial.",
               "O acesso à informação depende da demonstração de interesse jurídico específico.",
               "A publicidade restringe-se aos atos do Poder Executivo.",
-              "A observ&acirc;ncia da publicidade como preceito geral e do sigilo como exceção constitui diretriz da Lei de Acesso à Informação."
+              "A observância da publicidade como preceito geral e do sigilo como exceção constitui diretriz da Lei de Acesso à Informação."
             ],
             "correctIndex": 4
           },
@@ -5057,10 +5057,10 @@ export const SUBJECTS: Subject[] = [
             "id": "4155183-465",
             "chapter": "disposicoes-gerais-arts-1º-a-5º-da-lei-nº-125272011",
             "topic": "Disposições Gerais (arts. 1º a 5º da Lei nº 12.527/2011)",
-            "question": "A Lei n&ordm; 12.527/2011 regulamenta o direito constitucional de acesso às informações públicas. Essa norma entrou em vigor em 16 de maio de 2012, com a criação de mecanismos que possibilitem ao cidadão, sem a necessidade de apresentar motivos, o recebimento de informações públicas dos órgãos e entidades. A lei vale para:",
+            "question": "A Lei nº 12.527/2011 regulamenta o direito constitucional de acesso às informações públicas. Essa norma entrou em vigor em 16 de maio de 2012, com a criação de mecanismos que possibilitem ao cidadão, sem a necessidade de apresentar motivos, o recebimento de informações públicas dos órgãos e entidades. A lei vale para:",
             "options": [
               "as Forças Armadas, os Tribunais de Contas e os três Poderes da União.",
-              "os três Poderes da União, as Forças Armadas e as C&acirc;maras dos vereadores.",
+              "os três Poderes da União, as Forças Armadas e as Câmaras dos vereadores.",
               "os três Poderes da União, Estados, Distrito Federal e Municípios, Tribunais de Contas e o Ministério Público.",
               "os três Poderes da União, Estados e Distrito Federal e as Forças Armadas.",
               "os Tribunais de Contas, o Ministério Público e as Forças Armadas."
@@ -5071,7 +5071,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4155718-466",
             "chapter": "disposicoes-gerais-arts-1º-a-5º-da-lei-nº-125272011",
             "topic": "Disposições Gerais (arts. 1º a 5º da Lei nº 12.527/2011)",
-            "question": "Ensina a Lei Federal n&ordm; 12.527, de 18 de novembro de 2011 &#x2013; Lei de Acesso à Informação (LAI), que a qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem modificações, define corretamente o conceito de:",
+            "question": "Ensina a Lei Federal nº 12.527, de 18 de novembro de 2011 – Lei de Acesso à Informação (LAI), que a qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem modificações, define corretamente o conceito de:",
             "options": [
               "Autenticidade.",
               "Disponibilidade.",
@@ -5085,7 +5085,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3643851-467",
             "chapter": "disposicoes-gerais-arts-1º-a-5º-da-lei-nº-125272011",
             "topic": "Disposições Gerais (arts. 1º a 5º da Lei nº 12.527/2011)",
-            "question": "A Lei n&ordm; 12.527, de 18 de novembro de 2011, conhecida como Lei de Acesso à Informação (LAI), regulamenta o direito constitucional de acesso às informações públicas. Ela estabelece os procedimentos que os órgãos e entidades devem seguir para garantir a transparência ativa e passiva, promovendo o controle social e o fortalecimento da democracia. Nesse sentido, estão sujeitos a seus dispositivos e obrigações:",
+            "question": "A Lei nº 12.527, de 18 de novembro de 2011, conhecida como Lei de Acesso à Informação (LAI), regulamenta o direito constitucional de acesso às informações públicas. Ela estabelece os procedimentos que os órgãos e entidades devem seguir para garantir a transparência ativa e passiva, promovendo o controle social e o fortalecimento da democracia. Nesse sentido, estão sujeitos a seus dispositivos e obrigações:",
             "options": [
               "os órgãos do Poder Executivo Federal e as autarquias federais, apenas.",
               "as entidades que recebam recursos da União para execução de políticas públicas, apenas.",
@@ -5113,7 +5113,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3276559-469",
             "chapter": "disposicoes-gerais-arts-1º-a-5º-da-lei-nº-125272011",
             "topic": "Disposições Gerais (arts. 1º a 5º da Lei nº 12.527/2011)",
-            "question": "De acordo com a Lei n&ordm; 12.527, de 18 de novembro de 2011, a qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem modificações, é chamada de",
+            "question": "De acordo com a Lei nº 12.527, de 18 de novembro de 2011, a qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem modificações, é chamada de",
             "options": [
               "imprescindibilidade.",
               "integridade.",
@@ -5127,13 +5127,13 @@ export const SUBJECTS: Subject[] = [
             "id": "3532861-470",
             "chapter": "disposicoes-gerais-arts-1º-a-5º-da-lei-nº-125272011",
             "topic": "Disposições Gerais (arts. 1º a 5º da Lei nº 12.527/2011)",
-            "question": "A lei publicada pelo Estado Federativo do Brasil, na perspectiva do preceito do amplo acesso em detrimento ao sigilo, que visava regular o acesso a informações previsto no inciso XXXIII do art. 5&ordm;, no inciso II do &sect; 3&ordm; do art. 37 e no &sect; 2&ordm; do art. 216 da Constituição Federal, é a",
+            "question": "A lei publicada pelo Estado Federativo do Brasil, na perspectiva do preceito do amplo acesso em detrimento ao sigilo, que visava regular o acesso a informações previsto no inciso XXXIII do art. 5º, no inciso II do § 3º do art. 37 e no § 2º do art. 216 da Constituição Federal, é a",
             "options": [
-              "Lei n&ordm; 14.460, de 25 de outubro de 2022.",
-              "Lei n&ordm; 12.527, de 18 de novembro de 2011.",
-              "Lei n&ordm; 8.159, de 8 de janeiro de 1991.",
-              "Lei n&ordm; 13.709, de 14 de agosto de 2018.",
-              "Lei n&ordm; 13.853, de 8 de julho de 2019."
+              "Lei nº 14.460, de 25 de outubro de 2022.",
+              "Lei nº 12.527, de 18 de novembro de 2011.",
+              "Lei nº 8.159, de 8 de janeiro de 1991.",
+              "Lei nº 13.709, de 14 de agosto de 2018.",
+              "Lei nº 13.853, de 8 de julho de 2019."
             ],
             "correctIndex": 1
           }
@@ -5149,7 +5149,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3966932-294",
             "chapter": "disposicoes-gerais-direitos-e-deveres-do-administrado-arts-1º-a-4º-da-lei-nº-97841999",
             "topic": "Disposições Gerais, Direitos e Deveres do Administrado (arts. 1º a 4º da Lei nº 9.784/1999)",
-            "question": "No &acirc;mbito do processo administrativo instaurado na Administração Pública Federal, é dever do administrado perante a Administração, sem prejuízo de outros previstos em ato normativo, não agir de modo temerário. Nesse contexto, assinale a alternativa correta.",
+            "question": "No âmbito do processo administrativo instaurado na Administração Pública Federal, é dever do administrado perante a Administração, sem prejuízo de outros previstos em ato normativo, não agir de modo temerário. Nesse contexto, assinale a alternativa correta.",
             "options": [
               "A suspeição da autoridade administrativa não afasta e nem minimiza a gravidade do agir temerário do administrado no curso do processo administrativo.",
               "Não agir de modo temerário significa que o administrado deve prestar as informações que lhe forem solicitadas pela Administração Pública ou por terceiros interessados.",
@@ -5176,7 +5176,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3615809-296",
             "chapter": "disposicoes-gerais-direitos-e-deveres-do-administrado-arts-1º-a-4º-da-lei-nº-97841999",
             "topic": "Disposições Gerais, Direitos e Deveres do Administrado (arts. 1º a 4º da Lei nº 9.784/1999)",
-            "question": "A Lei Federal n&ordm; 9.784 de 29/01/1999, que regula o processo administrativo no &acirc;mbito da Administração Pública Federal, nos diz que ela obedecerá, dentre outros, aos princípios da legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência. Nos processos administrativos serão observados, entre outros, os critérios de:",
+            "question": "A Lei Federal nº 9.784 de 29/01/1999, que regula o processo administrativo no âmbito da Administração Pública Federal, nos diz que ela obedecerá, dentre outros, aos princípios da legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência. Nos processos administrativos serão observados, entre outros, os critérios de:",
             "options": [
               "uso da analogia, ainda que in malam partem ; dentre outros.",
               "adequação entre meios e fins, vedada a imposição de obrigações, restrições e sanções em medida superior àquelas estritamente necessárias ao atendimento do interesse público; dentre outros.",
@@ -5190,7 +5190,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3616526-297",
             "chapter": "disposicoes-gerais-direitos-e-deveres-do-administrado-arts-1º-a-4º-da-lei-nº-97841999",
             "topic": "Disposições Gerais, Direitos e Deveres do Administrado (arts. 1º a 4º da Lei nº 9.784/1999)",
-            "question": "Balizado pela Lei Federal n&ordm; 9.784, de 29/01/1999, que regula o processo administrativo no &acirc;mbito da Administração Pública Federal, o administrado tem os seguintes direitos perante a Administração, sem prejuízo de outros que lhe sejam assegurados:",
+            "question": "Balizado pela Lei Federal nº 9.784, de 29/01/1999, que regula o processo administrativo no âmbito da Administração Pública Federal, o administrado tem os seguintes direitos perante a Administração, sem prejuízo de outros que lhe sejam assegurados:",
             "options": [
               "Expor os fatos conforme a verdade.",
               "Formular alegações e apresentar documentos antes da decisão, os quais serão objeto de consideração pelo órgão competente.",
@@ -5204,7 +5204,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3809918-298",
             "chapter": "disposicoes-gerais-direitos-e-deveres-do-administrado-arts-1º-a-4º-da-lei-nº-97841999",
             "topic": "Disposições Gerais, Direitos e Deveres do Administrado (arts. 1º a 4º da Lei nº 9.784/1999)",
-            "question": "No que se refere às disposições presentes na Lei n&ordm; 9.784/1999, assinale a alternativa que indique corretamente um dos direitos do administrado.",
+            "question": "No que se refere às disposições presentes na Lei nº 9.784/1999, assinale a alternativa que indique corretamente um dos direitos do administrado.",
             "options": [
               "Expor os fatos conforme a verdade.",
               "Proceder com lealdade, urbanidade e boa-fé.",
@@ -5217,13 +5217,13 @@ export const SUBJECTS: Subject[] = [
             "id": "2987220-299",
             "chapter": "disposicoes-gerais-direitos-e-deveres-do-administrado-arts-1º-a-4º-da-lei-nº-97841999",
             "topic": "Disposições Gerais, Direitos e Deveres do Administrado (arts. 1º a 4º da Lei nº 9.784/1999)",
-            "question": "No direito, o processo pode ser definido como &#x201c;uma relação jurídica destinada a compor um litígio mediante a observ&acirc;ncia necessária de um procedimento caracterizado pelo respeito ao contraditório e à ampla defesa (e outras garantias daí decorrentes). Portanto, o processo é uma solução jurídica para a composição de conflitos de interesses.&#x201d; (JUSTEN FILHO, Marçal. Curso de Direito Administrativo . 14&ordf; ed. Rio de Janeiro: Editora Forense, 2023, p.213). Sobre o processo administrativo, é correto afirmar que",
+            "question": "No direito, o processo pode ser definido como “uma relação jurídica destinada a compor um litígio mediante a observância necessária de um procedimento caracterizado pelo respeito ao contraditório e à ampla defesa (e outras garantias daí decorrentes). Portanto, o processo é uma solução jurídica para a composição de conflitos de interesses.” (JUSTEN FILHO, Marçal. Curso de Direito Administrativo . 14ª ed. Rio de Janeiro: Editora Forense, 2023, p.213). Sobre o processo administrativo, é correto afirmar que",
             "options": [
               "a comprovada complexidade da apuração dos fatos caracteriza infração ao princípio da celeridade processual.",
-              "a exigência constitucional do devido processo legal é incompatível com a adoção da arbitragem e da mediação no &acirc;mbito administrativo.",
+              "a exigência constitucional do devido processo legal é incompatível com a adoção da arbitragem e da mediação no âmbito administrativo.",
               "a comprovada ausência de condições materiais para promover os atos processuais não justifica a delonga da decisão administrativa.",
               "a violação às garantias inerentes ao devido processo legal suscita a invalidade da atividade administrativa.",
-              "os atos praticados no &acirc;mbito do processo administrativo dependem da provocação dos interessados."
+              "os atos praticados no âmbito do processo administrativo dependem da provocação dos interessados."
             ],
             "correctIndex": 3
           },
@@ -5231,7 +5231,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3276417-300",
             "chapter": "disposicoes-gerais-direitos-e-deveres-do-administrado-arts-1º-a-4º-da-lei-nº-97841999",
             "topic": "Disposições Gerais, Direitos e Deveres do Administrado (arts. 1º a 4º da Lei nº 9.784/1999)",
-            "question": "No &acirc;mbito da Lei n&ordm; 9.784/1999, que traz disposições sobre o processo administrativo, a motivação, a proporcionalidade e a segurança jurídica são consideradas",
+            "question": "No âmbito da Lei nº 9.784/1999, que traz disposições sobre o processo administrativo, a motivação, a proporcionalidade e a segurança jurídica são consideradas",
             "options": [
               "princípios da Administração Pública.",
               "condições dos atos da Administração Pública.",
@@ -5253,7 +5253,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4063186-389",
             "chapter": "disposicoes-setoriais-compras-servicos-arts-40-a-52-da-lei-nº-141332021",
             "topic": "Disposições Setoriais, Compras, Serviços (arts. 40 a 52 da Lei nº 14.133/2021)",
-            "question": "Considere que uma entidade pública federal está no processo de contratação de serviços de engenharia especializados, conforme estabelecido pela Lei Federal n&ordm; 14.133/2021. Durante a fase de planejamento da licitação, foi determinada a necessidade de segmentação do objeto em lotes para ampliar a competitividade. Contudo, o gestor do contrato deve assegurar a observ&acirc;ncia das diretrizes para a realização do certame, especialmente aquelas relativas à divisão em lotes. Assim, identifique a ação que deve ser executada para estar em conformidade com a legislação vigente:",
+            "question": "Considere que uma entidade pública federal está no processo de contratação de serviços de engenharia especializados, conforme estabelecido pela Lei Federal nº 14.133/2021. Durante a fase de planejamento da licitação, foi determinada a necessidade de segmentação do objeto em lotes para ampliar a competitividade. Contudo, o gestor do contrato deve assegurar a observância das diretrizes para a realização do certame, especialmente aquelas relativas à divisão em lotes. Assim, identifique a ação que deve ser executada para estar em conformidade com a legislação vigente:",
             "options": [
               "Exigir garantia de proposta para todos os lotes independentemente do valor estimado.",
               "Proibir a participação de empresas em mais de um lote.",
@@ -5276,7 +5276,7 @@ export const SUBJECTS: Subject[] = [
             "topic": "Do Acesso a Informações e da sua Divulgação (arts. 6º a 9º da Lei nº 12.527/2011)",
             "question": "Com o objetivo de fortalecer a transparência institucional, uma Assembleia Legislativa ampliou a disponibilização de bases de dados relacionadas à atividade parlamentar, execução orçamentária, contratos administrativos e indicadores de desempenho. Durante a implementação da iniciativa, a equipe responsável pela governança da informação avaliou mecanismos para ampliar o acesso da sociedade aos dados públicos sem depender exclusivamente de solicitações formais encaminhadas pelos cidadãos. O projeto buscava atender às exigências legais de publicidade e facilitar o controle social das atividades desempenhadas pelo Poder Legislativo. Assinale a alternativa que apresenta uma interpretação tecnicamente adequada acerca do conceito de transparência ativa previsto na Lei de Acesso à Informação.",
             "options": [
-              "A transparência ativa consiste na divulgação espont&acirc;nea de informações de interesse coletivo ou geral pelos órgãos públicos, independentemente de solicitação prévia dos cidadãos.",
+              "A transparência ativa consiste na divulgação espontânea de informações de interesse coletivo ou geral pelos órgãos públicos, independentemente de solicitação prévia dos cidadãos.",
               "A transparência ativa corresponde ao fornecimento de informações exclusivamente após o recebimento de requerimentos formais apresentados pelos interessados.",
               "A transparência ativa restringe-se à publicação de atos normativos e decisões administrativas, não abrangendo dados estatísticos ou indicadores institucionais.",
               "A transparência ativa depende da classificação prévia das informações como sigilosas, permitindo posterior divulgação mediante autorização administrativa específica.",
@@ -5288,7 +5288,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4153028-472",
             "chapter": "do-acesso-a-informacoes-e-da-sua-divulgacao-arts-6º-a-9º-da-lei-nº-125272011",
             "topic": "Do Acesso a Informações e da sua Divulgação (arts. 6º a 9º da Lei nº 12.527/2011)",
-            "question": "No regime da Lei de Acesso à Informação (Lei n&ordm; 12.527/2011), um órgão do Poder Legislativo estadual mantém em seu portal, por iniciativa própria e independentemente de solicitação, dados sobre despesas, contratos e diárias; além disso, responde a pedidos específicos formulados por qualquer interessado. Essas duas formas de garantir o acesso correspondem, respectivamente, à transparência:",
+            "question": "No regime da Lei de Acesso à Informação (Lei nº 12.527/2011), um órgão do Poder Legislativo estadual mantém em seu portal, por iniciativa própria e independentemente de solicitação, dados sobre despesas, contratos e diárias; além disso, responde a pedidos específicos formulados por qualquer interessado. Essas duas formas de garantir o acesso correspondem, respectivamente, à transparência:",
             "options": [
               "Ativa e passiva.",
               "Passiva e ativa.",
@@ -5302,13 +5302,13 @@ export const SUBJECTS: Subject[] = [
             "id": "4153258-473",
             "chapter": "do-acesso-a-informacoes-e-da-sua-divulgacao-arts-6º-a-9º-da-lei-nº-125272011",
             "topic": "Do Acesso a Informações e da sua Divulgação (arts. 6º a 9º da Lei nº 12.527/2011)",
-            "question": "Com o objetivo de ampliar a transparência da gestão pública, a Assembleia Legislativa passou a divulgar periodicamente informações sobre despesas, contratos, convênios e indicadores institucionais em portal eletrônico de acesso público. Paralelamente, mantém estrutura destinada ao processamento de solicitações formuladas por cidadãos que desejam obter informações não disponibilizadas previamente. &Agrave; luz dos mecanismos previstos na legislação de acesso à informação, é correto afirmar que:",
+            "question": "Com o objetivo de ampliar a transparência da gestão pública, a Assembleia Legislativa passou a divulgar periodicamente informações sobre despesas, contratos, convênios e indicadores institucionais em portal eletrônico de acesso público. Paralelamente, mantém estrutura destinada ao processamento de solicitações formuladas por cidadãos que desejam obter informações não disponibilizadas previamente. À luz dos mecanismos previstos na legislação de acesso à informação, é correto afirmar que:",
             "options": [
               "A classificação entre transparência ativa e passiva depende da existência de obrigação legal específica para divulgação da informação.",
               "Ambas as iniciativas constituem modalidades de transparência passiva, pois dependem da disponibilização de informações ao público.",
               "A divulgação periódica das informações caracteriza transparência ativa, enquanto o atendimento às solicitações dos cidadãos caracteriza transparência passiva.",
               "A distinção entre transparência ativa e passiva decorre da natureza da informação divulgada e não do modo pelo qual ela é disponibilizada.",
-              "O atendimento aos pedidos de acesso caracteriza transparência ativa, enquanto a divulgação espont&acirc;nea de informações caracteriza transparência institucional."
+              "O atendimento aos pedidos de acesso caracteriza transparência ativa, enquanto a divulgação espontânea de informações caracteriza transparência institucional."
             ],
             "correctIndex": 2
           },
@@ -5316,7 +5316,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4153366-474",
             "chapter": "do-acesso-a-informacoes-e-da-sua-divulgacao-arts-6º-a-9º-da-lei-nº-125272011",
             "topic": "Do Acesso a Informações e da sua Divulgação (arts. 6º a 9º da Lei nº 12.527/2011)",
-            "question": "No exercício de suas atribuições em uma Casa Legislativa, o servidor público, ao gerenciar a arquitetura de informação e a disponibilização de dados em sítios oficiais de Internet, deve observar os requisitos técnicos de transparência ativa. Segundo as disposições da Lei n&ordm; 12.527/2011, os websites devem",
+            "question": "No exercício de suas atribuições em uma Casa Legislativa, o servidor público, ao gerenciar a arquitetura de informação e a disponibilização de dados em sítios oficiais de Internet, deve observar os requisitos técnicos de transparência ativa. Segundo as disposições da Lei nº 12.527/2011, os websites devem",
             "options": [
               "condicionar o acesso às informações de interesse coletivo à indicação, pelo requerente, dos motivos determinantes da solicitação.",
               "possibilitar a gravação de relatórios em diversos formatos eletrônicos, inclusive abertos e não proprietários, de modo a facilitar a análise das informações.",
@@ -5330,13 +5330,13 @@ export const SUBJECTS: Subject[] = [
             "id": "4155184-475",
             "chapter": "do-acesso-a-informacoes-e-da-sua-divulgacao-arts-6º-a-9º-da-lei-nº-125272011",
             "topic": "Do Acesso a Informações e da sua Divulgação (arts. 6º a 9º da Lei nº 12.527/2011)",
-            "question": "A Lei n&ordm; 12.527/2011 que regulamenta o direito constitucional de acesso às informações públicas é também aplicada às entidades privada sem fins lucrativos. Elas são obrigadas a:",
+            "question": "A Lei nº 12.527/2011 que regulamenta o direito constitucional de acesso às informações públicas é também aplicada às entidades privada sem fins lucrativos. Elas são obrigadas a:",
             "options": [
               "publicar informações referentes ao recebimento e à destinação dos recursos públicos.",
               "manter o CEBAS para garantir a imunidade tributária e as isenções obrigatórias.",
               "evitar a cassação de entidade sem fins lucrativos, mantendo os cadastros atualizados.",
               "cumprir rigorosamente com as contrapartidas propostas e inerentes à área de atuação.",
-              "manter o estatuto social da entidade alinhado com as exigências da Lei Complementar n&ordm; 187/2021."
+              "manter o estatuto social da entidade alinhado com as exigências da Lei Complementar nº 187/2021."
             ],
             "correctIndex": 0
           },
@@ -5344,7 +5344,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3333327-476",
             "chapter": "do-acesso-a-informacoes-e-da-sua-divulgacao-arts-6º-a-9º-da-lei-nº-125272011",
             "topic": "Do Acesso a Informações e da sua Divulgação (arts. 6º a 9º da Lei nº 12.527/2011)",
-            "question": "A Lei Federal n&ordm; 12.527/2011 preceitua que as informações referentes à atividade do Estado são públicas, exceto aquelas expressas na legislação. Contudo, o acesso à informação não compreende",
+            "question": "A Lei Federal nº 12.527/2011 preceitua que as informações referentes à atividade do Estado são públicas, exceto aquelas expressas na legislação. Contudo, o acesso à informação não compreende",
             "options": [
               "informações ou documentos que versem sobre condutas que impliquem violação dos direitos humanos praticada por agentes públicos.",
               "projetos de pesquisa e desenvolvimento científicos ou tecnológicos cujo sigilo seja imprescindível à segurança da sociedade e do Estado.",
@@ -5357,7 +5357,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3611882-478",
             "chapter": "do-acesso-a-informacoes-e-da-sua-divulgacao-arts-6º-a-9º-da-lei-nº-125272011",
             "topic": "Do Acesso a Informações e da sua Divulgação (arts. 6º a 9º da Lei nº 12.527/2011)",
-            "question": "Define a Lei Federal n&ordm; 12.527, de 18/11/2011, que dispõe sobre os procedimentos a serem observados pela União, Estados, Distrito Federal e Municípios, com o fim de garantir o acesso a informações previsto no inciso XXXIII do art. 5&ordm; , no inciso II do &sect; 3&ordm; do art. 37 e no &sect; 2&ordm; do art. 216 da Constituição Federal, que o acesso à informação de que trata a Lei compreende, entre outros, os direitos de obter:",
+            "question": "Define a Lei Federal nº 12.527, de 18/11/2011, que dispõe sobre os procedimentos a serem observados pela União, Estados, Distrito Federal e Municípios, com o fim de garantir o acesso a informações previsto no inciso XXXIII do art. 5º , no inciso II do § 3º do art. 37 e no § 2º do art. 216 da Constituição Federal, que o acesso à informação de que trata a Lei compreende, entre outros, os direitos de obter:",
             "options": [
               "informação pertinente à administração do patrimônio alheio, utilização de recursos financeiros, licitação e contratos de trabalho.",
               "informação produzida ou custodiada por pessoa física ou entidade privada decorrente de qualquer vínculo com seus órgãos ou entidades, mesmo que esse vínculo já tenha cessado.",
@@ -5371,13 +5371,13 @@ export const SUBJECTS: Subject[] = [
             "id": "3615796-479",
             "chapter": "do-acesso-a-informacoes-e-da-sua-divulgacao-arts-6º-a-9º-da-lei-nº-125272011",
             "topic": "Do Acesso a Informações e da sua Divulgação (arts. 6º a 9º da Lei nº 12.527/2011)",
-            "question": "Define a Lei Federal n&ordm; 12.527, de 18/11/2011, que dispõe sobre os procedimentos a serem observados pela União, Estados, Distrito Federal e Municípios, com o fim de garantir o acesso a informações, que é dever dos órgãos e entidades públicas promover, independentemente de requerimentos, a divulgação em local de fácil acesso, no &acirc;mbito de suas competências, de informações de interesse coletivo ou geral por eles produzidas ou custodiadas. Na divulgação das informações a que se refere o trecho anterior, deverão constar, no mínimo:",
+            "question": "Define a Lei Federal nº 12.527, de 18/11/2011, que dispõe sobre os procedimentos a serem observados pela União, Estados, Distrito Federal e Municípios, com o fim de garantir o acesso a informações, que é dever dos órgãos e entidades públicas promover, independentemente de requerimentos, a divulgação em local de fácil acesso, no âmbito de suas competências, de informações de interesse coletivo ou geral por eles produzidas ou custodiadas. Na divulgação das informações a que se refere o trecho anterior, deverão constar, no mínimo:",
             "options": [
-              "indicar local e instruções que permitam ao interessado comunicar-se, por via eletrônica ou telefônica, com o órgão ou entidade detentora do sítio; dentre outras disposições contidas no art. 8&ordm;, &sect;1&ordm; da própria lei.",
-              "dados gerais para o acompanhamento de programas, ações, projetos e obras de órgãos e entidades; dentre outras disposições contidas no art. 8&ordm;, &sect;1&ordm; da própria lei.",
-              "possibilitar a gravação de relatórios em PDF, inclusive abertos e não proprietários, tais como planilhas e texto, de modo a padronizar a análise das informações; dentre outras disposições contidas no art. 8&ordm;, &sect;1&ordm; da própria lei.",
-              "informações relativas resultadas de inspeções, auditorias, prestações e tomadas de contas realizadas pelos órgãos de controle interno e externo, excetuando-se as prestações de contas relativas a exercícios anteriores; dentre outras disposições contidas no art. 8&ordm;, &sect;1&ordm; da própria lei.",
-              "informações concernentes a procedimentos licitatórios, inclusive os respectivos editais e resultados, bem como a todos os contratos celebrados, ressalvados os valores; dentre outras disposições contidas no art. 8&ordm;, &sect;1&ordm; da própria lei."
+              "indicar local e instruções que permitam ao interessado comunicar-se, por via eletrônica ou telefônica, com o órgão ou entidade detentora do sítio; dentre outras disposições contidas no art. 8º, §1º da própria lei.",
+              "dados gerais para o acompanhamento de programas, ações, projetos e obras de órgãos e entidades; dentre outras disposições contidas no art. 8º, §1º da própria lei.",
+              "possibilitar a gravação de relatórios em PDF, inclusive abertos e não proprietários, tais como planilhas e texto, de modo a padronizar a análise das informações; dentre outras disposições contidas no art. 8º, §1º da própria lei.",
+              "informações relativas resultadas de inspeções, auditorias, prestações e tomadas de contas realizadas pelos órgãos de controle interno e externo, excetuando-se as prestações de contas relativas a exercícios anteriores; dentre outras disposições contidas no art. 8º, §1º da própria lei.",
+              "informações concernentes a procedimentos licitatórios, inclusive os respectivos editais e resultados, bem como a todos os contratos celebrados, ressalvados os valores; dentre outras disposições contidas no art. 8º, §1º da própria lei."
             ],
             "correctIndex": 1
           },
@@ -5385,11 +5385,11 @@ export const SUBJECTS: Subject[] = [
             "id": "3275424-480",
             "chapter": "do-acesso-a-informacoes-e-da-sua-divulgacao-arts-6º-a-9º-da-lei-nº-125272011",
             "topic": "Do Acesso a Informações e da sua Divulgação (arts. 6º a 9º da Lei nº 12.527/2011)",
-            "question": "Considerando as disposições da Lei n&ordm; 12.527/2011, que assegura o direito fundamental de acesso à informação, marque a alternativa correta.",
+            "question": "Considerando as disposições da Lei nº 12.527/2011, que assegura o direito fundamental de acesso à informação, marque a alternativa correta.",
             "options": [
               "Quando não for autorizado acesso integral à informação por ser ela parcialmente sigilosa, é assegurado o acesso à parte não sigilosa por meio de certidão, extrato ou cópia com ocultação da parte sob sigilo.",
               "Fundamentada ou não, a negativa de acesso às informações objeto de pedido formulado aos órgãos e entidades públicas sujeitará o responsável a medidas disciplinares.",
-              "&Agrave; Administração Pública é vedado o fornecimento de informação pessoal em formato digital.",
+              "À Administração Pública é vedado o fornecimento de informação pessoal em formato digital.",
               "O responsável pela guarda de informações de interesse público deve impor exigências acerca dos motivos determinantes da solicitação do interessado.",
               "O responsável pela guarda de qualquer informação extraviada deverá, no prazo máximo de 48 (quarenta e oito) horas, justificar o fato e indicar testemunhas que comprovem sua alegação. 10"
             ],
@@ -5407,7 +5407,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3611870-280",
             "chapter": "do-procedimento-administrativo-e-do-processo-judicial-arts-14-a-18-a-da-lei-nº-84291992",
             "topic": "Do Procedimento Administrativo e do Processo Judicial (arts. 14 a 18-A da Lei nº 8.429/1992)",
-            "question": "Quanto ao Procedimento Administrativo e do Processo Judicial previstos na Lei Federal n&ordm; 8.429, de 02/06/1992, que dispõe sobre as sanções aplicáveis em virtude da prática de atos de improbidade administrativa, de que trata o &sect; 4&ordm; do art. 37 da Constituição Federal; e dá outras providências:",
+            "question": "Quanto ao Procedimento Administrativo e do Processo Judicial previstos na Lei Federal nº 8.429, de 02/06/1992, que dispõe sobre as sanções aplicáveis em virtude da prática de atos de improbidade administrativa, de que trata o § 4º do art. 37 da Constituição Federal; e dá outras providências:",
             "options": [
               "É vedada a decretação de indisponibilidade da quantia de até 60 (sessenta) salários mínimos depositados em caderneta de poupança, em outras aplicações financeiras ou em conta corrente.",
               "A comissão processante dará conhecimento ao Ministério Público da União e ao Tribunal ou Conselho de Contas da existência de procedimento administrativo para apurar a prática de ato de improbidade.",
@@ -5421,13 +5421,13 @@ export const SUBJECTS: Subject[] = [
             "id": "3616536-281",
             "chapter": "do-procedimento-administrativo-e-do-processo-judicial-arts-14-a-18-a-da-lei-nº-84291992",
             "topic": "Do Procedimento Administrativo e do Processo Judicial (arts. 14 a 18-A da Lei nº 8.429/1992)",
-            "question": "Quanto ao Procedimento Administrativo e do Processo Judicial previstos na Lei Federal n&ordm; 8.429, de 02/06/1992, que dispõe sobre as sanções aplicáveis em virtude da prática de atos de improbidade administrativa, marque a alternativa correta .",
+            "question": "Quanto ao Procedimento Administrativo e do Processo Judicial previstos na Lei Federal nº 8.429, de 02/06/1992, que dispõe sobre as sanções aplicáveis em virtude da prática de atos de improbidade administrativa, marque a alternativa correta .",
             "options": [
               "Será anulável a decisão de mérito total ou parcial da ação de improbidade administrativa que condenar o requerido por tipo diverso daquele definido na petição inicial.",
               "Da decisão que converter a ação de improbidade em ação civil pública caberá embargos de declaração.",
               "A assessoria jurídica que emitiu o parecer atestando a legalidade prévia dos atos administrativos praticados pelo administrador público não se obriga a defendê-lo judicialmente.",
               "Da decisão que deferir ou indeferir a medida relativa à indisponibilidade de bens caberá recurso em sentido estrito, nos termos do Código de Processo Penal vigente.",
-              "Para cada ato de improbidade administrativa, deverá necessariamente ser indicado apenas um tipo dentre aqueles previstos nos arts. 9&ordm;, 10 e 11 da própria Lei."
+              "Para cada ato de improbidade administrativa, deverá necessariamente ser indicado apenas um tipo dentre aqueles previstos nos arts. 9º, 10 e 11 da própria Lei."
             ],
             "correctIndex": 4
           },
@@ -5435,10 +5435,10 @@ export const SUBJECTS: Subject[] = [
             "id": "3810068-282",
             "chapter": "do-procedimento-administrativo-e-do-processo-judicial-arts-14-a-18-a-da-lei-nº-84291992",
             "topic": "Do Procedimento Administrativo e do Processo Judicial (arts. 14 a 18-A da Lei nº 8.429/1992)",
-            "question": "O sistema de responsabilização por atos de improbidade administrativa tutelará a probidade na organização do Estado e no exercício de suas funções, como forma de assegurar a integridade do patrimônio público e social, nos termos da Lei Federal n&ordm; 8429/92, de modo que qualquer pessoa poderá representar à autoridade administrativa competente para que seja instaurada investigação destinada a apurar a prática de ato de improbidade, assunto sobre o qual podemos destacar, corretamente, apenas o contido em:",
+            "question": "O sistema de responsabilização por atos de improbidade administrativa tutelará a probidade na organização do Estado e no exercício de suas funções, como forma de assegurar a integridade do patrimônio público e social, nos termos da Lei Federal nº 8429/92, de modo que qualquer pessoa poderá representar à autoridade administrativa competente para que seja instaurada investigação destinada a apurar a prática de ato de improbidade, assunto sobre o qual podemos destacar, corretamente, apenas o contido em:",
             "options": [
-              "A indisponibilidade de bens só poderá ser decretada após a oitiva prévia do réu, fazendo jus ao contraditório prévio que puder comprovadamente frustrar a efetividade da medida ou houver outras circunst&acirc;ncias que recomendem a proteção liminar, não podendo a urgência ser presumida.",
-              "Da decisão que deferir ou indeferir a medida relativa à indisponibilidade de bens caberá recurso em sentido estrito, nos termos da Lei Federal n&ordm; 13.105, de 16 de março de 2015 (Código de Processo Civil).",
+              "A indisponibilidade de bens só poderá ser decretada após a oitiva prévia do réu, fazendo jus ao contraditório prévio que puder comprovadamente frustrar a efetividade da medida ou houver outras circunstâncias que recomendem a proteção liminar, não podendo a urgência ser presumida.",
+              "Da decisão que deferir ou indeferir a medida relativa à indisponibilidade de bens caberá recurso em sentido estrito, nos termos da Lei Federal nº 13.105, de 16 de março de 2015 (Código de Processo Civil).",
               "Na ação por improbidade administrativa poderá ser formulado, em caráter antecedente ou incidente, pedido de indisponibilidade de bens dos réus, a fim de garantir a integral recomposição do erário ou do acréscimo patrimonial resultante de enriquecimento ilícito.",
               "O pedido de indisponibilidade de bens apenas será deferido mediante a demonstração no caso concreto de perigo de dano irreparável ou de risco ao resultado útil do processo, desde que o juiz se convença da probabilidade da ocorrência dos atos descritos na petição inicial com fundamento nos respectivos elementos de instrução, após a oitiva do réu em 5 (cinco) dias úteis."
             ],
@@ -5448,7 +5448,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4039108-283",
             "chapter": "do-procedimento-administrativo-e-do-processo-judicial-arts-14-a-18-a-da-lei-nº-84291992",
             "topic": "Do Procedimento Administrativo e do Processo Judicial (arts. 14 a 18-A da Lei nº 8.429/1992)",
-            "question": "Considerando as disposições inerentes ao processo administrativo e do processo judicial presentes na Lei n&deg; 8.429/92, indique a alternativa correta .",
+            "question": "Considerando as disposições inerentes ao processo administrativo e do processo judicial presentes na Lei n° 8.429/92, indique a alternativa correta .",
             "options": [
               "A representação, que será escrita, dispensa a qualificação do representante, porém é obrigatória a presença das informações sobre o fato e sua autoria e a indicação das provas de que tenha conhecimento.",
               "Atendidos os requisitos da representação, a autoridade determinará a apuração dos fatos no prazo máximo de 180 (cento e oitenta) dias, observada a legislação que regula o processo administrativo disciplinar aplicável ao agente.",
@@ -5462,7 +5462,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827625-284",
             "chapter": "do-procedimento-administrativo-e-do-processo-judicial-arts-14-a-18-a-da-lei-nº-84291992",
             "topic": "Do Procedimento Administrativo e do Processo Judicial (arts. 14 a 18-A da Lei nº 8.429/1992)",
-            "question": "Acerca do tema &#x201c;Do Procedimento Administrativo e do Processo Judicial&#x201d; abordado pela Lei n.&ordm; 8.429/1992, é correto afirmar que",
+            "question": "Acerca do tema “Do Procedimento Administrativo e do Processo Judicial” abordado pela Lei n.º 8.429/1992, é correto afirmar que",
             "options": [
               "na ação por improbidade administrativa é vedado o pedido de indisponibilidade de bens dos réus, a fim de garantir a integral recomposição do erário ou do acréscimo patrimonial resultante de enriquecimento ilícito, em caráter antecedente ou incidente.",
               "o Ministério Público ou Tribunal ou Conselho de Contas poderá, a requerimento, designar representante para acompanhar o procedimento administrativo.",
@@ -5481,7 +5481,7 @@ export const SUBJECTS: Subject[] = [
               "O pedido de indisponibilidade de bens somente poderá ser formulado mediante representação ao Ministério Público.",
               "Em nenhuma hipótese o pedido de indisponibilidade de bens incluirá a investigação, o exame e o bloqueio de bens, contas bancárias e aplicações financeiras mantidas pelo indiciado no exterior.",
               "O pedido de indisponibilidade de bens será deferido independentemente da demonstração no caso concreto de perigo de dano irreparável ou de risco ao resultado útil do processo.",
-              "A indisponibilidade de bens não poderá ser decretada sem a oitiva prévia do réu, mesmo que o contraditório prévio puder comprovadamente frustrar a efetividade da medida ou houver outras circunst&acirc;ncias que recomendem a proteção liminar, podendo a urgência ser presumida.",
+              "A indisponibilidade de bens não poderá ser decretada sem a oitiva prévia do réu, mesmo que o contraditório prévio puder comprovadamente frustrar a efetividade da medida ou houver outras circunstâncias que recomendem a proteção liminar, podendo a urgência ser presumida.",
               "É vedada a decretação de indisponibilidade da quantia de até 40 (quarenta) salários mínimos depositados em caderneta de poupança, em outras aplicações financeiras ou em conta-corrente."
             ],
             "correctIndex": 4
@@ -5490,11 +5490,11 @@ export const SUBJECTS: Subject[] = [
             "id": "3276646-286",
             "chapter": "do-procedimento-administrativo-e-do-processo-judicial-arts-14-a-18-a-da-lei-nº-84291992",
             "topic": "Do Procedimento Administrativo e do Processo Judicial (arts. 14 a 18-A da Lei nº 8.429/1992)",
-            "question": "Levando em consideração as disposições inerentes à Lei n&ordm; 8.429/1.992, que dispõe sobre as sanções aplicáveis em virtude da prática de improbidade administrativa, analise e assinale a alternativa correta acerca do procedimento administrativo e do processo judicial.",
+            "question": "Levando em consideração as disposições inerentes à Lei nº 8.429/1.992, que dispõe sobre as sanções aplicáveis em virtude da prática de improbidade administrativa, analise e assinale a alternativa correta acerca do procedimento administrativo e do processo judicial.",
             "options": [
               "O pedido de indisponibilidade de bens, nas ações de improbidade, será deferido mediante a demonstração de perigo de dano irreparável ou de risco ao resultado útil do processo, desde que o juiz se convença da probabilidade da ocorrência dos atos descritos na petição inicial com fundamento nos respectivos elementos de instrução, após a oitiva do réu em 10 (dez) dias.",
               "Na ação por improbidade administrativa deverá ser formulado, em caráter antecedente ou incidente, pedido de indisponibilidade de bens dos réus, a fim de garantir a integral recomposição do erário ou do acréscimo patrimonial resultante de enriquecimento ilícito.",
-              "&Agrave; comissão processante, se assim entender, é facultado dar conhecimento ao Ministério Público e ao Tribunal ou Conselho de Contas da existência de procedimento administrativo para apurar a prática de ato de improbidade.",
+              "À comissão processante, se assim entender, é facultado dar conhecimento ao Ministério Público e ao Tribunal ou Conselho de Contas da existência de procedimento administrativo para apurar a prática de ato de improbidade.",
               "Se houver mais de um réu na ação, a somatória dos valores declarados indisponíveis poderá superar o montante indicado na petição inicial como dano ao erário ou como enriquecimento ilícito.",
               "Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibildade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível."
             ],
@@ -5512,7 +5512,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3889212-481",
             "chapter": "do-procedimento-de-acesso-à-informacao-arts-10-a-20-da-lei-nº-125272011",
             "topic": "Do Procedimento de Acesso à Informação (arts. 10 a 20 da Lei nº 12.527/2011)",
-            "question": "Nos termos da Lei n&ordm; 12.527/2011, no que se refere à legitimidade para requerer acesso à informação, é correto afirmar que:",
+            "question": "Nos termos da Lei nº 12.527/2011, no que se refere à legitimidade para requerer acesso à informação, é correto afirmar que:",
             "options": [
               "Apenas cidadãos brasileiros maiores de dezoito anos podem formular pedido de acesso à informação.",
               "Qualquer pessoa, natural ou jurídica, pode formular pedido de acesso à informação aos órgãos e entidades públicas, independentemente de motivação.",
@@ -5526,7 +5526,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3889217-482",
             "chapter": "do-procedimento-de-acesso-à-informacao-arts-10-a-20-da-lei-nº-125272011",
             "topic": "Do Procedimento de Acesso à Informação (arts. 10 a 20 da Lei nº 12.527/2011)",
-            "question": "De acordo com a Lei n&ordm; 12.527/2011, quanto aos prazos para resposta aos pedidos de acesso à informação, é correto afirmar que:",
+            "question": "De acordo com a Lei nº 12.527/2011, quanto aos prazos para resposta aos pedidos de acesso à informação, é correto afirmar que:",
             "options": [
               "O prazo para resposta ao pedido de acesso à informação é de até trinta dias, improrrogável.",
               "A lei assegura prazo mínimo de sessenta dias para que o órgão público se manifeste sobre o pedido.",
@@ -5540,7 +5540,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4154817-483",
             "chapter": "do-procedimento-de-acesso-à-informacao-arts-10-a-20-da-lei-nº-125272011",
             "topic": "Do Procedimento de Acesso à Informação (arts. 10 a 20 da Lei nº 12.527/2011)",
-            "question": "Durante a análise de requerimento de acesso à informação apresentado a órgão integrante da Administração Pública, discutiram-se a forma legalmente admitida para apresentação do pedido e os requisitos mínimos exigidos pela Lei de Acesso à Informação. &Agrave; luz da Lei n&ordm; 12.527/2011, indique a opção correta.",
+            "question": "Durante a análise de requerimento de acesso à informação apresentado a órgão integrante da Administração Pública, discutiram-se a forma legalmente admitida para apresentação do pedido e os requisitos mínimos exigidos pela Lei de Acesso à Informação. À luz da Lei nº 12.527/2011, indique a opção correta.",
             "options": [
               "O pedido de acesso à informação deverá ser formulado exclusivamente por meio eletrônico.",
               "O pedido de acesso à informação dependerá da demonstração do motivo determinante do requerimento.",
@@ -5554,7 +5554,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3616525-484",
             "chapter": "do-procedimento-de-acesso-à-informacao-arts-10-a-20-da-lei-nº-125272011",
             "topic": "Do Procedimento de Acesso à Informação (arts. 10 a 20 da Lei nº 12.527/2011)",
-            "question": "Define a Lei Federal n&ordm; 12.527, de 18/11/2011, que dispõe sobre os procedimentos a serem observados pela União, Estados, Distrito Federal e Municípios, com o fim de garantir o acesso a informações, que no caso de indeferimento de acesso a informações ou às razões da negativa do acesso, poderá o interessado interpor recurso contra a decisão, observadas as regras da própria lei, pelo que podemos apontar corretamente apenas o arrazoado em:",
+            "question": "Define a Lei Federal nº 12.527, de 18/11/2011, que dispõe sobre os procedimentos a serem observados pela União, Estados, Distrito Federal e Municípios, com o fim de garantir o acesso a informações, que no caso de indeferimento de acesso a informações ou às razões da negativa do acesso, poderá o interessado interpor recurso contra a decisão, observadas as regras da própria lei, pelo que podemos apontar corretamente apenas o arrazoado em:",
             "options": [
               "Negado o acesso à informação pelos órgãos ou entidades do Poder Executivo Federal, o requerente poderá recorrer à Controladoria-Geral da União, que deliberará no prazo de 10 (dias).",
               "Verificada a procedência das razões do recurso, a Controladoria-Geral da União recomendará ao órgão ou entidade que adote as providências necessárias para dar cumprimento ao disposto na própria Lei.",
@@ -5568,7 +5568,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3695213-485",
             "chapter": "do-procedimento-de-acesso-à-informacao-arts-10-a-20-da-lei-nº-125272011",
             "topic": "Do Procedimento de Acesso à Informação (arts. 10 a 20 da Lei nº 12.527/2011)",
-            "question": "Ao solicitar informações a um órgão público, um cidadão deve seguir as diretrizes estabelecidas pela Lei de Acesso à Informação (Lei n&ordm; 12.527/2011), que regulamenta o direito constitucional de acesso a dados públicos. O procedimento de solicitação deve observar requisitos específicos, incluindo a forma de apresentação do pedido e as obrigações do órgão público no atendimento à solicitação. O pedido de acesso à informação deve conter:",
+            "question": "Ao solicitar informações a um órgão público, um cidadão deve seguir as diretrizes estabelecidas pela Lei de Acesso à Informação (Lei nº 12.527/2011), que regulamenta o direito constitucional de acesso a dados públicos. O procedimento de solicitação deve observar requisitos específicos, incluindo a forma de apresentação do pedido e as obrigações do órgão público no atendimento à solicitação. O pedido de acesso à informação deve conter:",
             "options": [
               "a indicação de um representante legal caso a informação solicitada seja de interesse coletivo.",
               "a fundamentação legal da solicitação e a comprovação de necessidade do dado requerido.",
@@ -5584,10 +5584,10 @@ export const SUBJECTS: Subject[] = [
             "topic": "Do Procedimento de Acesso à Informação (arts. 10 a 20 da Lei nº 12.527/2011)",
             "question": "Sobre a ética no serviço público, em especial quanto a transparência dos seus atos na esfera Federal, assinale a alternativa que indica qual é o órgão típico responsável por fiscalizar a transparência nas ações do governo e nos gastos públicos (garantindo o cumprimento da Lei de Acesso à Informação), bem como aponte, na sequência, o princípio de licitações para evitar práticas de favorecimento indevido:",
             "options": [
-              "Tribunal de Contas da União (TCU) &#x2013; Princípio da Legalidade.",
+              "Tribunal de Contas da União (TCU) – Princípio da Legalidade.",
               "Controladoria-Geral da União (CGU)- Princípio da Impessoalidade.",
-              "Ministério da Fazenda &#x2013; Princípio da Isonomia.",
-              "Advocacia-Geral da União (AGU) &#x2013; Princípio da Transparência."
+              "Ministério da Fazenda – Princípio da Isonomia.",
+              "Advocacia-Geral da União (AGU) – Princípio da Transparência."
             ],
             "correctIndex": 1
           },
@@ -5617,11 +5617,11 @@ export const SUBJECTS: Subject[] = [
             "id": "3726724-322",
             "chapter": "do-recurso-administrativo-e-da-revisao-arts-56-a-65-da-lei-nº-97841999",
             "topic": "Do Recurso Administrativo e da Revisão (arts. 56 a 65 da Lei nº 9.784/1999)",
-            "question": "Carlos Eduardo, servidor público federal, foi penalizado ao final de um processo administrativo disciplinar. Meses depois, surgiram documentos relevantes que poderiam alterar a análise da sanção aplicada, pois traziam informações que não estavam disponíveis durante o tr&acirc;mite do processo. Carlos Eduardo solicitou formalmente a revisão do processo administrativo com base nesses novos elementos. De acordo com a Lei n&ordm; 9.784/1999, assinale a alternativa correta.",
+            "question": "Carlos Eduardo, servidor público federal, foi penalizado ao final de um processo administrativo disciplinar. Meses depois, surgiram documentos relevantes que poderiam alterar a análise da sanção aplicada, pois traziam informações que não estavam disponíveis durante o trâmite do processo. Carlos Eduardo solicitou formalmente a revisão do processo administrativo com base nesses novos elementos. De acordo com a Lei nº 9.784/1999, assinale a alternativa correta.",
             "options": [
-              "Os processos administrativos que resultarem em sanção podem ser revistos a qualquer tempo, a pedido ou de ofício, desde que surgirem fatos novos ou circunst&acirc;ncias relevantes que justifiquem a inadequação da sanção, sendo vedado o agravamento da penalidade aplicada.",
+              "Os processos administrativos que resultarem em sanção podem ser revistos a qualquer tempo, a pedido ou de ofício, desde que surgirem fatos novos ou circunstâncias relevantes que justifiquem a inadequação da sanção, sendo vedado o agravamento da penalidade aplicada.",
               "A revisão do processo administrativo só pode ocorrer se requerida por Carlos Eduardo dentro do prazo de trinta dias contados da decisão definitiva.",
-              "A Administração Pública está impedida de revisar o processo administrativo após o tr&acirc;nsito em julgado da decisão no &acirc;mbito administrativo.",
+              "A Administração Pública está impedida de revisar o processo administrativo após o trânsito em julgado da decisão no âmbito administrativo.",
               "A revisão do processo administrativo só pode ocorrer quando solicitada pelo próprio servidor penalizado, não sendo admitida a abertura de revisão de ofício pela Administração.",
               "Caso a revisão do processo seja acolhida, é possível aumentar a penalidade inicialmente aplicada a Carlos Eduardo, desde que garantido o contraditório e a ampla defesa."
             ],
@@ -5631,11 +5631,11 @@ export const SUBJECTS: Subject[] = [
             "id": "3780559-323",
             "chapter": "do-recurso-administrativo-e-da-revisao-arts-56-a-65-da-lei-nº-97841999",
             "topic": "Do Recurso Administrativo e da Revisão (arts. 56 a 65 da Lei nº 9.784/1999)",
-            "question": "Ao tratarmos do recurso administrativo e da revisão no processo administrativo, à luz do que nos leciona a Lei n&ordm; 9.784/1.999, é possível afirmar que:",
+            "question": "Ao tratarmos do recurso administrativo e da revisão no processo administrativo, à luz do que nos leciona a Lei nº 9.784/1.999, é possível afirmar que:",
             "options": [
               "As organizações e associações representativas, no tocante a direitos e interesses coletivos não possuem legitimidade para interpor recurso administrativo.",
               "Salvo disposição legal específica, é de vinte dias o prazo para interposição de recurso administrativo, contado a partir da ciência ou divulgação oficial da decisão recorrida.",
-              "O recurso administrativo tramitará no máximo por três inst&acirc;ncias administrativas, salvo disposição legal diversa.",
+              "O recurso administrativo tramitará no máximo por três instâncias administrativas, salvo disposição legal diversa.",
               "Quando a lei não fixar prazo diferente, o recurso administrativo deverá ser decidido no prazo máximo de quarenta dias, a partir do recebimento dos autos pelo órgão competente."
             ],
             "correctIndex": 2
@@ -5644,7 +5644,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2903739-324",
             "chapter": "do-recurso-administrativo-e-da-revisao-arts-56-a-65-da-lei-nº-97841999",
             "topic": "Do Recurso Administrativo e da Revisão (arts. 56 a 65 da Lei nº 9.784/1999)",
-            "question": "De acordo com o Art. 56&ordm; da Lei Federal N&ordm; 9.784/1999, as decisões administrativas são passíveis de revisão mediante a manifestação de recurso, com fundamento em razões de legalidade e de mérito. Acerca de tal, tem-se que:",
+            "question": "De acordo com o Art. 56º da Lei Federal Nº 9.784/1999, as decisões administrativas são passíveis de revisão mediante a manifestação de recurso, com fundamento em razões de legalidade e de mérito. Acerca de tal, tem-se que:",
             "options": [
               "A interposição de recurso administrativo pressupõe o oferecimento de caução idônea pelo interessado.",
               "Salvo disposição legal específica, é de 15 (quinze) dias o prazo para interposição de recurso administrativo, contado a partir da ciência ou divulgação oficial da decisão recorrida.",
@@ -5665,11 +5665,11 @@ export const SUBJECTS: Subject[] = [
             "id": "3726858-327",
             "chapter": "do-ambito-de-aplicacao-arts-1º-a-4º-da-lei-nº-141332021",
             "topic": "Do Âmbito de Aplicação (arts. 1º a 4º da Lei nº 14.133/2021)",
-            "question": "A Lei N&ordm; 14.133 estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios. Nas licitações e contratações que envolvam recursos provenientes de empréstimo ou doação oriundos de agência oficial de cooperação estrangeira ou de organismo financeiro de que o Brasil seja parte, podem ser admitidas:",
+            "question": "A Lei Nº 14.133 estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios. Nas licitações e contratações que envolvam recursos provenientes de empréstimo ou doação oriundos de agência oficial de cooperação estrangeira ou de organismo financeiro de que o Brasil seja parte, podem ser admitidas:",
             "options": [
               "Condições peculiares à seleção e à contratação constantes de normas e procedimentos das agências ou dos organismos, desde que contratos que tenham por objeto operação de crédito, interno ou externo, e gestão de dívida pública, incluídas as contratações de agente financeiro tenham concessão de garantia relacionadas a esses contratos.",
               "Condições peculiares à seleção e à contratação constantes de normas e procedimentos das agências ou dos organismos, desde que os fundos especiais e as demais entidades controladas direta ou indiretamente sejam fiscalizados pela Administração Pública.",
-              "Condições peculiares à seleção e à contratação constantes de normas e procedimentos das agências ou dos organismos, desde que as contratações realizadas no &acirc;mbito das repartições públicas sediadas no exterior obedeçam às peculiaridades locais.",
+              "Condições peculiares à seleção e à contratação constantes de normas e procedimentos das agências ou dos organismos, desde que as contratações realizadas no âmbito das repartições públicas sediadas no exterior obedeçam às peculiaridades locais.",
               "Condições peculiares à seleção e à contratação constantes de normas e procedimentos das agências ou dos organismos, desde que haja concessão e permissão de uso de bens públicos.",
               "Condições peculiares à seleção e à contratação constantes de normas e procedimentos das agências ou dos organismos, desde que sejam indicadas no respectivo contrato de empréstimo ou doação e tenham sido objeto de parecer favorável do órgão jurídico do contratante do financiamento previamente à celebração do referido contrato."
             ],
@@ -5679,7 +5679,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4080651-328",
             "chapter": "do-ambito-de-aplicacao-arts-1º-a-4º-da-lei-nº-141332021",
             "topic": "Do Âmbito de Aplicação (arts. 1º a 4º da Lei nº 14.133/2021)",
-            "question": "A Lei n&ordm;14.133/2021 dispõe sobre normas gerais de licitação e contratação no &acirc;mbito da administração pública. Nesse sentido, ela abrange os(as)",
+            "question": "A Lei nº14.133/2021 dispõe sobre normas gerais de licitação e contratação no âmbito da administração pública. Nesse sentido, ela abrange os(as)",
             "options": [
               "órgãos dos Poderes Judiciário da União, dos Estados e do Distrito Federal e os órgãos do Poder Legislativo dos Municípios, quando no desempenho de função administrativa, os fundos especiais e as demais entidades controladas diretamente pela Administração Pública.",
               "as sociedades de economia mista e as suas subsidiárias, os fundos especiais e as demais entidades controladas indiretamente pela Administração Pública.",
@@ -5701,12 +5701,12 @@ export const SUBJECTS: Subject[] = [
             "id": "4073210-351",
             "chapter": "dos-agentes-publicos-arts-7º-a-10-da-lei-nº-141332021",
             "topic": "Dos Agentes Públicos (arts. 7º a 10 da Lei nº 14.133/2021)",
-            "question": "A licitação constitui procedimento administrativo obrigatório, utilizado pela Administração Pública para garantir a seleção da proposta mais vantajosa, em observ&acirc;ncia aos princípios da isonomia, impessoalidade, moralidade e indisponibilidade do interesse público. Nesse processo, o respeito às normas legais é indispensável para assegurar a ampla competitividade entre os licitantes. &Agrave; luz da Lei n&ordm; 14.133/2021, assinale a alternativa correta quanto às condutas vedadas aos agentes públicos envolvidos em licitações e contratos.",
+            "question": "A licitação constitui procedimento administrativo obrigatório, utilizado pela Administração Pública para garantir a seleção da proposta mais vantajosa, em observância aos princípios da isonomia, impessoalidade, moralidade e indisponibilidade do interesse público. Nesse processo, o respeito às normas legais é indispensável para assegurar a ampla competitividade entre os licitantes. À luz da Lei nº 14.133/2021, assinale a alternativa correta quanto às condutas vedadas aos agentes públicos envolvidos em licitações e contratos.",
             "options": [
               "É vedado ao agente público admitir exigências irrelevantes ao objeto da contratação, estabelecer distinções com base em domicílio ou naturalidade dos licitantes e frustrar a competitividade do certame.",
               "O agente público pode, de forma excepcional, admitir cláusulas que limitem a participação de licitantes estrangeiros quando a contratação envolver recursos de financiamento internacional.",
               "Exigir comprovação de domicílio ou sede no território nacional é admitido sempre que houver interesse da Administração Pública na valorização da economia local.",
-              "A Lei n&ordm; 14.133/2021 permite a adoção de requisitos mais rigorosos no edital quando o agente público entender que isso favorecerá a celeridade da contratação, ainda que comprometa o caráter competitivo do processo licitatório.",
+              "A Lei nº 14.133/2021 permite a adoção de requisitos mais rigorosos no edital quando o agente público entender que isso favorecerá a celeridade da contratação, ainda que comprometa o caráter competitivo do processo licitatório.",
               "As proibições impostas aos agentes públicos no processo licitatório não se estendem aos profissionais técnicos externos que prestam assessoria eventual à Administração contratante."
             ],
             "correctIndex": 0
@@ -5723,7 +5723,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3888799-263",
             "chapter": "dos-atos-de-improbidade-arts-9º-a-11-da-lei-nº-84291992",
             "topic": "Dos Atos de Improbidade (arts. 9º a 11 da Lei nº 8.429/1992)",
-            "question": "Conforme a disciplina expressa da Lei n&ordm; 8.429/1992, no que se refere aos atos de improbidade administrativa que causam prejuízo ao erário, é correto afirmar que:",
+            "question": "Conforme a disciplina expressa da Lei nº 8.429/1992, no que se refere aos atos de improbidade administrativa que causam prejuízo ao erário, é correto afirmar que:",
             "options": [
               "Admitem a responsabilização do agente público com base em presunção de dano, desde que caracterizada a ilicitude do ato administrativo.",
               "Prescindem da demonstração de prejuízo material, bastando a potencialidade lesiva da conduta praticada.",
@@ -5751,7 +5751,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3611893-265",
             "chapter": "dos-atos-de-improbidade-arts-9º-a-11-da-lei-nº-84291992",
             "topic": "Dos Atos de Improbidade (arts. 9º a 11 da Lei nº 8.429/1992)",
-            "question": "Conforme vemos na Lei Federal n&ordm; 8.429, de 02/06/1992, as condutas de negar publicidade aos atos oficiais, exceto em razão de sua imprescindibilidade para a segurança da sociedade e do Estado ou de outras hipóteses instituídas em lei; e frustrar, em ofensa à imparcialidade, o caráter concorrencial de concurso público, de chamamento ou de procedimento licitatório, com vistas à obtenção de benefício próprio, direto ou indireto, ou de terceiros, correspondem corretamente a:",
+            "question": "Conforme vemos na Lei Federal nº 8.429, de 02/06/1992, as condutas de negar publicidade aos atos oficiais, exceto em razão de sua imprescindibilidade para a segurança da sociedade e do Estado ou de outras hipóteses instituídas em lei; e frustrar, em ofensa à imparcialidade, o caráter concorrencial de concurso público, de chamamento ou de procedimento licitatório, com vistas à obtenção de benefício próprio, direto ou indireto, ou de terceiros, correspondem corretamente a:",
             "options": [
               "Atos de Improbidade Administrativa que importam enriquecimento ilícito.",
               "Atos de Improbidade Administrativa que atentam contra os princípios da Administração Pública.",
@@ -5765,11 +5765,11 @@ export const SUBJECTS: Subject[] = [
             "id": "3615810-266",
             "chapter": "dos-atos-de-improbidade-arts-9º-a-11-da-lei-nº-84291992",
             "topic": "Dos Atos de Improbidade (arts. 9º a 11 da Lei nº 8.429/1992)",
-            "question": "Define a Lei Federal n&ordm; 8.429, de 02/06/1992, que constitui ato de improbidade administrativa que causa lesão ao erário qualquer ação ou omissão dolosa, que enseje, efetiva e comprovadamente, perda patrimonial, desvio, apropriação, malbaratamento ou dilapidação dos bens ou haveres das entidades referidas no art. 1&ordm; da própria Lei, e notadamente:",
+            "question": "Define a Lei Federal nº 8.429, de 02/06/1992, que constitui ato de improbidade administrativa que causa lesão ao erário qualquer ação ou omissão dolosa, que enseje, efetiva e comprovadamente, perda patrimonial, desvio, apropriação, malbaratamento ou dilapidação dos bens ou haveres das entidades referidas no art. 1º da própria Lei, e notadamente:",
             "options": [
               "aceitar emprego, comissão ou exercer atividade de consultoria ou assessoramento para pessoa física ou jurídica que tenha interesse suscetível de ser atingido ou amparado por ação ou omissão decorrente das atribuições do agente público, durante a atividade.",
-              "usar, em proveito próprio, bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades mencionadas no art. 1&deg; da própria lei.",
-              "liberar verba pública sem a estrita observ&acirc;ncia das normas pertinentes ou influir de qualquer forma para a sua aplicação irregular.",
+              "usar, em proveito próprio, bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades mencionadas no art. 1° da própria lei.",
+              "liberar verba pública sem a estrita observância das normas pertinentes ou influir de qualquer forma para a sua aplicação irregular.",
               "perceber vantagem econômica, direta ou indireta, para facilitar a alienação, permuta ou locação de bem público ou o fornecimento de serviço por ente estatal por preço inferior ao valor de mercado.",
               "receber vantagem econômica de qualquer natureza, direta ou indiretamente, para omitir ato de ofício, providência ou declaração a que esteja obrigado."
             ],
@@ -5779,13 +5779,13 @@ export const SUBJECTS: Subject[] = [
             "id": "3615813-267",
             "chapter": "dos-atos-de-improbidade-arts-9º-a-11-da-lei-nº-84291992",
             "topic": "Dos Atos de Improbidade (arts. 9º a 11 da Lei nº 8.429/1992)",
-            "question": "Conforme define a Lei Federal n&ordm; 8.429, de 02/06/1992, constitui ato de improbidade administrativa que atenta contra os princípios da administração pública a ação ou omissão dolosa que viole os deveres de honestidade, de imparcialidade e de legalidade, caracterizada corretamente por uma das seguintes condutas:",
+            "question": "Conforme define a Lei Federal nº 8.429, de 02/06/1992, constitui ato de improbidade administrativa que atenta contra os princípios da administração pública a ação ou omissão dolosa que viole os deveres de honestidade, de imparcialidade e de legalidade, caracterizada corretamente por uma das seguintes condutas:",
             "options": [
               "receber, para si ou para outrem, dinheiro, bem móvel ou imóvel, ou qualquer outra vantagem econômica, direta ou indireta, a título de comissão, percentagem, gratificação ou presente de quem tenha interesse, direto ou indireto, que possa ser atingido ou amparado por ação ou omissão decorrente das atribuições do agente público; dentre outros.",
-              "utilizar, em obra ou serviço particular, qualquer bem móvel, de propriedade ou à disposição de qualquer das entidades referidas no art. 1&ordm; desta Lei, bem como o trabalho de servidores, de empregados ou de terceiros contratados por essas entidades; dentre outros.",
-              "celebrar parcerias da administração pública com entidades privadas sem a observ&acirc;ncia das formalidades legais ou regulamentares aplicáveis à espécie; dentre outros.",
+              "utilizar, em obra ou serviço particular, qualquer bem móvel, de propriedade ou à disposição de qualquer das entidades referidas no art. 1º desta Lei, bem como o trabalho de servidores, de empregados ou de terceiros contratados por essas entidades; dentre outros.",
+              "celebrar parcerias da administração pública com entidades privadas sem a observância das formalidades legais ou regulamentares aplicáveis à espécie; dentre outros.",
               "nomear cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento, para o exercício de cargo em comissão ou de confiança ou, ainda, de função gratificada na administração pública direta e indireta em qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, compreendido o ajuste mediante designações recíprocas; dentre outros.",
-              "facilitar ou concorrer, por qualquer forma, para a incorporação, ao patrimônio particular de pessoa física ou jurídica, de bens, rendas, verbas ou valores públicos transferidos pela administração pública a entidades privadas mediante celebração de parcerias, sem a observ&acirc;ncia das formalidades legais ou regulamentares aplicáveis à espécie; dentre outros."
+              "facilitar ou concorrer, por qualquer forma, para a incorporação, ao patrimônio particular de pessoa física ou jurídica, de bens, rendas, verbas ou valores públicos transferidos pela administração pública a entidades privadas mediante celebração de parcerias, sem a observância das formalidades legais ou regulamentares aplicáveis à espécie; dentre outros."
             ],
             "correctIndex": 3
           },
@@ -5793,13 +5793,13 @@ export const SUBJECTS: Subject[] = [
             "id": "3619500-268",
             "chapter": "dos-atos-de-improbidade-arts-9º-a-11-da-lei-nº-84291992",
             "topic": "Dos Atos de Improbidade (arts. 9º a 11 da Lei nº 8.429/1992)",
-            "question": "Conforme vemos na Lei Federal n&ordm; 8.429, de 02/06/1992, configura-se ato de improbidade administrativa que atenta contra os princípios da administração pública apenas o que se afirma em:",
+            "question": "Conforme vemos na Lei Federal nº 8.429, de 02/06/1992, configura-se ato de improbidade administrativa que atenta contra os princípios da administração pública apenas o que se afirma em:",
             "options": [
-              "Realizar operação financeira sem observ&acirc;ncia das normas legais e regulamentares ou aceitar garantia insuficiente ou inidônea; dentre outros.",
+              "Realizar operação financeira sem observância das normas legais e regulamentares ou aceitar garantia insuficiente ou inidônea; dentre outros.",
               "Receber, para si ou para outrem, dinheiro, bem móvel ou imóvel, ou qualquer outra vantagem econômica, direta ou indireta, a título de comissão, percentagem, gratificação ou presente de quem tenha interesse, direto ou indireto, que possa ser atingido ou amparado por ação ou omissão decorrente das atribuições do agente público; dentre outros.",
-              "Incorporar, por qualquer forma, ao seu patrimônio bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades mencionadas no art. 1&ordm; da própria lei; dentre outros.",
+              "Incorporar, por qualquer forma, ao seu patrimônio bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades mencionadas no art. 1º da própria lei; dentre outros.",
               "Descumprir as normas relativas à celebração, fiscalização e aprovação de contas de parcerias firmadas pela administração pública com entidades privadas; dentre outros.",
-              "Liberar verba pública sem a estrita observ&acirc;ncia das normas pertinentes ou influir de qualquer forma para a sua aplicação irregular; dentre outros."
+              "Liberar verba pública sem a estrita observância das normas pertinentes ou influir de qualquer forma para a sua aplicação irregular; dentre outros."
             ],
             "correctIndex": 3
           },
@@ -5807,13 +5807,13 @@ export const SUBJECTS: Subject[] = [
             "id": "2827151-270",
             "chapter": "dos-atos-de-improbidade-arts-9º-a-11-da-lei-nº-84291992",
             "topic": "Dos Atos de Improbidade (arts. 9º a 11 da Lei nº 8.429/1992)",
-            "question": "Com relação à Lei n.&ordm; 8.429, de 2 de junho de 1992, que dispõe sobre as sanções aplicáveis em virtude da prática de atos de improbidade administrativa, de que trata o 8 4&ordm; do artigo 3/ da Constituição Federal; e dá outras providências. Foi alterada pela Lei 14.230/2021, que insere a exigência do dolo por parte dos agentes públicos, ou seja, a intenção de cometer um crime de improbidade. Segundo o artigo primeiro, parágrafo segundo: &#x201c;considera-se dolo a vontade livre e consciente de alcançar o resultado ilícito tipificado nos artigos 9&ordm;, 10 e 11 desta Lei, não bastando à voluntariedade do agente.&#x201d; São atos de improbidade administrativa constante do artigo 9&ordm;",
+            "question": "Com relação à Lei n.º 8.429, de 2 de junho de 1992, que dispõe sobre as sanções aplicáveis em virtude da prática de atos de improbidade administrativa, de que trata o 8 4º do artigo 3/ da Constituição Federal; e dá outras providências. Foi alterada pela Lei 14.230/2021, que insere a exigência do dolo por parte dos agentes públicos, ou seja, a intenção de cometer um crime de improbidade. Segundo o artigo primeiro, parágrafo segundo: “considera-se dolo a vontade livre e consciente de alcançar o resultado ilícito tipificado nos artigos 9º, 10 e 11 desta Lei, não bastando à voluntariedade do agente.” São atos de improbidade administrativa constante do artigo 9º",
             "options": [
-              "permitir ou concorrer para que pessoa física ou jurídica privada utilize bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades mencionadas no artigo 1&ordm; desta lei, sem a observ&acirc;ncia das formalidades legais ou regulamentares aplicáveis à espécie.",
+              "permitir ou concorrer para que pessoa física ou jurídica privada utilize bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades mencionadas no artigo 1º desta lei, sem a observância das formalidades legais ou regulamentares aplicáveis à espécie.",
               "ordenar ou permitir a realização de despesas não autorizadas em lei ou regulamento.",
               "perceber vantagem econômica, exceto em moeda estrangeira, para intermediar a liberação ou aplicação de verba pública de natureza indenizatória.",
               "receber vantagem econômica de natureza remuneratória, somente indiretamente, para apresentar ato de ofício, providência ou declaração a que esteja obrigado.",
-              "perceber vantagem econômica, direta ou indireta, para facilitar a aquisição, permuta ou locação de bem móvel ou imóvel, ou a contratação de serviços pelas entidades referidas no art. 1&ordm; por preço superior ao valor de mercado."
+              "perceber vantagem econômica, direta ou indireta, para facilitar a aquisição, permuta ou locação de bem móvel ou imóvel, ou a contratação de serviços pelas entidades referidas no art. 1º por preço superior ao valor de mercado."
             ],
             "correctIndex": 4
           },
@@ -5821,7 +5821,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3276420-271",
             "chapter": "dos-atos-de-improbidade-arts-9º-a-11-da-lei-nº-84291992",
             "topic": "Dos Atos de Improbidade (arts. 9º a 11 da Lei nº 8.429/1992)",
-            "question": "O servidor público Paulo usou, em proveito próprio, bem integrante do acervo patrimonial de autarquia pública e foi condenado judicialmente à perda da função pública e à suspensão dos direitos políticos por 14 (catorze) anos. Nesse caso, considerando as disposições da Lei de Improbidade administrativa (Lei n&ordm; 8.429/1992), pode-se afirmar que",
+            "question": "O servidor público Paulo usou, em proveito próprio, bem integrante do acervo patrimonial de autarquia pública e foi condenado judicialmente à perda da função pública e à suspensão dos direitos políticos por 14 (catorze) anos. Nesse caso, considerando as disposições da Lei de Improbidade administrativa (Lei nº 8.429/1992), pode-se afirmar que",
             "options": [
               "Paulo praticou ato de improbidade administrativa causador de prejuízo ao erário.",
               "É vedada a aplicação da pena de perda de função pública para o ato praticado por Paulo.",
@@ -5843,7 +5843,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3966853-313",
             "chapter": "dos-impedimentos-e-da-suspeicao-arts-18-a-21-da-lei-nº-97841999",
             "topic": "Dos Impedimentos e da Suspeição (arts. 18 a 21 da Lei nº 9.784/1999)",
-            "question": "A servidora pública federal Roberta foi designada para atuar como responsável pela análise de processo administrativo que tramita em seu setor. Ao tomar conhecimento dos autos, Roberta verificou que seu irmão, com quem mantém excelente relacionamento familiar, é sócio da empresa interessada no deferimento do pedido formulado no referido processo. Diante dessa situação, Roberta decidiu prosseguir com a análise do processo, entendendo que sua imparcialidade não seria comprometida em razão do bom relacionamento que mantém com seu irmão e da ausência de interesse financeiro direto de sua parte no resultado do processo. Considerando as disposições da Lei n&ordm; 9.784/1999 sobre impedimento e suspeição no processo administrativo, Roberta:",
+            "question": "A servidora pública federal Roberta foi designada para atuar como responsável pela análise de processo administrativo que tramita em seu setor. Ao tomar conhecimento dos autos, Roberta verificou que seu irmão, com quem mantém excelente relacionamento familiar, é sócio da empresa interessada no deferimento do pedido formulado no referido processo. Diante dessa situação, Roberta decidiu prosseguir com a análise do processo, entendendo que sua imparcialidade não seria comprometida em razão do bom relacionamento que mantém com seu irmão e da ausência de interesse financeiro direto de sua parte no resultado do processo. Considerando as disposições da Lei nº 9.784/1999 sobre impedimento e suspeição no processo administrativo, Roberta:",
             "options": [
               "Agiu corretamente ao prosseguir com a análise do processo, uma vez que o impedimento somente se configura quando o servidor possui interesse financeiro direto na matéria, não se aplicando a situações envolvendo parentes que sejam interessados no processo.",
               "Deveria ter se declarado suspeita para atuar no processo em razão da amizade íntima com seu irmão, mas poderia prosseguir com a análise caso nenhum dos interessados arguisse formalmente sua suspeição perante a autoridade competente.",
@@ -5856,7 +5856,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3611880-314",
             "chapter": "dos-impedimentos-e-da-suspeicao-arts-18-a-21-da-lei-nº-97841999",
             "topic": "Dos Impedimentos e da Suspeição (arts. 18 a 21 da Lei nº 9.784/1999)",
-            "question": "Balizado pela Lei Federal n&ordm; 9.784 de 29/01/1999, que regula o processo administrativo no &acirc;mbito da Administração Pública Federal, é impedido de atuar em processo administrativo o servidor ou autoridade que",
+            "question": "Balizado pela Lei Federal nº 9.784 de 29/01/1999, que regula o processo administrativo no âmbito da Administração Pública Federal, é impedido de atuar em processo administrativo o servidor ou autoridade que",
             "options": [
               "tenha editado atos de caráter normativo.",
               "seja a quem caiba a decisão de recursos administrativos.",
@@ -5878,7 +5878,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3532486-435",
             "chapter": "duracao-dos-contratos-arts-105-a-114-da-lei-nº-141332021",
             "topic": "Duração dos Contratos (arts. 105 a 114 da Lei nº 14.133/2021)",
-            "question": "A Lei Federal n&ordm; 14.133/2021 - Lei de Licitações e Contratos Administrativos traz que o contrato que previr a operação continuada de sistemas estruturantes de tecnologia da informação poderá ter uma vigência máxima. Assinale a alternativa correta quanto a essa vigência máxima.",
+            "question": "A Lei Federal nº 14.133/2021 - Lei de Licitações e Contratos Administrativos traz que o contrato que previr a operação continuada de sistemas estruturantes de tecnologia da informação poderá ter uma vigência máxima. Assinale a alternativa correta quanto a essa vigência máxima.",
             "options": [
               "15 (quinze) anos.",
               "5 (cinco) anos.",
@@ -5898,7 +5898,7 @@ export const SUBJECTS: Subject[] = [
               "A Administração poderá estabelecer a vigência por prazo de 5 (cinco) anos nos contratos em que seja usuária de serviço público oferecido em regime de monopólio e oligopólio, desde que comprovada, a cada exercício financeiro, a existência de créditos orçamentários vinculados à contratação.",
               "Na contratação que gere receita e no contrato de eficiência que gere economia para a Administração, os prazos serão de até 35 (trinta e cinco) anos, nos contratos com investimento, assim considerados aqueles que impliquem a elaboração de benfeitorias permanentes, realizadas exclusivamente a expensas do contratado, que serão revertidas ao patrimônio da Administração Pública ao término do contrato.",
               "Os contratos de serviços e fornecimentos contínuos não poderão ser prorrogados sucessivamente, respeitada a vigência máxima decenal e a autoridade competente deve atestar que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o contratado ou a extinção contratual sem ônus para qualquer das partes.",
-              "As cláusulas econômico-financeiras e monetárias dos contratos poderão ser alteradas sem prévia concord&acirc;ncia do contratado desde que as condições e os preços permaneçam vantajosos para a Administração."
+              "As cláusulas econômico-financeiras e monetárias dos contratos poderão ser alteradas sem prévia concordância do contratado desde que as condições e os preços permaneçam vantajosos para a Administração."
             ],
             "correctIndex": 2
           },
@@ -5906,7 +5906,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3276423-437",
             "chapter": "duracao-dos-contratos-arts-105-a-114-da-lei-nº-141332021",
             "topic": "Duração dos Contratos (arts. 105 a 114 da Lei nº 14.133/2021)",
-            "question": "Para a Lei de Licitações e Contratos Administrativos (Lei n&ordm; 14.133/21), os serviços e fornecimentos contínuos são aqueles serviços contratados e compras realizadas pela Administração Pública para a manutenção da atividade administrativa, decorrentes de necessidades permanentes ou prolongadas. Já os serviços não contínuos ou contratados por escopo são aqueles que impõem ao contratado o dever de realizar a prestação de um serviço específico em período predeterminado, podendo ser",
+            "question": "Para a Lei de Licitações e Contratos Administrativos (Lei nº 14.133/21), os serviços e fornecimentos contínuos são aqueles serviços contratados e compras realizadas pela Administração Pública para a manutenção da atividade administrativa, decorrentes de necessidades permanentes ou prolongadas. Já os serviços não contínuos ou contratados por escopo são aqueles que impõem ao contratado o dever de realizar a prestação de um serviço específico em período predeterminado, podendo ser",
             "options": [
               "prorrogável pelo prazo não superior a 5 (cinco) anos, desde que justificadamente.",
               "prorrogável pelo prazo não superior a 3 (três) anos, desde que justificadamente.",
@@ -5928,7 +5928,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3969603-187",
             "chapter": "elementos-requisitos-e-pressupostos-atos-administrativos",
             "topic": "Elementos, Requisitos e Pressupostos (Atos Administrativos)",
-            "question": "Os menores de dezoito anos são, legalmente, proibidos de dirigir veículos. No Estado do Rio de Janeiro, a autoridade de tr&acirc;nsito competente emite várias autorizações para que menores de dezoito anos possam dirigir veículos, desde que haja o consentimento dos responsáveis legais. Com base nos fatos narrados, marque a afirmativa que corresponda ao elemento do ato administrativo viciado.",
+            "question": "Os menores de dezoito anos são, legalmente, proibidos de dirigir veículos. No Estado do Rio de Janeiro, a autoridade de trânsito competente emite várias autorizações para que menores de dezoito anos possam dirigir veículos, desde que haja o consentimento dos responsáveis legais. Com base nos fatos narrados, marque a afirmativa que corresponda ao elemento do ato administrativo viciado.",
             "options": [
               "Objeto.",
               "Finalidade.",
@@ -5997,7 +5997,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3032435-192",
             "chapter": "elementos-requisitos-e-pressupostos-atos-administrativos",
             "topic": "Elementos, Requisitos e Pressupostos (Atos Administrativos)",
-            "question": "&#x201c;Os requisitos, também chamados de elementos do ato administrativo são aqueles que constituem a sua formação: competência, finalidade, forma, motivo e objeto&#x201d;, leciona a tradicional teoria administrativista. Assinale a alternativa que contém elementos do ato administrativo que são apenas de caráter vinculado.",
+            "question": "“Os requisitos, também chamados de elementos do ato administrativo são aqueles que constituem a sua formação: competência, finalidade, forma, motivo e objeto”, leciona a tradicional teoria administrativista. Assinale a alternativa que contém elementos do ato administrativo que são apenas de caráter vinculado.",
             "options": [
               "Competência e objeto.",
               "Competência e motivo.",
@@ -6047,7 +6047,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3502295-440",
             "chapter": "execucao-dos-contratos-arts-115-a-art-123-da-lei-nº-141332021",
             "topic": "Execução dos Contratos (arts. 115 a art. 123 da Lei nº 14.133/2021)",
-            "question": "De acordo com a Nova Lei de Licitações e Contratos (Lei n&ordm; 14.133/2021), é correto afirmar que o contrato administrativo",
+            "question": "De acordo com a Nova Lei de Licitações e Contratos (Lei nº 14.133/2021), é correto afirmar que o contrato administrativo",
             "options": [
               "é regido exclusivamente pelo direito privado, sem interferência normativa.",
               "regular-se-á pelas suas cláusulas e pelos preceitos de direito público, e a eles serão aplicados, supletivamente, os princípios da teoria geral dos contratos e as disposições de direito privado.",
@@ -6083,7 +6083,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3614392-390",
             "chapter": "fases-da-licitacao--julgamento-habilitacao-e-encerramento-arts-55-a-71-da-lei-nº-141332021",
             "topic": "Fases da Licitação - Julgamento, Habilitação e Encerramento (arts. 55 a 71 da Lei nº 14.133/2021)",
-            "question": "Ensina a Lei Federal n&ordm; 14.133, de 01/04/2021, reguladora das licitações e contratos, que a fase da licitação, em que se verifica o conjunto de informações e documentos necessários e suficientes para demonstrar a capacidade do licitante de realizar o objeto da licitação, é corretamente definida como",
+            "question": "Ensina a Lei Federal nº 14.133, de 01/04/2021, reguladora das licitações e contratos, que a fase da licitação, em que se verifica o conjunto de informações e documentos necessários e suficientes para demonstrar a capacidade do licitante de realizar o objeto da licitação, é corretamente definida como",
             "options": [
               "Habilitação.",
               "Julgamento.",
@@ -6097,7 +6097,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3619492-391",
             "chapter": "fases-da-licitacao--julgamento-habilitacao-e-encerramento-arts-55-a-71-da-lei-nº-141332021",
             "topic": "Fases da Licitação - Julgamento, Habilitação e Encerramento (arts. 55 a 71 da Lei nº 14.133/2021)",
-            "question": "Ensina a Lei Federal n&ordm; 14.133, de 01/04/2021, reguladora das licitações e contratos, que os prazos mínimos para apresentação de propostas e lances, contados a partir da data de divulgação do edital de licitação, são de:",
+            "question": "Ensina a Lei Federal nº 14.133, de 01/04/2021, reguladora das licitações e contratos, que os prazos mínimos para apresentação de propostas e lances, contados a partir da data de divulgação do edital de licitação, são de:",
             "options": [
               "nos casos de serviços e obras, 25 (vinte e cinco) dias úteis, quando adotados os critérios de julgamento de menor preço ou de maior desconto, no caso de serviços especiais e de obras e serviços especiais de engenharia.",
               "para aquisição de bens, 15 (quinze) dias úteis, quando adotados os critérios de julgamento de menor preço ou de maior desconto.",
@@ -6125,7 +6125,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3026625-393",
             "chapter": "fases-da-licitacao--julgamento-habilitacao-e-encerramento-arts-55-a-71-da-lei-nº-141332021",
             "topic": "Fases da Licitação - Julgamento, Habilitação e Encerramento (arts. 55 a 71 da Lei nº 14.133/2021)",
-            "question": "Em um processo de licitação na modalidade pregão, após o encerramento da etapa de lances, foi identificada uma situação em que duas empresas apresentaram propostas de valores idênticos. Conforme estabelecido pela Lei n&ordm; 10.520/2002 e suas regulamentações complementares, a etapa subsequente para a resolução desse empate deve ser a",
+            "question": "Em um processo de licitação na modalidade pregão, após o encerramento da etapa de lances, foi identificada uma situação em que duas empresas apresentaram propostas de valores idênticos. Conforme estabelecido pela Lei nº 10.520/2002 e suas regulamentações complementares, a etapa subsequente para a resolução desse empate deve ser a",
             "options": [
               "escolha aleatória entre as duas empresas.",
               "negociação direta com a empresa de maior porte.",
@@ -6139,7 +6139,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3283076-395",
             "chapter": "fases-da-licitacao--julgamento-habilitacao-e-encerramento-arts-55-a-71-da-lei-nº-141332021",
             "topic": "Fases da Licitação - Julgamento, Habilitação e Encerramento (arts. 55 a 71 da Lei nº 14.133/2021)",
-            "question": "Nas licitações públicas regidas pela Lei n&ordm; 14.133/2021, uma vez definido o resultado do julgamento, a Administração poderá negociar condições mais vantajosas com",
+            "question": "Nas licitações públicas regidas pela Lei nº 14.133/2021, uma vez definido o resultado do julgamento, a Administração poderá negociar condições mais vantajosas com",
             "options": [
               "o segundo e o terceiro colocados, ainda que não tenha havido negociação com o primeiro colocado.",
               "o último colocado, ainda que não tenha havido negociação com os demais licitantes.",
@@ -6174,7 +6174,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3616543-315",
             "chapter": "forma-tempo-e-lugar-dos-atos-do-processo-arts-22-a-25-da-lei-nº-97841999",
             "topic": "Forma, Tempo e Lugar dos Atos do Processo (arts. 22 a 25 da Lei nº 9.784/1999)",
-            "question": "Na forma da lei federal que regula o processo administrativo no &acirc;mbito da Administração Pública Federal, os atos do processo administrativo não dependem de forma determinada senão quando a lei expressamente a exigir. Dito isso, assinale a alternativa correta .",
+            "question": "Na forma da lei federal que regula o processo administrativo no âmbito da Administração Pública Federal, os atos do processo administrativo não dependem de forma determinada senão quando a lei expressamente a exigir. Dito isso, assinale a alternativa correta .",
             "options": [
               "Os atos do processo devem realizar-se preferencialmente na sede do órgão, cientificando-se o interessado se outro for o local de realização.",
               "Os atos do processo podem realizar-se fora dos dias úteis, no horário normal de funcionamento da repartição na qual tramitar o processo.",
@@ -6196,7 +6196,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3532485-430",
             "chapter": "garantias-arts-96-a-102-da-lei-nº-141332021",
             "topic": "Garantias (arts. 96 a 102 da Lei nº 14.133/2021)",
-            "question": "Lei Federal n&ordm; 14.133/2021 - Lei de Licitações e Contratos Administrativos, traz que, nas contratações de obras e serviços de engenharia de grande vulto, poderá ser exigida a prestação de garantia, de até X%, do valor inicial do contrato, autorizada a majoração desse percentual para até Y%, desde que justificada mediante análise da complexidade técnica e dos riscos envolvidos. Quanto aos valores de X% e Y%, assinale a alternativa correta.",
+            "question": "Lei Federal nº 14.133/2021 - Lei de Licitações e Contratos Administrativos, traz que, nas contratações de obras e serviços de engenharia de grande vulto, poderá ser exigida a prestação de garantia, de até X%, do valor inicial do contrato, autorizada a majoração desse percentual para até Y%, desde que justificada mediante análise da complexidade técnica e dos riscos envolvidos. Quanto aos valores de X% e Y%, assinale a alternativa correta.",
             "options": [
               "Até 10% (dez por cento), autorizada a majoração para até 20% (vinte por cento).",
               "Até 30% (trinta por cento), autorizada a majoração para até 40% (quarenta por cento).",
@@ -6210,7 +6210,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3611859-431",
             "chapter": "garantias-arts-96-a-102-da-lei-nº-141332021",
             "topic": "Garantias (arts. 96 a 102 da Lei nº 14.133/2021)",
-            "question": "Vaticina a Lei Federal n&ordm; 14.133, de 01/04/2021, que, a critério da autoridade competente, em cada caso, poderá ser exigida, mediante previsão no edital, prestação de garantia nas contratações de obras, serviços e fornecimentos. Assim, caberá ao contratado optar por uma das seguintes modalidades de garantia:",
+            "question": "Vaticina a Lei Federal nº 14.133, de 01/04/2021, que, a critério da autoridade competente, em cada caso, poderá ser exigida, mediante previsão no edital, prestação de garantia nas contratações de obras, serviços e fornecimentos. Assim, caberá ao contratado optar por uma das seguintes modalidades de garantia:",
             "options": [
               "Hipoteca.",
               "Fiança de empresa codevedora.",
@@ -6224,7 +6224,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3272943-432",
             "chapter": "garantias-arts-96-a-102-da-lei-nº-141332021",
             "topic": "Garantias (arts. 96 a 102 da Lei nº 14.133/2021)",
-            "question": "Conforme dispõe a Lei n&ordm; 14.133/2021, poderá ser exigida prestação de garantia nas contratações de obras, serviços e fornecimentos, mediante previsão no edital. Dessa forma, marque a alternativa que apresenta uma das modalidades da prestação de garantia.",
+            "question": "Conforme dispõe a Lei nº 14.133/2021, poderá ser exigida prestação de garantia nas contratações de obras, serviços e fornecimentos, mediante previsão no edital. Dessa forma, marque a alternativa que apresenta uma das modalidades da prestação de garantia.",
             "options": [
               "Bens imóveis dados em garantia.",
               "Título de capitalização custeado por pagamento único, com resgate pelo valor total.",
@@ -6246,7 +6246,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3611862-447",
             "chapter": "hipoteses-de-extincao-dos-contratos-arts-137-a-139-da-lei-nº-141332021",
             "topic": "Hipóteses de Extinção dos Contratos (arts. 137 a 139 da Lei nº 14.133/2021)",
-            "question": "Diploma a Lei Federal n&ordm; 14.133, de 01/04/2021, que constituirão motivos para extinção do contrato, a qual deverá ser formalmente motivada nos autos do processo, assegurados o contraditório e a ampla defesa, a seguinte situação:",
+            "question": "Diploma a Lei Federal nº 14.133, de 01/04/2021, que constituirão motivos para extinção do contrato, a qual deverá ser formalmente motivada nos autos do processo, assegurados o contraditório e a ampla defesa, a seguinte situação:",
             "options": [
               "Variação do valor contratual para fazer face ao reajuste ou à repactuação de preços não previstos no próprio contrato; dentre outros.",
               "Atraso na liberação das áreas sujeitas a desapropriação, a desocupação ou a servidão administrativa, ou impossibilidade de liberação dessas áreas; dentre outras.",
@@ -6260,7 +6260,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3295988-448",
             "chapter": "hipoteses-de-extincao-dos-contratos-arts-137-a-139-da-lei-nº-141332021",
             "topic": "Hipóteses de Extinção dos Contratos (arts. 137 a 139 da Lei nº 14.133/2021)",
-            "question": "Determinado ente da Administração Pública realizou um contrato com determinada empresa para a execução de determinada atividade. No entanto, a Administração Pública não vem cumprindo com as suas obrigações. Por isso, a empresa deseja não cumprir com a sua parte acordada. Considerando a Lei n&ordm; 14.133/2021, é correto afirmar que",
+            "question": "Determinado ente da Administração Pública realizou um contrato com determinada empresa para a execução de determinada atividade. No entanto, a Administração Pública não vem cumprindo com as suas obrigações. Por isso, a empresa deseja não cumprir com a sua parte acordada. Considerando a Lei nº 14.133/2021, é correto afirmar que",
             "options": [
               "a empresa poderá descumprir o contrato a partir do momento que a Administração Pública não cumpra com a sua obrigação.",
               "a empresa poderá descumprir o contrato depois de dois meses do descumprimento da obrigação pela Administração Pública.",
@@ -6282,7 +6282,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3616506-449",
             "chapter": "infracoes-e-sancoes-administrativas-arts-155-a-163-da-lei-nº-141332021",
             "topic": "Infrações e Sanções Administrativas (arts. 155 a 163 da Lei nº 14.133/2021)",
-            "question": "Vaticina a Lei Federal n&ordm; 14.133, de 01/04/2021, que o licitante ou o contratado será responsabilizado administrativamente pelas seguintes infrações:",
+            "question": "Vaticina a Lei Federal nº 14.133, de 01/04/2021, que o licitante ou o contratado será responsabilizado administrativamente pelas seguintes infrações:",
             "options": [
               "não suportar os danos que provierem da Administração Pública.",
               "ensejar o retardamento da execução ou da entrega do objeto da licitação com motivo justificado.",
@@ -6296,11 +6296,11 @@ export const SUBJECTS: Subject[] = [
             "id": "3272925-450",
             "chapter": "infracoes-e-sancoes-administrativas-arts-155-a-163-da-lei-nº-141332021",
             "topic": "Infrações e Sanções Administrativas (arts. 155 a 163 da Lei nº 14.133/2021)",
-            "question": "O licitante ou o contratado que cometer as infrações tipificadas na Lei n&ordm; 14.133/2021 será responsabilizado administrativamente, podendo receber as seguintes sanções administrativas:",
+            "question": "O licitante ou o contratado que cometer as infrações tipificadas na Lei nº 14.133/2021 será responsabilizado administrativamente, podendo receber as seguintes sanções administrativas:",
             "options": [
               "declaração de inidoneidade para licitar ou contratar; impedimento de licitar contratar ou licitar; multa; e advertência.",
               "impedimento de licitar; declaração de inexequibilidade; multa; e advertência.",
-              "advertência; declaração de incapacidade técnica; multa; e declaração de inobserv&acirc;ncia do edital.",
+              "advertência; declaração de incapacidade técnica; multa; e declaração de inobservância do edital.",
               "declaração de inidoneidade para licitar ou contratar; multa; confisco de bens dos sócios; e advertência.",
               "declaração de inidoneidade; ressarcimento ao erário dos danos causados; e impedimento de financiamento com dinheiro público."
             ],
@@ -6354,7 +6354,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3619507-365",
             "chapter": "instrucao-do-processo-licitatorio-arts-18-a-27-da-lei-nº-141332021",
             "topic": "Instrução do Processo Licitatório (arts. 18 a 27 da Lei nº 14.133/2021)",
-            "question": "No processo licitatório para aquisição de bens e contratação de serviços em geral, conforme regulamento, o valor estimado será definido com base no melhor preço aferido. Quanto aos par&acirc;metros de pesquisa que podem ser adotados, pode-se afirmar:",
+            "question": "No processo licitatório para aquisição de bens e contratação de serviços em geral, conforme regulamento, o valor estimado será definido com base no melhor preço aferido. Quanto aos parâmetros de pesquisa que podem ser adotados, pode-se afirmar:",
             "options": [
               "A pesquisa deve ser feita obrigatoriamente de forma combinada.",
               "Não é possível a utilização de dados de pesquisa publicada em mídia especializada, de tabela de referência formalmente aprovada pelo Poder Executivo federal e de sítios eletrônicos especializados ou de domínio amplo.",
@@ -6368,7 +6368,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3275576-366",
             "chapter": "instrucao-do-processo-licitatorio-arts-18-a-27-da-lei-nº-141332021",
             "topic": "Instrução do Processo Licitatório (arts. 18 a 27 da Lei nº 14.133/2021)",
-            "question": "De acordo com a Lei de Licitações e Contratos (Lei Federal n&ordm; 14.133/21), nas contratações de obras e serviços de engenharia, sempre que a responsabilidade pelo licenciamento ambiental for da Administração, a manifestação prévia ou licença prévia, quando cabíveis, deverão ser obtidas",
+            "question": "De acordo com a Lei de Licitações e Contratos (Lei Federal nº 14.133/21), nas contratações de obras e serviços de engenharia, sempre que a responsabilidade pelo licenciamento ambiental for da Administração, a manifestação prévia ou licença prévia, quando cabíveis, deverão ser obtidas",
             "options": [
               "antes da abertura das propostas, exceto se a licitação for na modalidade concorrência.",
               "depois da homologação da licitação.",
@@ -6390,7 +6390,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3969601-367",
             "chapter": "modalidades-de-licitacao-arts-28-a-32-da-lei-nº-141332021",
             "topic": "Modalidades de Licitação (arts. 28 a 32 da Lei nº 14.133/2021)",
-            "question": "A obrigatoriedade da realização de licitação materializa vários princípios constitucionais, tais como a isonomia, a impessoalidade e a eficiência. A Lei n&ordm; 14.133/21 disciplina as matérias de licitação e contrato administrativo. No tocante à modalidade diálogo competitivo, indique a opção correta.",
+            "question": "A obrigatoriedade da realização de licitação materializa vários princípios constitucionais, tais como a isonomia, a impessoalidade e a eficiência. A Lei nº 14.133/21 disciplina as matérias de licitação e contrato administrativo. No tocante à modalidade diálogo competitivo, indique a opção correta.",
             "options": [
               "A Administração apresentará, por ocasião da divulgação do edital, em sítio eletrônico oficial, suas necessidades e exigências já definidas e estabelecerá prazo mínimo de 15 (quinze) dias úteis para manifestação de interesse na participação da licitação.",
               "A Administração poderá revelar a outros licitantes as soluções propostas ou as informações sigilosas comunicadas por um licitante sem o seu consentimento.",
@@ -6404,7 +6404,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4154809-368",
             "chapter": "modalidades-de-licitacao-arts-28-a-32-da-lei-nº-141332021",
             "topic": "Modalidades de Licitação (arts. 28 a 32 da Lei nº 14.133/2021)",
-            "question": "Durante a elaboração de planejamento de contratação pública, a unidade técnica examinou as modalidades licitatórias previstas na Lei n&ordm; 14.133/2021, a fim de selecionar o procedimento adequado ao objeto pretendido pela Administração Pública. &Agrave; luz da Lei n&ordm; 14.133/2021, assinale a alternativa correta.",
+            "question": "Durante a elaboração de planejamento de contratação pública, a unidade técnica examinou as modalidades licitatórias previstas na Lei nº 14.133/2021, a fim de selecionar o procedimento adequado ao objeto pretendido pela Administração Pública. À luz da Lei nº 14.133/2021, assinale a alternativa correta.",
             "options": [
               "São modalidades de licitação a tomada de preços, o convite, o concurso, o leilão e o pregão.",
               "São modalidades de licitação o credenciamento, a pré-qualificação, o registro cadastral, o leilão e a concorrência.",
@@ -6418,7 +6418,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3502308-369",
             "chapter": "modalidades-de-licitacao-arts-28-a-32-da-lei-nº-141332021",
             "topic": "Modalidades de Licitação (arts. 28 a 32 da Lei nº 14.133/2021)",
-            "question": "Conforme a Lei n&ordm; 14.133/2021, indique a modalidade de licitação obrigatória para a aquisição de bens e serviços comuns, cujo critério de julgamento pode ser o de menor preço ou o de maior desconto.",
+            "question": "Conforme a Lei nº 14.133/2021, indique a modalidade de licitação obrigatória para a aquisição de bens e serviços comuns, cujo critério de julgamento pode ser o de menor preço ou o de maior desconto.",
             "options": [
               "Concurso.",
               "Leilão.",
@@ -6460,7 +6460,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3643828-372",
             "chapter": "modalidades-de-licitacao-arts-28-a-32-da-lei-nº-141332021",
             "topic": "Modalidades de Licitação (arts. 28 a 32 da Lei nº 14.133/2021)",
-            "question": "A Lei n&ordm; 14.133/2021, que institui a Nova Lei de Licitações e Contratos Administrativos, revogando progressivamente as normas anteriores, trouxe inovações importantes no regime jurídico das contratações públicas. Entre essas mudanças, estão as modalidades de licitação que passaram a vigorar sob a nova legislação, visando maior eficiência, competitividade e transparência nos processos licitatórios. Desse modo, são modalidades de licitação previstas nessa legislação:",
+            "question": "A Lei nº 14.133/2021, que institui a Nova Lei de Licitações e Contratos Administrativos, revogando progressivamente as normas anteriores, trouxe inovações importantes no regime jurídico das contratações públicas. Entre essas mudanças, estão as modalidades de licitação que passaram a vigorar sob a nova legislação, visando maior eficiência, competitividade e transparência nos processos licitatórios. Desse modo, são modalidades de licitação previstas nessa legislação:",
             "options": [
               "Concorrência, Tomada de Preços, Carta Convite, Pregão e Leilão.",
               "Concorrência, Tomada de Preços, Concurso, Pregão e RDC.",
@@ -6474,7 +6474,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827157-373",
             "chapter": "modalidades-de-licitacao-arts-28-a-32-da-lei-nº-141332021",
             "topic": "Modalidades de Licitação (arts. 28 a 32 da Lei nº 14.133/2021)",
-            "question": "As secretarias de Administração e Educação de Sorocaba (SP) publicaram no Jornal do Município de quinta-feira (27) a abertura de modalidade de licitação destinada à contratação da empresa que prestará serviços de estruturação e operacionalização pedagógica das primeiras oito unidades do novo Sabe Tudo Conect@. Texto adaptado do portal g1 publicado em 29/07/2023, às 17h53, disponível em: https://g1.globo.com/sp/sorocaba-jundiai/noticia/2023/07/29/prefeitura-de -sorocaba-abre-licitacao-para-contratar-empresa-gestora-de-oito-novas- unidades- do-sabe-tudo.ghtml. Acessado em 12/11/2023. e da Lei n&ordm; 14.133, de 01/04/2021, que revogará a Lei 8666/93, em 30/12/2023, em conformidade com capítulo Ill, art. 06, inciso XLI, da Lei n&ordm; 14.133/21: A categoria observada na citação, refere-se à modalidade de licitação obrigatória para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto, conceituada na Lei n&ordm; 14.133/2021, e especificada no item",
+            "question": "As secretarias de Administração e Educação de Sorocaba (SP) publicaram no Jornal do Município de quinta-feira (27) a abertura de modalidade de licitação destinada à contratação da empresa que prestará serviços de estruturação e operacionalização pedagógica das primeiras oito unidades do novo Sabe Tudo Conect@. Texto adaptado do portal g1 publicado em 29/07/2023, às 17h53, disponível em: https://g1.globo.com/sp/sorocaba-jundiai/noticia/2023/07/29/prefeitura-de -sorocaba-abre-licitacao-para-contratar-empresa-gestora-de-oito-novas- unidades- do-sabe-tudo.ghtml. Acessado em 12/11/2023. e da Lei nº 14.133, de 01/04/2021, que revogará a Lei 8666/93, em 30/12/2023, em conformidade com capítulo Ill, art. 06, inciso XLI, da Lei nº 14.133/21: A categoria observada na citação, refere-se à modalidade de licitação obrigatória para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto, conceituada na Lei nº 14.133/2021, e especificada no item",
             "options": [
               "Diálogo Competitivo.",
               "Leilão.",
@@ -6488,7 +6488,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827555-374",
             "chapter": "modalidades-de-licitacao-arts-28-a-32-da-lei-nº-141332021",
             "topic": "Modalidades de Licitação (arts. 28 a 32 da Lei nº 14.133/2021)",
-            "question": "Sobre o diálogo competitivo, uma das inovações mais significativas disposta pela Lei n.&ordm; 14.133/2021, não apenas por ser modalidade de licitação inédita, mas também por transcender o modelo autômato e estritamente vinculado de atuação administrativa após a publicação do edital, onipresente na Lei n.&ordm; 8.666/1993, assinale a alternativa correta .",
+            "question": "Sobre o diálogo competitivo, uma das inovações mais significativas disposta pela Lei n.º 14.133/2021, não apenas por ser modalidade de licitação inédita, mas também por transcender o modelo autômato e estritamente vinculado de atuação administrativa após a publicação do edital, onipresente na Lei n.º 8.666/1993, assinale a alternativa correta .",
             "options": [
               "Essa abordagem mais rígida, estimula a criatividade dos licitantes, porém não favorece a seleção da proposta mais vantajosa para a administração pública. O diálogo competitivo pode ser uma alternativa interessante em casos de contratações complexas ou inovadoras.",
               "Essa modalidade permite que a administração pública, em casos de contratações de grande complexidade técnica ou quando não há solução pronta no mercado, possa realizar uma conversa prévia com os licitantes e impor uma solução adequada para a demanda.",
@@ -6502,7 +6502,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827639-375",
             "chapter": "modalidades-de-licitacao-arts-28-a-32-da-lei-nº-141332021",
             "topic": "Modalidades de Licitação (arts. 28 a 32 da Lei nº 14.133/2021)",
-            "question": "Consoante ao disposto na Lei n.&ordm; 14.133/2021, considera-se",
+            "question": "Consoante ao disposto na Lei n.º 14.133/2021, considera-se",
             "options": [
               "que o leilão poderá ser cometido a leiloeiro oficial ou a servidor designado pela autoridade competente da Administração, e regulamento deverá dispor sobre seus procedimentos operacionais.",
               "que a concorrência e o pregão seguem o rito procedimental comum, adotando-se a concorrência sempre que o objeto possuir padrões de desempenho e qualidade que possam ser objetivamente definidos pelo edital, por meio de especificações usuais de mercado.",
@@ -6516,7 +6516,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2897562-376",
             "chapter": "modalidades-de-licitacao-arts-28-a-32-da-lei-nº-141332021",
             "topic": "Modalidades de Licitação (arts. 28 a 32 da Lei nº 14.133/2021)",
-            "question": "De acordo com a Lei Federal N&ordm; 14.133/2021, a modalidade de licitação adequada para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia, considerando os critérios de julgamento de menor preço, melhor técnica ou conteúdo artístico, técnica e preço, maior retorno econômico e maior desconto é o(a)",
+            "question": "De acordo com a Lei Federal Nº 14.133/2021, a modalidade de licitação adequada para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia, considerando os critérios de julgamento de menor preço, melhor técnica ou conteúdo artístico, técnica e preço, maior retorno econômico e maior desconto é o(a)",
             "options": [
               "diálogo competitivo.",
               "concorrência.",
@@ -6529,7 +6529,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2903693-377",
             "chapter": "modalidades-de-licitacao-arts-28-a-32-da-lei-nº-141332021",
             "topic": "Modalidades de Licitação (arts. 28 a 32 da Lei nº 14.133/2021)",
-            "question": "De acordo com a Lei N&ordm; 14.133/2021, há cinco modalidades licitatórias &#x2013; cada qual com características próprias e passíveis de serem utilizadas em situações específicas. Considerando-se as disposições acerca do pregão, pode-se afirmar que tal modalidade de licitação é obrigatória para",
+            "question": "De acordo com a Lei Nº 14.133/2021, há cinco modalidades licitatórias – cada qual com características próprias e passíveis de serem utilizadas em situações específicas. Considerando-se as disposições acerca do pregão, pode-se afirmar que tal modalidade de licitação é obrigatória para",
             "options": [
               "alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos a quem oferecer o maior lance.",
               "aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto.",
@@ -6570,7 +6570,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3032454-380",
             "chapter": "modalidades-de-licitacao-arts-28-a-32-da-lei-nº-141332021",
             "topic": "Modalidades de Licitação (arts. 28 a 32 da Lei nº 14.133/2021)",
-            "question": "&Agrave; luz da Lei de Licitações e Contratos Administrativos &#x2013; Lei n&ordm; 14.133/2021, assinale a alternativa que não contém modalidade de licitação nela prevista.",
+            "question": "À luz da Lei de Licitações e Contratos Administrativos – Lei nº 14.133/2021, assinale a alternativa que não contém modalidade de licitação nela prevista.",
             "options": [
               "Diálogo Competitivo.",
               "Tomada de Preços.",
@@ -6601,7 +6601,7 @@ export const SUBJECTS: Subject[] = [
             "question": "Acerca das modalidades de Licitação, assinale a alternativa correta.",
             "options": [
               "A concorrência, o diálogo competitivo e o pregão seguem o rito procedimental comum, adotando-se o pregão sempre que o objeto possuir padrões de desempenho e de qualidade que possam ser objetivamente definidos pelo edital, por meio de especificações usuais de mercado.",
-              "Se optar pela realização de leilão, por intermédio de leiloeiro oficial, a Administração deverá selecioná-lo mediante credenciamento ou licitação na modalidade pregão. Além disso, adotar o critério de julgamento de maior desconto para as comissões a serem cobradas; utilizar, como par&acirc;metro máximo, os percentuais definidos na lei que regula a referida profissão e observar os valores dos bens a serem leiloados.",
+              "Se optar pela realização de leilão, por intermédio de leiloeiro oficial, a Administração deverá selecioná-lo mediante credenciamento ou licitação na modalidade pregão. Além disso, adotar o critério de julgamento de maior desconto para as comissões a serem cobradas; utilizar, como parâmetro máximo, os percentuais definidos na lei que regula a referida profissão e observar os valores dos bens a serem leiloados.",
               "Embora seja vedada a criação de outras modalidades de licitação, além das atualmente previstas em lei, é permitida a combinação entre elas para a formação de uma modalidade mista.",
               "A modalidade diálogo competitivo é proibida a contratações em que a Administração verifique a necessidade de definir e de identificar meios e alternativas que possam satisfazer suas necessidades, como a busca pela solução técnica mais adequada."
             ],
@@ -6611,7 +6611,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3296046-384",
             "chapter": "modalidades-de-licitacao-arts-28-a-32-da-lei-nº-141332021",
             "topic": "Modalidades de Licitação (arts. 28 a 32 da Lei nº 14.133/2021)",
-            "question": "A Lei n&ordm; 14.133/2021 trouxe inúmeras inovações relacionadas ao campo da licitação, substituindo a Lei n&ordm; 8.666/1993. Uma das inovações envolveu o campo das modalidades, com a inserção de uma nova modalidade voltada para a contratação de inovações tecnológicas ou técnicas e para situações com impossibilidade de uma solução somente com o que está disponível no mercado. Tal modalidade corresponde ao(à)",
+            "question": "A Lei nº 14.133/2021 trouxe inúmeras inovações relacionadas ao campo da licitação, substituindo a Lei nº 8.666/1993. Uma das inovações envolveu o campo das modalidades, com a inserção de uma nova modalidade voltada para a contratação de inovações tecnológicas ou técnicas e para situações com impossibilidade de uma solução somente com o que está disponível no mercado. Tal modalidade corresponde ao(à)",
             "options": [
               "diálogo competitivo.",
               "chamamento público.",
@@ -6639,7 +6639,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2767883-386",
             "chapter": "modalidades-de-licitacao-arts-28-a-32-da-lei-nº-141332021",
             "topic": "Modalidades de Licitação (arts. 28 a 32 da Lei nº 14.133/2021)",
-            "question": "A respeito da modalidade de licitação Diálogo Competitivo, definida no Art. 6&ordm;, da Lei Federal 14.133/2021 (estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios), admite-se que",
+            "question": "A respeito da modalidade de licitação Diálogo Competitivo, definida no Art. 6º, da Lei Federal 14.133/2021 (estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios), admite-se que",
             "options": [
               "trata-se da modalidade de licitação para bens e serviços comuns em que a Administração realiza diálogos com licitantes, previamente selecionados mediante critérios objetivos, com o intuito de desenvolver uma ou mais alternativas capazes de atender às suas necessidades, devendo os mesmos apresentarem proposta final após o encerramento dos diálogos.",
               "a Administração apresentará, por ocasião da divulgação do edital, em sítio eletrônico oficial, suas necessidades e as exigências já definidas e estabelecerá prazo mínimo de 30 (trinta) dias úteis para manifestação de interesse na participação da licitação.",
@@ -6661,7 +6661,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3969494-352",
             "chapter": "objetivos-fases-e-formalidades-arts-11-a-17-da-lei-nº-141332021",
             "topic": "Objetivos, Fases e Formalidades (arts. 11 a 17 da Lei nº 14.133/2021)",
-            "question": "De acordo com a Lei n&ordm; 14.133/2021 (Nova Lei de Licitações e Contratos), estão impedidos de participar, direta ou indiretamente, de licitação os agentes ou empresas nas situações a seguir, exceto:",
+            "question": "De acordo com a Lei nº 14.133/2021 (Nova Lei de Licitações e Contratos), estão impedidos de participar, direta ou indiretamente, de licitação os agentes ou empresas nas situações a seguir, exceto:",
             "options": [
               "Empresas cujos dirigentes ou responsáveis legais tenham sido condenados por crime contra a Administração Pública, enquanto não cumprida a pena ou reabilitação.",
               "Empresas que tenham cometido fraude em licitação anterior, enquanto durar a sanção administrativa.",
@@ -6675,13 +6675,13 @@ export const SUBJECTS: Subject[] = [
             "id": "4098848-353",
             "chapter": "objetivos-fases-e-formalidades-arts-11-a-17-da-lei-nº-141332021",
             "topic": "Objetivos, Fases e Formalidades (arts. 11 a 17 da Lei nº 14.133/2021)",
-            "question": "A Lei n&ordm; 14.133/2021 estabelece critérios objetivos para o julgamento de propostas (art. 33) e veda a participação de determinados licitantes em situações específicas (art. 73 e 74). Considerando essas normas, indique a opção correta.",
+            "question": "A Lei nº 14.133/2021 estabelece critérios objetivos para o julgamento de propostas (art. 33) e veda a participação de determinados licitantes em situações específicas (art. 73 e 74). Considerando essas normas, indique a opção correta.",
             "options": [
               "Uma empresa que ofereça menor preço, mas tenha sócio que exerceu função de comissão de licitação em processo anterior está impedida de participar direta ou indiretamente, salvo se houver afastamento formal do sócio do processo em curso.",
-              "Uma empresa cujo diretor tenha sido condenado por crime contra a Administração Pública pode participar normalmente de licitação cujo critério de julgamento seja &#x201c;maior retorno econômico&#x201d;, desde que o contrato seja inferior a R$ 1 milhão.",
-              "Em licitação cujo critério de julgamento seja &#x201c;técnica e preço&#x201d;, uma empresa declarada inidônea por órgão da Administração Pública pode participar indiretamente, desde que use uma empresa subsidiária não inidônea.",
-              "Em licitação cujo critério seja &#x201c;melhor técnica&#x201d;, empresas com antecedentes de fraude em licitação anterior não podem participar, mas a sanção não impede participação se o processo licitatório for de caráter emergencial.",
-              "O critério de julgamento &#x201c;maior retorno econômico&#x201d; dispensa a verificação de impedimentos legais, pois se trata de análise de eficiência financeira e não de legalidade da participação."
+              "Uma empresa cujo diretor tenha sido condenado por crime contra a Administração Pública pode participar normalmente de licitação cujo critério de julgamento seja “maior retorno econômico”, desde que o contrato seja inferior a R$ 1 milhão.",
+              "Em licitação cujo critério de julgamento seja “técnica e preço”, uma empresa declarada inidônea por órgão da Administração Pública pode participar indiretamente, desde que use uma empresa subsidiária não inidônea.",
+              "Em licitação cujo critério seja “melhor técnica”, empresas com antecedentes de fraude em licitação anterior não podem participar, mas a sanção não impede participação se o processo licitatório for de caráter emergencial.",
+              "O critério de julgamento “maior retorno econômico” dispensa a verificação de impedimentos legais, pois se trata de análise de eficiência financeira e não de legalidade da participação."
             ],
             "correctIndex": 0
           },
@@ -6689,7 +6689,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4154766-354",
             "chapter": "objetivos-fases-e-formalidades-arts-11-a-17-da-lei-nº-141332021",
             "topic": "Objetivos, Fases e Formalidades (arts. 11 a 17 da Lei nº 14.133/2021)",
-            "question": "Durante a fase inicial de planejamento de uma contratação pública, a equipe técnica responsável pela instrução processual examinou as exigências legais relativas à preparação do procedimento licitatório, especialmente quanto à necessidade de alinhamento das contratações com os instrumentos de planejamento institucional. &Agrave; luz da Lei n&ordm; 14.133/2021, aponte a opção correta.",
+            "question": "Durante a fase inicial de planejamento de uma contratação pública, a equipe técnica responsável pela instrução processual examinou as exigências legais relativas à preparação do procedimento licitatório, especialmente quanto à necessidade de alinhamento das contratações com os instrumentos de planejamento institucional. À luz da Lei nº 14.133/2021, aponte a opção correta.",
             "options": [
               "A fase preparatória inicia-se após a homologação da licitação.",
               "A fase preparatória é dispensável nas contratações de bens e serviços comuns.",
@@ -6703,13 +6703,13 @@ export const SUBJECTS: Subject[] = [
             "id": "4154828-355",
             "chapter": "objetivos-fases-e-formalidades-arts-11-a-17-da-lei-nº-141332021",
             "topic": "Objetivos, Fases e Formalidades (arts. 11 a 17 da Lei nº 14.133/2021)",
-            "question": "Durante a elaboração de estudo técnico preliminar, a equipe responsável examinou os objetivos legalmente atribuídos ao processo licitatório pela Lei n&ordm; 14.133/2021. Diante dessa situação, assinale a alternativa correta.",
+            "question": "Durante a elaboração de estudo técnico preliminar, a equipe responsável examinou os objetivos legalmente atribuídos ao processo licitatório pela Lei nº 14.133/2021. Diante dessa situação, assinale a alternativa correta.",
             "options": [
-              "O processo licitatório tem por objetivo assegurar a contratação do menor preço, independentemente das demais circunst&acirc;ncias.",
+              "O processo licitatório tem por objetivo assegurar a contratação do menor preço, independentemente das demais circunstâncias.",
               "O processo licitatório tem por objetivo assegurar a contratação do fornecedor previamente escolhido pela Administração.",
               "O processo licitatório tem por objetivo assegurar a contratação de proposta economicamente mais onerosa para a Administração.",
               "O processo licitatório tem por objetivo assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de vida do objeto.",
-              "O processo licitatório tem por objetivo assegurar a livre escolha do contratado sem observ&acirc;ncia de critérios objetivos."
+              "O processo licitatório tem por objetivo assegurar a livre escolha do contratado sem observância de critérios objetivos."
             ],
             "correctIndex": 3
           },
@@ -6717,7 +6717,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4155156-356",
             "chapter": "objetivos-fases-e-formalidades-arts-11-a-17-da-lei-nº-141332021",
             "topic": "Objetivos, Fases e Formalidades (arts. 11 a 17 da Lei nº 14.133/2021)",
-            "question": "Durante a preparação de contratação destinada à modernização dos sistemas informatizados de gestão da Assembleia Legislativa, a equipe responsável realizou estudos técnicos preliminares, avaliou alternativas disponíveis no mercado, identificou riscos relevantes e definiu requisitos alinhados aos objetivos institucionais. Considerando a lógica contempor&acirc;nea das contratações públicas, a providência descrita evidencia a import&acirc;ncia do(a):",
+            "question": "Durante a preparação de contratação destinada à modernização dos sistemas informatizados de gestão da Assembleia Legislativa, a equipe responsável realizou estudos técnicos preliminares, avaliou alternativas disponíveis no mercado, identificou riscos relevantes e definiu requisitos alinhados aos objetivos institucionais. Considerando a lógica contemporânea das contratações públicas, a providência descrita evidencia a importância do(a):",
             "options": [
               "Planejamento da contratação como instrumento de geração de resultados e mitigação de riscos.",
               "Centralização decisória como condição necessária para a validade da contratação.",
@@ -6731,7 +6731,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3619488-357",
             "chapter": "objetivos-fases-e-formalidades-arts-11-a-17-da-lei-nº-141332021",
             "topic": "Objetivos, Fases e Formalidades (arts. 11 a 17 da Lei nº 14.133/2021)",
-            "question": "Na forma da Lei Federal n&ordm; 14.133, de 01/04/2021, que regula as licitações e contratos do poder público, não poderão disputar licitação ou participar da execução de contrato, direta ou indiretamente:",
+            "question": "Na forma da Lei Federal nº 14.133, de 01/04/2021, que regula as licitações e contratos do poder público, não poderão disputar licitação ou participar da execução de contrato, direta ou indiretamente:",
             "options": [
               "indivíduo que, em virtude de eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, exerce mandato, cargo, emprego ou função em pessoa jurídica integrante da Administração Pública.",
               "pessoa física ou jurídica, ou consórcio de pessoas jurídicas, que participa ou manifesta a intenção de participar de processo licitatório, sendo-lhe equiparável, para os fins desta Lei, o fornecedor ou o prestador de serviço que, em atendimento à solicitação da Administração, oferece proposta.",
@@ -6745,7 +6745,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3619502-358",
             "chapter": "objetivos-fases-e-formalidades-arts-11-a-17-da-lei-nº-141332021",
             "topic": "Objetivos, Fases e Formalidades (arts. 11 a 17 da Lei nº 14.133/2021)",
-            "question": "Conforme define a Lei Federal n&ordm; 14.133, de 01/04/2021, no processo licitatório, observar-se-á corretamente o seguinte:",
+            "question": "Conforme define a Lei Federal nº 14.133, de 01/04/2021, no processo licitatório, observar-se-á corretamente o seguinte:",
             "options": [
               "garantir seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de vida do objeto; dentre outros.",
               "assegurar tratamento isonômico entre os licitantes, bem como a justa competição; dentre outros.",
@@ -6759,7 +6759,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827161-359",
             "chapter": "objetivos-fases-e-formalidades-arts-11-a-17-da-lei-nº-141332021",
             "topic": "Objetivos, Fases e Formalidades (arts. 11 a 17 da Lei nº 14.133/2021)",
-            "question": "A Constituição Federal de 1988, dispõe, no inciso XXI do artigo 37: &#x201c;XXI - ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública que assegure igualdade de condições a todos os concorrentes, com cláusulas que estabeleçam obrigações de pagamento, mantidas as condições efetivas da proposta, nos termos da lei, o qual somente permitirá as exigências de qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações.&#x201d; Texto retirado de: Disponível em: https:/Avww.gov.br/saude/pt-br/acesso-a-informacao/banco-de-precos/legislacao lconstituicao-federal-de-05-de-outubro-de-1988-art-37-inciso-pxdxf/i. Acessado em 14/11/2023. A licitação é um procedimento constituído por atos e fatos do licitante, todos contribuindo para formar a vontade contratual, que tem por objetivo, de acordo com a Lei n.&ordm; 14.133, de 01/04/2021, que revogará a Lei 8.666/1993, em 30/12/2023, em conformidade com artigo 193, inciso II, alinea da Lei n.&ordm; 14.133/2021",
+            "question": "A Constituição Federal de 1988, dispõe, no inciso XXI do artigo 37: “XXI - ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública que assegure igualdade de condições a todos os concorrentes, com cláusulas que estabeleçam obrigações de pagamento, mantidas as condições efetivas da proposta, nos termos da lei, o qual somente permitirá as exigências de qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações.” Texto retirado de: Disponível em: https:/Avww.gov.br/saude/pt-br/acesso-a-informacao/banco-de-precos/legislacao lconstituicao-federal-de-05-de-outubro-de-1988-art-37-inciso-pxdxf/i. Acessado em 14/11/2023. A licitação é um procedimento constituído por atos e fatos do licitante, todos contribuindo para formar a vontade contratual, que tem por objetivo, de acordo com a Lei n.º 14.133, de 01/04/2021, que revogará a Lei 8.666/1993, em 30/12/2023, em conformidade com artigo 193, inciso II, alinea da Lei n.º 14.133/2021",
             "options": [
               "assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de vida do objeto.",
               "permitir remanejamento de contratos entre os licitantes a critério da Administração Pública.",
@@ -6773,13 +6773,13 @@ export const SUBJECTS: Subject[] = [
             "id": "2827633-360",
             "chapter": "objetivos-fases-e-formalidades-arts-11-a-17-da-lei-nº-141332021",
             "topic": "Objetivos, Fases e Formalidades (arts. 11 a 17 da Lei nº 14.133/2021)",
-            "question": "Acerca das disposições inerentes ao processo licitatório abordadas na Lei n&deg; 14.133/2021, é correto afirmar que",
+            "question": "Acerca das disposições inerentes ao processo licitatório abordadas na Lei n° 14.133/2021, é correto afirmar que",
             "options": [
               "equiparam-se aos autores do projeto, as empresas integrantes de grupos econômicos diversos.",
               "tem por objetivo assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de vida do objeto.",
               "poderão disputar ou participar da execução de contrato de forma indireta pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitadas de participar, em decorrência de sanção que lhe foi imposta.",
               "o autor dos projetos e a empresa não poderão participar no apoio das atividades de planejamento da contratação, de execução da licitação ou de gestão do contrato, desde que sob supervisão exclusiva de agentes públicos do órgão ou entidade, mesmo que a critério da administração.",
-              "em licitações e contratações realizadas no &acirc;mbito de projetos e programas parcialmente financiados por agência oficial de cooperação estrangeira ou por organismo financeiro internacional com recursos do financiamento ou da contrapartida nacional, será admitida a participação de pessoa física ou jurídica que integre o rol de pessoas sancionadas por essas entidades."
+              "em licitações e contratações realizadas no âmbito de projetos e programas parcialmente financiados por agência oficial de cooperação estrangeira ou por organismo financeiro internacional com recursos do financiamento ou da contrapartida nacional, será admitida a participação de pessoa física ou jurídica que integre o rol de pessoas sancionadas por essas entidades."
             ],
             "correctIndex": 1
           },
@@ -6792,7 +6792,7 @@ export const SUBJECTS: Subject[] = [
               "Um de seus objetivos é permitir contratações com sobrepreço ou com preços manifestamente inexequíveis e superfaturamento na execução dos contratos.",
               "Sempre haverá exigência de reconhecimento de firma.",
               "Sua publicidade será diferida quanto ao conteúdo das propostas até o julgamento da licitação.",
-              "É vedada a disputa de licitações, direta ou indiretamente, por pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha sido condenada judicialmente, com tr&acirc;nsito em julgado, por exploração de trabalho infantil, por submissão de trabalhadores a condições análogas às de escravo ou por contratação de adolescentes nos casos vedados pela legislação trabalhista.",
+              "É vedada a disputa de licitações, direta ou indiretamente, por pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha sido condenada judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por submissão de trabalhadores a condições análogas às de escravo ou por contratação de adolescentes nos casos vedados pela legislação trabalhista.",
               "As licitações serão realizadas preferencialmente sob a forma presencial, admitida a utilização da modalidade eletrônica, desde que motivada, devendo a sessão pública ser registrada em ata e gravada em áudio e vídeo."
             ],
             "correctIndex": 3
@@ -6801,7 +6801,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3276638-362",
             "chapter": "objetivos-fases-e-formalidades-arts-11-a-17-da-lei-nº-141332021",
             "topic": "Objetivos, Fases e Formalidades (arts. 11 a 17 da Lei nº 14.133/2021)",
-            "question": "Tendo em vista as disposições expressas na Lei Federal n&ordm; 14.133/2021, que disciplinam a licitação e contrato, especialmente sobre o tópico da habilitação, assinale a alternativa correta.",
+            "question": "Tendo em vista as disposições expressas na Lei Federal nº 14.133/2021, que disciplinam a licitação e contrato, especialmente sobre o tópico da habilitação, assinale a alternativa correta.",
             "options": [
               "A habilitação é a fase da licitação em que se verifica o conjunto de informações e documentos necessários e suficientes para demonstrar a capacidade do licitante de realizar o objeto da licitação.",
               "Será exigida a apresentação dos documentos de habilitação para todos os licitantes, exceto quando a fase de habilitação anteceder a de julgamento.",
@@ -6815,13 +6815,13 @@ export const SUBJECTS: Subject[] = [
             "id": "2769295-363",
             "chapter": "objetivos-fases-e-formalidades-arts-11-a-17-da-lei-nº-141332021",
             "topic": "Objetivos, Fases e Formalidades (arts. 11 a 17 da Lei nº 14.133/2021)",
-            "question": "Dentre as alternativas a seguir, indique a que não corresponde a alguns exemplos de pessoas físicas ou jurídicas que não poderão disputar licitação ou participar da execução de contrato, direta ou indiretamente, segundo o disposto na Lei Federal N&ordm; 14.133/2021 (Lei de Licitações e Contratos Administrativos).",
+            "question": "Dentre as alternativas a seguir, indique a que não corresponde a alguns exemplos de pessoas físicas ou jurídicas que não poderão disputar licitação ou participar da execução de contrato, direta ou indiretamente, segundo o disposto na Lei Federal Nº 14.133/2021 (Lei de Licitações e Contratos Administrativos).",
             "options": [
               "O autor do projeto executivo (da licitação), atuando no apoio da atividade de planejamento da contratação, desde que sob supervisão exclusiva de agentes públicos do órgão ou entidade.",
               "A pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada de participar da licitação em decorrência de sanção que lhe foi imposta.",
               "Aquele que mantenha vínculo, de natureza técnica, com dirigente do órgão ou entidade contratante ou com agente público que desempenhe função na licitação.",
               "As empresas controladoras, controladas ou coligadas que sejam caracterizadas como companhia ou sociedade anônima.",
-              "A pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha sido condenada judicialmente, com tr&acirc;nsito em julgado, por exploração de trabalho infantil."
+              "A pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha sido condenada judicialmente, com trânsito em julgado, por exploração de trabalho infantil."
             ],
             "correctIndex": 0
           }
@@ -6837,7 +6837,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3614398-453",
             "chapter": "portal-nacional-de-contratacoes-publicas--pncp-arts-174-a-176-da-lei-nº-141332021",
             "topic": "Portal Nacional de Contratações Públicas - PNCP (arts. 174 a 176 da Lei nº 14.133/2021)",
-            "question": "Define a Lei Federal n&ordm; 14.133, de 01/04/2021 (Licitações e Contratos), que a divulgação no Portal Nacional de Contratações Públicas (PNCP) é condição indispensável para a eficácia do contrato e de seus aditamentos e deverá ocorrer nos seguintes prazos, contados da data de sua assinatura:",
+            "question": "Define a Lei Federal nº 14.133, de 01/04/2021 (Licitações e Contratos), que a divulgação no Portal Nacional de Contratações Públicas (PNCP) é condição indispensável para a eficácia do contrato e de seus aditamentos e deverá ocorrer nos seguintes prazos, contados da data de sua assinatura:",
             "options": [
               "30 (trinta) dias úteis, no caso de licitação; e 15 (quinze) dias úteis, no caso de contratação direta.",
               "10 (dez) dias úteis, no caso de licitação; e 10 (dez) dias úteis, no caso de contratação direta.",
@@ -6859,7 +6859,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827680-434",
             "chapter": "prerrogativas-da-administracao-art-104-da-lei-nº-141332021",
             "topic": "Prerrogativas da Administração (art. 104 da Lei nº 14.133/2021)",
-            "question": "O regime jurídico de contratação da Administração Pública confere prerrogativas ao Estado, consistente em situações de vantagem que permite à Administração, e somente a ela, a adoção de medidas específicas próprias do direito, em decorrência de sua posição de preponder&acirc;ncia relativamente ao particular contratado. De acordo com o Direito Administrativo brasileiro, a Administração Pública pode",
+            "question": "O regime jurídico de contratação da Administração Pública confere prerrogativas ao Estado, consistente em situações de vantagem que permite à Administração, e somente a ela, a adoção de medidas específicas próprias do direito, em decorrência de sua posição de preponderância relativamente ao particular contratado. De acordo com o Direito Administrativo brasileiro, a Administração Pública pode",
             "options": [
               "ocupar provisoriamente bens móveis e imóveis, bem como de utilização de pessoal e serviços vinculados ao objeto do contrato, nas hipóteses de risco à prestação de serviços essenciais.",
               "extinguir unilateralmente o contrato por ato discricionário do Chefe do Executivo, nos 180 (cento e oitenta) dias após a contratação.",
@@ -6894,7 +6894,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3969540-330",
             "chapter": "principios-art-5º-da-lei-nº-141332021",
             "topic": "Princípios (art. 5º da Lei nº 14.133/2021)",
-            "question": "A Administração Pública, ao necessitar adquirir materiais de consumo para a manutenção das atividades de uma unidade do PROCON, deve, como regra, realizar o devido processo licitatório observando uma série de princípios fundamentais que regem a conduta do agente público dispostos na Lei n&ordm; 14.133/2021. Dentre os princípios expressamente previstos, destaca-se o princípio da segregação de funções, que consiste em:",
+            "question": "A Administração Pública, ao necessitar adquirir materiais de consumo para a manutenção das atividades de uma unidade do PROCON, deve, como regra, realizar o devido processo licitatório observando uma série de princípios fundamentais que regem a conduta do agente público dispostos na Lei nº 14.133/2021. Dentre os princípios expressamente previstos, destaca-se o princípio da segregação de funções, que consiste em:",
             "options": [
               "Garantir que todos os atos do processo licitatório sejam sigilosos até a data da assinatura do contrato, visando proteger a estratégia da administração.",
               "Permitir que o gestor público escolha livremente o fornecedor de sua preferência, desde que este apresente a proposta mais célere para o órgão.",
@@ -6908,10 +6908,10 @@ export const SUBJECTS: Subject[] = [
             "id": "4154830-331",
             "chapter": "principios-art-5º-da-lei-nº-141332021",
             "topic": "Princípios (art. 5º da Lei nº 14.133/2021)",
-            "question": "No planejamento e na condução de procedimento licitatório, a Administração Pública deve observar par&acirc;metros jurídicos que orientam a atuação dos agentes envolvidos e o controle dos atos praticados. Com fundamento na Lei n&ordm; 14.133/2021, assinale a alternativa correta.",
+            "question": "No planejamento e na condução de procedimento licitatório, a Administração Pública deve observar parâmetros jurídicos que orientam a atuação dos agentes envolvidos e o controle dos atos praticados. Com fundamento na Lei nº 14.133/2021, assinale a alternativa correta.",
             "options": [
               "São definidos no edital como critérios secundários, aplicáveis conforme decisão da comissão ou do agente responsável pela contratação.",
-              "Prevalecem como par&acirc;metros de gestão interna, sem repercussão sobre o julgamento das propostas e o controle dos atos do procedimento.",
+              "Prevalecem como parâmetros de gestão interna, sem repercussão sobre o julgamento das propostas e o controle dos atos do procedimento.",
               "Funcionam como diretrizes programáticas, cuja aplicação depende de regulamentação específica do órgão ou da entidade contratante.",
               "São substituídos pelas condições comerciais apresentadas pelo licitante vencedor depois da homologação do resultado do certame.",
               "Devem incidir, entre outros, legalidade, impessoalidade, moralidade, publicidade, eficiência, interesse público, planejamento, transparência, vinculação ao edital e julgamento objetivo."
@@ -6922,7 +6922,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827693-332",
             "chapter": "principios-art-5º-da-lei-nº-141332021",
             "topic": "Princípios (art. 5º da Lei nº 14.133/2021)",
-            "question": "Princípio que se dirige tanto à Administração Pública quanto aos licitantes. Se Administração Pública desrespeitar as normas e condições do edital, o procedimento licitatório torna-se suscetível de nulidade. Se os licitantes deixarem de atender os requisitos do edital ou carta-convite, serão considerados inabilitados; se deixarem de atender às exigências concernentes à proposta, serão desclassificados. O edital ou a carta-convite dispõem sobre as condições para participar da licitação e as cláusulas essenciais do futuro contrato, de sorte que os interessados apresentam suas propostas a partir desses elementos. Assim, se for aceita proposta ou celebrado contrato em inobserv&acirc;ncia às condições previamente estabelecidas, o procedimento licitatório estará eivado de vício, porque aquele que se prendeu aos termos do edital poderá ser prejudicado pela melhor proposta apresentado por outro licitante que os desrespeitou. Assinale a alternativa que corresponde, de maneira preponderante, ao princípio informativo da licitação descrito no enunciado.",
+            "question": "Princípio que se dirige tanto à Administração Pública quanto aos licitantes. Se Administração Pública desrespeitar as normas e condições do edital, o procedimento licitatório torna-se suscetível de nulidade. Se os licitantes deixarem de atender os requisitos do edital ou carta-convite, serão considerados inabilitados; se deixarem de atender às exigências concernentes à proposta, serão desclassificados. O edital ou a carta-convite dispõem sobre as condições para participar da licitação e as cláusulas essenciais do futuro contrato, de sorte que os interessados apresentam suas propostas a partir desses elementos. Assim, se for aceita proposta ou celebrado contrato em inobservância às condições previamente estabelecidas, o procedimento licitatório estará eivado de vício, porque aquele que se prendeu aos termos do edital poderá ser prejudicado pela melhor proposta apresentado por outro licitante que os desrespeitou. Assinale a alternativa que corresponde, de maneira preponderante, ao princípio informativo da licitação descrito no enunciado.",
             "options": [
               "Vinculação ao instrumento convocatório.",
               "Adjudicação compulsória",
@@ -6936,7 +6936,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3296013-333",
             "chapter": "principios-art-5º-da-lei-nº-141332021",
             "topic": "Princípios (art. 5º da Lei nº 14.133/2021)",
-            "question": "A Lei n&ordm; 14.133/2021 traz elementos para que as contratações públicas sejam sustentáveis, por isso, comumente são chamadas como licitações verdes. O horizonte de garantir as contratações sustentáveis envolve a terminologia do desenvolvimento sustentável nacional. Tal termo aparece",
+            "question": "A Lei nº 14.133/2021 traz elementos para que as contratações públicas sejam sustentáveis, por isso, comumente são chamadas como licitações verdes. O horizonte de garantir as contratações sustentáveis envolve a terminologia do desenvolvimento sustentável nacional. Tal termo aparece",
             "options": [
               "somente enquanto princípio da licitação.",
               "somente enquanto objetivo do processo licitatório.",
@@ -6950,7 +6950,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4080716-334",
             "chapter": "principios-art-5º-da-lei-nº-141332021",
             "topic": "Princípios (art. 5º da Lei nº 14.133/2021)",
-            "question": "A nova lei geral de licitações e contratos (Lei n&ordm; 14.133/2021) surgiu como um compilado de leis, decretos, instruções normativas e até jurisprudências produzidas após a Lei n&ordm; 8.666/1993, possuindo regras bastante parecidas com sua antecessora, mas também trazendo para norma geral definições que antes estavam esparsas. Nesse sentido, uma das inovações trazidas pela nova lei é um vasto rol de princípios, estabelecidos em seu artigo 5&ordm;. Na aplicação desta Lei, a alternativa que traz alguns dos princípios explícitos na lei a serem observados é o",
+            "question": "A nova lei geral de licitações e contratos (Lei nº 14.133/2021) surgiu como um compilado de leis, decretos, instruções normativas e até jurisprudências produzidas após a Lei nº 8.666/1993, possuindo regras bastante parecidas com sua antecessora, mas também trazendo para norma geral definições que antes estavam esparsas. Nesse sentido, uma das inovações trazidas pela nova lei é um vasto rol de princípios, estabelecidos em seu artigo 5º. Na aplicação desta Lei, a alternativa que traz alguns dos princípios explícitos na lei a serem observados é o",
             "options": [
               "princípio do desenvolvimento nacional sustentável, da segurança jurídica e do do planejamento.",
               "princípio da razoabilidade, da competitividade, da primazia da realidade.",
@@ -6985,7 +6985,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4155121-228",
             "chapter": "teoria-dos-motivos-determinantes",
             "topic": "Teoria dos Motivos Determinantes",
-            "question": "No &acirc;mbito de uma Assembleia Legislativa, determinada autoridade editou ato administrativo destinado a reorganizar o fluxo interno de tramitação de processos administrativos relacionados ao monitoramento do planejamento estratégico institucional. Após sua edição, verificou-se que o ato observava os requisitos legais de competência, forma e finalidade, porém continha pressupostos fáticos posteriormente demonstrados como inexistentes. Considerando a teoria dos atos administrativos, a situação descrita afeta predominantemente:",
+            "question": "No âmbito de uma Assembleia Legislativa, determinada autoridade editou ato administrativo destinado a reorganizar o fluxo interno de tramitação de processos administrativos relacionados ao monitoramento do planejamento estratégico institucional. Após sua edição, verificou-se que o ato observava os requisitos legais de competência, forma e finalidade, porém continha pressupostos fáticos posteriormente demonstrados como inexistentes. Considerando a teoria dos atos administrativos, a situação descrita afeta predominantemente:",
             "options": [
               "A finalidade administrativa, uma vez que a inexistência dos pressupostos fáticos impede a persecução do interesse público.",
               "O atributo da imperatividade, por comprometer a coercibilidade do ato perante os administrados.",
@@ -7007,7 +7007,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3966681-301",
             "chapter": "tramite-do-processo-arts-5º-a-10-e-29-a-50-da-lei-nº-97841999",
             "topic": "Trâmite do Processo (arts. 5º a 10 e 29 a 50 da Lei nº 9.784/1999)",
-            "question": "Considerando as disposições da Lei n&ordm; 9.784/1999 sobre o início e a formulação de requerimentos no processo administrativo federal, assinale a afirmativa correta.",
+            "question": "Considerando as disposições da Lei nº 9.784/1999 sobre o início e a formulação de requerimentos no processo administrativo federal, assinale a afirmativa correta.",
             "options": [
               "O requerimento inicial deve conter obrigatoriamente a identificação do interessado, o domicílio do requerente, a formulação do pedido com exposição dos fatos e fundamentos, data e assinatura, sendo vedada à administração a recusa imotivada de documentos.",
               "O processo administrativo deve iniciar-se exclusivamente a pedido de interessado, sendo vedada a instauração de ofício pela administração pública.",
@@ -7020,10 +7020,10 @@ export const SUBJECTS: Subject[] = [
             "id": "4040083-302",
             "chapter": "tramite-do-processo-arts-5º-a-10-e-29-a-50-da-lei-nº-97841999",
             "topic": "Trâmite do Processo (arts. 5º a 10 e 29 a 50 da Lei nº 9.784/1999)",
-            "question": "No que tange ao início do processo administrativo no &acirc;mbito da Administração Pública Federal, a Lei n&ordm; 9.784/1999 estabelece ritos e formalidades que visam equilibrar a eficiência administrativa e as garantias dos administrados. Considere a situação de um grupo de docentes que pretende formular uma petição conjunta sobre o mesmo tema. &Agrave; luz das disposições legais sobre a instauração do processo, assinale a afirmativa correta.",
+            "question": "No que tange ao início do processo administrativo no âmbito da Administração Pública Federal, a Lei nº 9.784/1999 estabelece ritos e formalidades que visam equilibrar a eficiência administrativa e as garantias dos administrados. Considere a situação de um grupo de docentes que pretende formular uma petição conjunta sobre o mesmo tema. À luz das disposições legais sobre a instauração do processo, assinale a afirmativa correta.",
             "options": [
               "A Administração Pública possui a prerrogativa discricionária de recusar o recebimento de documentos que apresentem falhas formais, de modo a evitar a instauração de processos fadados ao indeferimento.",
-              "O processo administrativo federal é regido pelo princípio da inst&acirc;ncia, de modo que sua instauração depende obrigatoriamente do requerimento do interessado, sendo vedado o início do processo de ofício.",
+              "O processo administrativo federal é regido pelo princípio da instância, de modo que sua instauração depende obrigatoriamente do requerimento do interessado, sendo vedado o início do processo de ofício.",
               "Admite-se que uma pluralidade de interessados com pretensões e fundamentos idênticos formule os seus pedidos através de um único requerimento, desde que não haja preceito legal em sentido contrário.",
               "Em atenção ao princípio da informalidade e da especificidade de cada caso, é vedado aos órgãos administrativos a elaboração de modelos ou formulários padronizados para o exercício do direito de petição.",
               "O ordenamento jurídico estabelece a solicitação oral como a regra geral para o requerimento inicial do interessado, sendo a forma escrita exigida apenas como exceção nos casos de processos de maior complexidade."
@@ -7034,11 +7034,11 @@ export const SUBJECTS: Subject[] = [
             "id": "3619497-303",
             "chapter": "tramite-do-processo-arts-5º-a-10-e-29-a-50-da-lei-nº-97841999",
             "topic": "Trâmite do Processo (arts. 5º a 10 e 29 a 50 da Lei nº 9.784/1999)",
-            "question": "A Lei Federal n&ordm; 9.784 de 29/01/1999, que regula o processo administrativo no &acirc;mbito da Administração Pública Federal, nos diz que as atividades de instrução destinadas a averiguar e comprovar os dados necessários à tomada de decisão realizam-se de ofício ou mediante impulsão do órgão responsável pelo processo, sem prejuízo do direito dos interessados de propor atuações probatórias. Assim, está correto apenas o dito em:",
+            "question": "A Lei Federal nº 9.784 de 29/01/1999, que regula o processo administrativo no âmbito da Administração Pública Federal, nos diz que as atividades de instrução destinadas a averiguar e comprovar os dados necessários à tomada de decisão realizam-se de ofício ou mediante impulsão do órgão responsável pelo processo, sem prejuízo do direito dos interessados de propor atuações probatórias. Assim, está correto apenas o dito em:",
             "options": [
               "A abertura da consulta pública será objeto de divulgação pelos meios oficiais, a fim de que pessoas físicas ou jurídicas possam examinar os autos, fixando-se prazo de 5 (cinco) dias úteis para oferecimento de alegações escritas.",
               "Os resultados da consulta e audiência pública e de outros meios de participação de administrados deverão ser apresentados com a indicação do procedimento adotado em meios de comunicação de massa.",
-              "Antes da tomada de decisão, diante da relev&acirc;ncia da questão, deverá ser realizada audiência pública para debates sobre a matéria do processo.",
+              "Antes da tomada de decisão, diante da relevância da questão, deverá ser realizada audiência pública para debates sobre a matéria do processo.",
               "Os atos de instrução que exijam a atuação dos interessados devem realizar-se do modo menos oneroso para estes.",
               "O comparecimento à consulta pública confere, por si, a condição de interessado do processo."
             ],
@@ -7048,7 +7048,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3619501-304",
             "chapter": "tramite-do-processo-arts-5º-a-10-e-29-a-50-da-lei-nº-97841999",
             "topic": "Trâmite do Processo (arts. 5º a 10 e 29 a 50 da Lei nº 9.784/1999)",
-            "question": "Tomando por base o prescrito e regulado pela Lei Federal n&ordm; 9.784/05, que regula o processo administrativo no &acirc;mbito da Administração Pública Federal, os atos administrativos deverão ser motivados, com indicação dos fatos e dos fundamentos jurídicos, quando:",
+            "question": "Tomando por base o prescrito e regulado pela Lei Federal nº 9.784/05, que regula o processo administrativo no âmbito da Administração Pública Federal, os atos administrativos deverão ser motivados, com indicação dos fatos e dos fundamentos jurídicos, quando:",
             "options": [
               "deixem de aplicar jurisprudência firmada sobre a questão ou discrepem de pareceres, laudos, propostas e relatórios oficiais; dentre outros.",
               "neguem, limitem ou afetem deveres, encargos e sanções; dentre outros.",
@@ -7062,7 +7062,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3726719-305",
             "chapter": "tramite-do-processo-arts-5º-a-10-e-29-a-50-da-lei-nº-97841999",
             "topic": "Trâmite do Processo (arts. 5º a 10 e 29 a 50 da Lei nº 9.784/1999)",
-            "question": "Roberto, cidadão brasileiro maior de idade, tomou conhecimento da instauração de um processo administrativo no &acirc;mbito da Administração Pública Federal, cujo resultado poderá impactar diretamente um direito que lhe é assegurado. Embora ele não tenha iniciado o processo, Roberto pretende intervir como interessado. Considerando as disposições da Lei n&ordm; 9.784/1999 acerca da legitimação para participação no processo administrativo, marque a opção correta.",
+            "question": "Roberto, cidadão brasileiro maior de idade, tomou conhecimento da instauração de um processo administrativo no âmbito da Administração Pública Federal, cujo resultado poderá impactar diretamente um direito que lhe é assegurado. Embora ele não tenha iniciado o processo, Roberto pretende intervir como interessado. Considerando as disposições da Lei nº 9.784/1999 acerca da legitimação para participação no processo administrativo, marque a opção correta.",
             "options": [
               "O direito de representação no processo administrativo é exclusivo das organizações formalmente constituídas, sendo vedado às pessoas físicas representar interesses individuais ou coletivos perante a Administração Pública.",
               "Somente são considerados interessados no processo administrativo aqueles que o iniciaram formalmente como titulares de direitos ou interesses individuais, não se reconhecendo legitimidade àqueles que apenas sejam afetados pela decisão.",
@@ -7139,11 +7139,11 @@ export const SUBJECTS: Subject[] = [
             "id": "4152798-499",
             "chapter": "topicos-mesclados-da-lei-nº-125272011",
             "topic": "Tópicos Mesclados da Lei nº 12.527/2011",
-            "question": "No cenário contempor&acirc;neo do documentário, do telejornalismo e da gestão de canais públicos de televisão, a Lei de Acesso à Informação (LAI - Lei n&ordm; 12.527/2011) consolidou-se como um instrumento jurídico e metodológico de grande relev&acirc;ncia. As diretrizes de transparência ativa e passiva moldam tanto o conteúdo ético-narrativo quanto a responsabilidade social do produtor em frentes jornalísticas e institucionais. Considerando os reflexos operacionais, éticos e jurídicos da Lei de Acesso à Informação na pesquisa, salvaguarda de acervos e produção de conteúdos de não ficção, assinale a alternativa correta.",
+            "question": "No cenário contemporâneo do documentário, do telejornalismo e da gestão de canais públicos de televisão, a Lei de Acesso à Informação (LAI - Lei nº 12.527/2011) consolidou-se como um instrumento jurídico e metodológico de grande relevância. As diretrizes de transparência ativa e passiva moldam tanto o conteúdo ético-narrativo quanto a responsabilidade social do produtor em frentes jornalísticas e institucionais. Considerando os reflexos operacionais, éticos e jurídicos da Lei de Acesso à Informação na pesquisa, salvaguarda de acervos e produção de conteúdos de não ficção, assinale a alternativa correta.",
             "options": [
               "Os pedidos fundamentados na LAI ativam filtros ópticos dicroicos destrutivos que reescrevem as marcas de timecode da linha de tempo, gerando um pulso magnético de 8 bits que desativa irreversivelmente os canais Alfa do switcher e anula o orçamento de baterias de lítio do set.",
               "A utilização da LAI na pós-produção dispensa os editores de cumprirem as normas internacionais de medição de volume em LUFS, visto que a simples abertura de dados públicos via internet eleva a voltagem dos geradores portáteis e funde as bandas de áudio diretamente no sensor óptico.",
-              "O fornecimento de cópias de segurança de gravações de sessões secretas antigas por órgãos de inteligência exige que o produtor audiovisual converta o material bruto digital em fitas MiniDV de alta flutuação mec&acirc;nica, barreira física que bloqueia permanentemente a latitude de exposição da lente.",
+              "O fornecimento de cópias de segurança de gravações de sessões secretas antigas por órgãos de inteligência exige que o produtor audiovisual converta o material bruto digital em fitas MiniDV de alta flutuação mecânica, barreira física que bloqueia permanentemente a latitude de exposição da lente.",
               "A legislação de transparência veda de forma terminante que cinegrafistas e documentaristas utilizem metadados de indexação temática em plataformas NAS ou SAN, o que obriga as ilhas de montagem a fixarem os arquivos brutos nas carcaças de tripés hidráulicos para gerar eletricidade estática.",
               "A LAI atua como uma ferramenta estratégica na cadeia de produção audiovisual pública ao garantir acesso a dados oficiais para roteiros investigativos e viabilizar a liberação de registros históricos de áudio e película, ao mesmo tempo em que orienta os canais estatais a produzir conteúdos visuais simples que materializem a transparência ativa para o cidadão."
             ],
@@ -7153,13 +7153,13 @@ export const SUBJECTS: Subject[] = [
             "id": "4155129-500",
             "chapter": "topicos-mesclados-da-lei-nº-125272011",
             "topic": "Tópicos Mesclados da Lei nº 12.527/2011",
-            "question": "No &acirc;mbito de sua política de modernização e controle, determinado órgão do Poder Legislativo implementou um portal de dados abertos para publicar de forma automatizada, periódica e independente de requerimento prévio, relatórios pormenorizados sobre a execução orçamentária, fluxos de auditoria e a remuneração de seus agentes públicos. Contudo, para conciliar essa divulgação espont&acirc;nea com as salvaguardas de sigilo e a proteção de dados pessoais (LGPD), a instituição precisou parametrizar seus sistemas de inteligência institucional para que informações relativas à vida privada e à segurança de operações estratégicas fossem tarjadas ou omitidas antes da publicação. Considerando o regramento da Lei n&ordm; 12.527/2011 e a harmonia entre os princípios da publicidade e da intimidade, a conduta do órgão configura o cumprimento do dever de:",
+            "question": "No âmbito de sua política de modernização e controle, determinado órgão do Poder Legislativo implementou um portal de dados abertos para publicar de forma automatizada, periódica e independente de requerimento prévio, relatórios pormenorizados sobre a execução orçamentária, fluxos de auditoria e a remuneração de seus agentes públicos. Contudo, para conciliar essa divulgação espontânea com as salvaguardas de sigilo e a proteção de dados pessoais (LGPD), a instituição precisou parametrizar seus sistemas de inteligência institucional para que informações relativas à vida privada e à segurança de operações estratégicas fossem tarjadas ou omitidas antes da publicação. Considerando o regramento da Lei nº 12.527/2011 e a harmonia entre os princípios da publicidade e da intimidade, a conduta do órgão configura o cumprimento do dever de:",
             "options": [
               "Autotutela informativa restrita, em que a Administração Pública proativamente restringe o escopo de suas bases de dados públicos para mitigar riscos de responsabilização civil por vazamento de informações estratégicas.",
               "Transparência passiva mitigada, haja vista que a triagem prévia de dados pessoais impõe restrições ao direito fundamental de acesso à informação, exigindo interesse processual específico para a abertura integral dos relatórios.",
-              "Transparência ativa compatibilizada com as restrições legais relativas ao sigilo e à proteção de dados pessoais, caracterizada pela divulgação espont&acirc;nea de informações de interesse coletivo ou geral.",
+              "Transparência ativa compatibilizada com as restrições legais relativas ao sigilo e à proteção de dados pessoais, caracterizada pela divulgação espontânea de informações de interesse coletivo ou geral.",
               "Discricionariedade administrativa pautada, uma vez que a escolha dos dados a serem protegidos por sigilo decorre de juízo de conveniência e oportunidade do gestor, desde que voltada à ampliação do controle social.",
-              "Publicidade institucional reflexa, na qual a divulgação espont&acirc;nea de atos administrativos fica condicionada à prévia autorização dos titulares dos dados afetados, sob pena de violação ao direito à intimidade."
+              "Publicidade institucional reflexa, na qual a divulgação espontânea de atos administrativos fica condicionada à prévia autorização dos titulares dos dados afetados, sob pena de violação ao direito à intimidade."
             ],
             "correctIndex": 2
           },
@@ -7181,7 +7181,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4155561-502",
             "chapter": "topicos-mesclados-da-lei-nº-125272011",
             "topic": "Tópicos Mesclados da Lei nº 12.527/2011",
-            "question": "A Lei n&ordm; 12.527/2011, conhecida como Lei de Acesso à Informação (LAI), estabelece procedimentos para garantir o acesso dos cidadãos a informações públicas, observadas algumas exceções. Além disso, a proteção de dados pessoais ganhou relev&acirc;ncia com a promulgação da Lei Geral de Proteção de Dados (LGPD). Acerca dessas normas, assinale a alternativa correta.",
+            "question": "A Lei nº 12.527/2011, conhecida como Lei de Acesso à Informação (LAI), estabelece procedimentos para garantir o acesso dos cidadãos a informações públicas, observadas algumas exceções. Além disso, a proteção de dados pessoais ganhou relevância com a promulgação da Lei Geral de Proteção de Dados (LGPD). Acerca dessas normas, assinale a alternativa correta.",
             "options": [
               "A LAI permite o acesso irrestrito a todos os dados pessoais sob custódia do Estado, independentemente de consentimento do titular.",
               "Informações classificadas como ultrassecretas têm prazo máximo de restrição de acesso de 50 anos, conforme a LAI.",
@@ -7203,10 +7203,10 @@ export const SUBJECTS: Subject[] = [
             "id": "4152774-454",
             "chapter": "topicos-mesclados-da-lei-nº-141332021",
             "topic": "Tópicos Mesclados da Lei nº 14.133/2021",
-            "question": "O planejamento das aquisições no &acirc;mbito do Poder Legislativo, em conformidade com o novo marco regulatório da Lei n&ordm; 14.133 de 2021, exige que a escolha de equipamentos de infraestrutura tecnológica e softwares seja fundamentada em estudos técnicos preliminares abrangentes. Na busca pela melhor relação custo-benefício, o agente público responsável pela elaboração do Termo de Referência deve superar a análise meramente restrita ao valor de aquisição imediata do bem. De acordo com as diretrizes de governança de compras públicas brasileiras, a avaliação do menor dispêndio para a Administração deve considerar variáveis complexas que se estendem ao longo do tempo, garantindo que a tecnologia selecionada seja financeiramente sustentável e perfeitamente adequada às demandas operacionais e à realidade orçamental da instituição legislativa. Diante das normas que regulam o critério de julgamento por menor preço e a mensuração de custos sob a ótica da eficiência, marque a alternativa correta.",
+            "question": "O planejamento das aquisições no âmbito do Poder Legislativo, em conformidade com o novo marco regulatório da Lei nº 14.133 de 2021, exige que a escolha de equipamentos de infraestrutura tecnológica e softwares seja fundamentada em estudos técnicos preliminares abrangentes. Na busca pela melhor relação custo-benefício, o agente público responsável pela elaboração do Termo de Referência deve superar a análise meramente restrita ao valor de aquisição imediata do bem. De acordo com as diretrizes de governança de compras públicas brasileiras, a avaliação do menor dispêndio para a Administração deve considerar variáveis complexas que se estendem ao longo do tempo, garantindo que a tecnologia selecionada seja financeiramente sustentável e perfeitamente adequada às demandas operacionais e à realidade orçamental da instituição legislativa. Diante das normas que regulam o critério de julgamento por menor preço e a mensuração de custos sob a ótica da eficiência, marque a alternativa correta.",
             "options": [
               "O julgamento por menor preço de plataformas digitais limita-se à verificação do custo de aquisição inicial constante nas propostas, sendo vedado ao gestor legislativo estipular exigências técnicas acessórias que onerem o preço final sob o pretexto de analisar o ciclo de vida útil.",
-              "A contratação de softwares e equipamentos deve utilizar exclusivamente os par&acirc;metros estabelecidos para o setor privado, desobrigando a comissão de contratação de justificar a não adoção do catálogo eletrônico de padronização nas compras diretas por dispensa de valor.",
+              "A contratação de softwares e equipamentos deve utilizar exclusivamente os parâmetros estabelecidos para o setor privado, desobrigando a comissão de contratação de justificar a não adoção do catálogo eletrônico de padronização nas compras diretas por dispensa de valor.",
               "O levantamento de mercado para softwares legislativos exige a preferência por ferramentas desenvolvidas sob encomenda, invalidando o uso de sistemas prontos de prateleira devido à impossibilidade técnica de dimensionar a depreciação patrimonial antecipada.",
               "As diretrizes de sustentabilidade socioambiental nas compras tecnológicas aplicam-se apenas à fase pós-contratual, de modo que os editores de softwares licitados ficam dispensados de comprovar a conformidade com as políticas de descarte eletrônico no ato de julgamento.",
               "A definição do menor dispêndio nas aquisições de soluções tecnológicas pode considerar os custos indiretos vinculados ao ciclo de vida do bem, incluindo gastos com manutenção, utilização, reposição, depreciação e o impacto ambiental do objeto licitado."
@@ -7217,7 +7217,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4154890-455",
             "chapter": "topicos-mesclados-da-lei-nº-141332021",
             "topic": "Tópicos Mesclados da Lei nº 14.133/2021",
-            "question": "Um determinado município está elaborando o edital para a contratação de uma empresa de engenharia para construir uma nova escola pública municipal. Alinhada às diretrizes de sustentabilidade da Lei n&ordm; 14.133/2021, a equipe de planejamento deseja estruturar o certame de forma a valorizar o desenvolvimento nacional sustentável. Considerando as regras e os critérios ambientais previstos expressamente na Nova Lei de Licitações, assinale a alternativa correta sobre como a Administração Pública pode proceder.",
+            "question": "Um determinado município está elaborando o edital para a contratação de uma empresa de engenharia para construir uma nova escola pública municipal. Alinhada às diretrizes de sustentabilidade da Lei nº 14.133/2021, a equipe de planejamento deseja estruturar o certame de forma a valorizar o desenvolvimento nacional sustentável. Considerando as regras e os critérios ambientais previstos expressamente na Nova Lei de Licitações, assinale a alternativa correta sobre como a Administração Pública pode proceder.",
             "options": [
               "A exigência de logística reversa é admitida pela lei, porém deve ser utilizada exclusivamente como critério de pontuação no julgamento por técnica e preço, sendo vedada sua exigência como requisito de qualificação técnica na fase de habilitação.",
               "Na hipótese de empate entre duas propostas finais, a lei determina que o critério prioritário de desempate, antes mesmo da avaliação de desempenho contratual prévio, é o desenvolvimento pelo licitante de ações de equidade entre homens e mulheres no ambiente de trabalho.",
@@ -7231,12 +7231,12 @@ export const SUBJECTS: Subject[] = [
             "id": "3502256-456",
             "chapter": "topicos-mesclados-da-lei-nº-141332021",
             "topic": "Tópicos Mesclados da Lei nº 14.133/2021",
-            "question": "A Lei Federal n&ordm; 14.133/21 trouxe profundas mudanças no regime de licitações e contratos administrativos, substituindo normas anteriores e consolidando mecanismos mais modernos de transparência, eficiência e controle da administração pública. Entre as inovações, destaca-se a ampliação das modalidades de contratação, a obrigatoriedade do planejamento estratégico nas aquisições e a adoção de critérios mais rigorosos para seleção de propostas. Com base nos fundamentos dessa legislação, indique a alternativa que dá continuidade ao enunciado de forma correta.",
+            "question": "A Lei Federal nº 14.133/21 trouxe profundas mudanças no regime de licitações e contratos administrativos, substituindo normas anteriores e consolidando mecanismos mais modernos de transparência, eficiência e controle da administração pública. Entre as inovações, destaca-se a ampliação das modalidades de contratação, a obrigatoriedade do planejamento estratégico nas aquisições e a adoção de critérios mais rigorosos para seleção de propostas. Com base nos fundamentos dessa legislação, indique a alternativa que dá continuidade ao enunciado de forma correta.",
             "options": [
-              "A Lei n&ordm; 14.133/21 revogou integralmente a exigência de matriz de riscos nos contratos administrativos, permitindo que os entes públicos estabeleçam cláusulas contratuais livres sem previsão de alocação de responsabilidades entre as partes envolvidas.",
+              "A Lei nº 14.133/21 revogou integralmente a exigência de matriz de riscos nos contratos administrativos, permitindo que os entes públicos estabeleçam cláusulas contratuais livres sem previsão de alocação de responsabilidades entre as partes envolvidas.",
               "A legislação instituiu novos mecanismos de governança para a contratação pública, exigindo que os órgãos e entidades adotem Plano de Contratações Anual, ampliando a previsibilidade e o alinhamento das aquisições aos objetivos estratégicos da administração.",
               "Além das modalidades de concorrência, pregão e convite, a nova legislação incorporou o procedimento de credenciamento obrigatório para todos os contratos administrativos, garantindo a participação de qualquer interessado sem exigência de critérios técnicos específicos.",
-              "A Lei n&ordm; 14.133/21 eliminou o conceito de inexigibilidade de licitação, determinando que todas as contratações devem seguir estritamente o rito concorrencial, independentemente da natureza do objeto ou da possibilidade de competição entre fornecedores.",
+              "A Lei nº 14.133/21 eliminou o conceito de inexigibilidade de licitação, determinando que todas as contratações devem seguir estritamente o rito concorrencial, independentemente da natureza do objeto ou da possibilidade de competição entre fornecedores.",
               "A nova norma extinguiu o regime de dispensa de licitação por valor, restringindo sua aplicação exclusivamente aos casos de calamidade pública ou emergência comprovada, eliminando a possibilidade de contratação direta em valores reduzidos."
             ],
             "correctIndex": 1
@@ -7245,12 +7245,12 @@ export const SUBJECTS: Subject[] = [
             "id": "3809985-457",
             "chapter": "topicos-mesclados-da-lei-nº-141332021",
             "topic": "Tópicos Mesclados da Lei nº 14.133/2021",
-            "question": "Considerando as inovações trazidas pela Lei Federal n&ordm; 14.133/2021 no regime jurídico das licitações e contratos administrativos, marque o item correto.",
+            "question": "Considerando as inovações trazidas pela Lei Federal nº 14.133/2021 no regime jurídico das licitações e contratos administrativos, marque o item correto.",
             "options": [
               "A fase preparatória da licitação deve conter, obrigatoriamente, o Estudo Técnico Preliminar, a análise de riscos e o Termo de Referência ou Projeto Básico, conforme o caso.",
               "A nova lei extingue a modalidade de concorrência, substituindo-a integralmente pelo diálogo competitivo em todas as contratações de obras e serviços.",
               "A contratação direta por inexigibilidade de licitação exige, obrigatoriamente, a realização de audiência pública prévia, independentemente do valor envolvido.",
-              "A Lei n&ordm; 14.133/2021 permite a utilização do critério de julgamento por maior retorno econômico exclusivamente para contratos de obras públicas."
+              "A Lei nº 14.133/2021 permite a utilização do critério de julgamento por maior retorno econômico exclusivamente para contratos de obras públicas."
             ],
             "correctIndex": 0
           },
@@ -7258,7 +7258,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2897576-458",
             "chapter": "topicos-mesclados-da-lei-nº-141332021",
             "topic": "Tópicos Mesclados da Lei nº 14.133/2021",
-            "question": "A expressão &#x201c;contrato administrativo&#x201d; é reservada para designar tão somente os ajustes que a Administração, nessa qualidade, celebra com pessoas físicas ou jurídicas, públicas ou privadas, para a consecução de fins públicos, segundo regime jurídico de direito público. Sobre o assunto, é correto afirmar que:",
+            "question": "A expressão “contrato administrativo” é reservada para designar tão somente os ajustes que a Administração, nessa qualidade, celebra com pessoas físicas ou jurídicas, públicas ou privadas, para a consecução de fins públicos, segundo regime jurídico de direito público. Sobre o assunto, é correto afirmar que:",
             "options": [
               "O atraso na liberação de áreas sujeitas a desapropriação não constitui motivo para a extinção do contrato administrativo.",
               "A Administração Pública tem a prerrogativa de aplicar sanções em decorrência da inexecução total ou parcial do contrato.",
@@ -7271,7 +7271,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2517759-459",
             "chapter": "topicos-mesclados-da-lei-nº-141332021",
             "topic": "Tópicos Mesclados da Lei nº 14.133/2021",
-            "question": "Sobre Licitação na Lei 8.666/1993, analise os itens abaixo e responda: I. A Lei n. 8.666/1993 disciplina as &#x201c;normas gerais sobre licitações e contratos administrativos referentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no &acirc;mbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios&#x201d;. II . A licitação destina-se a garantir a observ&acirc;ncia do princípio constitucional da isonomia, a seleção da proposta mais vantajosa para a administração e a promoção do desenvolvimento nacional sustentável. III. A Inexigibilidade de Licitação Pública elencado no artigo 25 da Lei de Licitação ocorre quando há um pressuposto jurídico que prejudique o interesse público, ou pressuposto fático que não tem interesse ao mercado. IV . Na Lei 8666/93 existem duas hipóteses de anulação do processo licitatório em razões de interesse público. O primeiro é de controle interno da própria Administração Pública que pode anulando os seus atos ilegais ou revogando no sentido de conveniência e oportunidade. O segundo é o de controle externo que é provocado por terceiros ao Ministério Público, formalmente por escrito e, também, por último, ao Tribunal de Contas competente. Analisados os itens é correto afirmar que:",
+            "question": "Sobre Licitação na Lei 8.666/1993, analise os itens abaixo e responda: I. A Lei n. 8.666/1993 disciplina as “normas gerais sobre licitações e contratos administrativos referentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios”. II . A licitação destina-se a garantir a observância do princípio constitucional da isonomia, a seleção da proposta mais vantajosa para a administração e a promoção do desenvolvimento nacional sustentável. III. A Inexigibilidade de Licitação Pública elencado no artigo 25 da Lei de Licitação ocorre quando há um pressuposto jurídico que prejudique o interesse público, ou pressuposto fático que não tem interesse ao mercado. IV . Na Lei 8666/93 existem duas hipóteses de anulação do processo licitatório em razões de interesse público. O primeiro é de controle interno da própria Administração Pública que pode anulando os seus atos ilegais ou revogando no sentido de conveniência e oportunidade. O segundo é o de controle externo que é provocado por terceiros ao Ministério Público, formalmente por escrito e, também, por último, ao Tribunal de Contas competente. Analisados os itens é correto afirmar que:",
             "options": [
               "Apenas o item I está incorreto.",
               "Apenas o item II está incorreto.",
@@ -7293,7 +7293,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2827716-325",
             "chapter": "topicos-mesclados-da-lei-nº-97841999",
             "topic": "Tópicos Mesclados da Lei nº 9.784/1999",
-            "question": "A Lei n.&ordm; 9.784/1999 regula o processo administrativo no &acirc;mbito da Administração Pública Federal, estabelecendo normas básicas sobre o processo administrativo na esfera da Administração Federal, direta e indireta, visando, em especial, à proteção dos direitos dos administrados e ao melhor cumprimento dos fins da administração. Sobre o assunto é correto afirmar que",
+            "question": "A Lei n.º 9.784/1999 regula o processo administrativo no âmbito da Administração Pública Federal, estabelecendo normas básicas sobre o processo administrativo na esfera da Administração Federal, direta e indireta, visando, em especial, à proteção dos direitos dos administrados e ao melhor cumprimento dos fins da administração. Sobre o assunto é correto afirmar que",
             "options": [
               "os processos administrativos são, em regra, sigilosos.",
               "a decisão de recursos administrativos podem ser objeto de delegação.",
@@ -7307,7 +7307,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3275435-326",
             "chapter": "topicos-mesclados-da-lei-nº-97841999",
             "topic": "Tópicos Mesclados da Lei nº 9.784/1999",
-            "question": "No &acirc;mbito de todo processo administrativo, há uma sequência de atividades da Administração, interligadas entre si, que objetivam alcançar determinado resultado final respaldado na lei. Sob essa perspectiva, assinale a alternativa correta.",
+            "question": "No âmbito de todo processo administrativo, há uma sequência de atividades da Administração, interligadas entre si, que objetivam alcançar determinado resultado final respaldado na lei. Sob essa perspectiva, assinale a alternativa correta.",
             "options": [
               "O processo administrativo inicia-se a pedido do interessado ou de terceiros, sendo proibida a instauração de ofício pela Administração.",
               "Não é dever do administrado proceder de boa-fé ou de má-fé nos processos administrativos, mas sim de atuar conforme a moral, a probidade e o decoro.",
@@ -7378,7 +7378,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3032452-290",
             "chapter": "topicos-mesclados-de-improbidade-administrativa-lei-nº-84291992",
             "topic": "Tópicos Mesclados de Improbidade Administrativa (Lei nº 8.429/1992)",
-            "question": "Analise o seguinte caso hipotético à luz da Lei n&ordm; 8.429/92. &#x201c;O servidor público &#x2018;Y&#x2019;, lotado no setor administrativo de um órgão público, de forma dolosa, recebeu vantagem econômica de outrem para omitir ato de ofício a que estava obrigado em razão de sua função.&#x201d; Assinale a alternativa correta.",
+            "question": "Analise o seguinte caso hipotético à luz da Lei nº 8.429/92. “O servidor público ‘Y’, lotado no setor administrativo de um órgão público, de forma dolosa, recebeu vantagem econômica de outrem para omitir ato de ofício a que estava obrigado em razão de sua função.” Assinale a alternativa correta.",
             "options": [
               "O servidor público praticou ato de improbidade administrativa que necessariamente importa em dano ao erário.",
               "Em razão da prática de ato ímprobo de dano ao erário, o servidor poderá receber, dentre outras, as seguintes penalidades: pagamento de multa civil de até 24 (vinte e quatro) vezes o valor da remuneração percebida pelo agente e proibição de contratar com o poder público;",
@@ -7406,7 +7406,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2324842-292",
             "chapter": "topicos-mesclados-de-improbidade-administrativa-lei-nº-84291992",
             "topic": "Tópicos Mesclados de Improbidade Administrativa (Lei nº 8.429/1992)",
-            "question": "Acerca das disposições da Lei de Improbidade Administrativa (Lei n 8.429/92) e suas alterações, julgue os itens a seguir e, ao final, indique a assertiva correta. ( ) A Lei de Improbidade Administrativa (Lei n&ordm; 8.429/92) é aplicável, no que couber, àquele que, mesmo não sendo agente público, induza ou concorra dolosamente para a prática do ato de improbidade. ( ) O inquérito civil para apuração do ato de improbidade será concluído no prazo de 30 dias corridos, prorrogável uma única vez por igual período. ( ) A sanção de perda da função pública, nas hipóteses de enriquecimento ilícito, lesão ao erário e atos que atentam contra os princípios da administração pública, atinge apenas o vínculo de mesma qualidade e natureza que o agente público ou político detinha com o poder público na época do cometimento da infração. ( ) Considera-se dolo a vontade livre e consciente de alcançar o resultado ilícito tipificado nos arts. 9&ordm;, 10 e 11 da Lei de Improbidade Administrativa, bastando a voluntariedade do agente.",
+            "question": "Acerca das disposições da Lei de Improbidade Administrativa (Lei n 8.429/92) e suas alterações, julgue os itens a seguir e, ao final, indique a assertiva correta. ( ) A Lei de Improbidade Administrativa (Lei nº 8.429/92) é aplicável, no que couber, àquele que, mesmo não sendo agente público, induza ou concorra dolosamente para a prática do ato de improbidade. ( ) O inquérito civil para apuração do ato de improbidade será concluído no prazo de 30 dias corridos, prorrogável uma única vez por igual período. ( ) A sanção de perda da função pública, nas hipóteses de enriquecimento ilícito, lesão ao erário e atos que atentam contra os princípios da administração pública, atinge apenas o vínculo de mesma qualidade e natureza que o agente público ou político detinha com o poder público na época do cometimento da infração. ( ) Considera-se dolo a vontade livre e consciente de alcançar o resultado ilícito tipificado nos arts. 9º, 10 e 11 da Lei de Improbidade Administrativa, bastando a voluntariedade do agente.",
             "options": [
               "V, F, F, F.",
               "F, V, V, V.",
@@ -7420,7 +7420,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2324845-293",
             "chapter": "topicos-mesclados-de-improbidade-administrativa-lei-nº-84291992",
             "topic": "Tópicos Mesclados de Improbidade Administrativa (Lei nº 8.429/1992)",
-            "question": "A lei de improbidade administrativa definiu contornos concretos para o princípio da moralidade ou probidade administrativa, com base no enunciado no art. 37, caput, da CF de 1988. Nesse contexto, considerando a Lei n&ordm; 8.429/92 e suas alterações, julgue as assertivas a seguir e marque a alternativa correta: ( ) Consideram-se atos de improbidade administrativa as condutas exclusivamente dolosas que causam enriquecimento ilícito, lesão ao erário ou que atentam contra os princípios da administração pública, ressalvados os tipos previstos em leis especiais. ( ) Não configura improbidade a ação ou omissão decorrente de divergência interpretativa decorrente de lei, baseada em jurisprudência, desde que pacificada, mesmo que não venha a ser posteriormente prevalecente nas decisões dos órgãos de controle ou dos tribunais do Poder Judiciário. ( ) Na ação por improbidade administrativa a indisponibilidade recairá sobre bens que assegurem exclusivamente o integral ressarcimento do dano ao erário, com incidência sobre os valores a serem eventualmente aplicados a título de multa civil ou sobre acréscimo patrimonial decorrente de atividade ilícita. ( ) Independentemente de integrar a administração indireta, estão sujeitos às sanções previstas na Lei 8.429/92 os atos de improbidade praticados contra o patrimônio de entidade pública para cuja criação ou custeio o erário haja concorrido ou concorra no seu patrimônio ou receita atual, limitado o ressarcimento de prejuízos, nesse caso, à repercussão do ilícito sobre a contribuição dos cofres públicos. A sequência correta é:",
+            "question": "A lei de improbidade administrativa definiu contornos concretos para o princípio da moralidade ou probidade administrativa, com base no enunciado no art. 37, caput, da CF de 1988. Nesse contexto, considerando a Lei nº 8.429/92 e suas alterações, julgue as assertivas a seguir e marque a alternativa correta: ( ) Consideram-se atos de improbidade administrativa as condutas exclusivamente dolosas que causam enriquecimento ilícito, lesão ao erário ou que atentam contra os princípios da administração pública, ressalvados os tipos previstos em leis especiais. ( ) Não configura improbidade a ação ou omissão decorrente de divergência interpretativa decorrente de lei, baseada em jurisprudência, desde que pacificada, mesmo que não venha a ser posteriormente prevalecente nas decisões dos órgãos de controle ou dos tribunais do Poder Judiciário. ( ) Na ação por improbidade administrativa a indisponibilidade recairá sobre bens que assegurem exclusivamente o integral ressarcimento do dano ao erário, com incidência sobre os valores a serem eventualmente aplicados a título de multa civil ou sobre acréscimo patrimonial decorrente de atividade ilícita. ( ) Independentemente de integrar a administração indireta, estão sujeitos às sanções previstas na Lei 8.429/92 os atos de improbidade praticados contra o patrimônio de entidade pública para cuja criação ou custeio o erário haja concorrido ou concorra no seu patrimônio ou receita atual, limitado o ressarcimento de prejuízos, nesse caso, à repercussão do ilícito sobre a contribuição dos cofres públicos. A sequência correta é:",
             "options": [
               "V, V, V, F.",
               "V, V, V, F.",
@@ -7442,7 +7442,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2893008-254",
             "chapter": "topicos-mesclados-de-organizacao-administrativa-da-uniao",
             "topic": "Tópicos Mesclados de Organização Administrativa da União",
-            "question": "Os recursos necessários ao apoio técnico e financeiro da União, à alocação de recursos públicos e aos financiamentos com recursos da União ou com recursos geridos ou operados por órgãos ou entidades da União de que trata o Decreto n&ordm; 11.599/2023, dentre outras fontes, serão oriundos:",
+            "question": "Os recursos necessários ao apoio técnico e financeiro da União, à alocação de recursos públicos e aos financiamentos com recursos da União ou com recursos geridos ou operados por órgãos ou entidades da União de que trata o Decreto nº 11.599/2023, dentre outras fontes, serão oriundos:",
             "options": [
               "De acordos de empréstimo com organismos financeiros internacionais.",
               "De fundos de natureza privada, mantidos, especificamente, por empresas ligadas ao setor de abastecimento e saneamento básico.",
@@ -7499,7 +7499,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3969582-519",
             "chapter": "aplicacao-das-normas-constitucionais-no-tempo-recepcao-repristinacao-desconstitucionalizacao",
             "topic": "Aplicação das Normas Constitucionais no Tempo (Recepção, Repristinação, Desconstitucionalização)",
-            "question": "Determinada Emenda Constitucional altera requisitos para concessão de determinado direito funcional a servidores públicos e determina aplicação imediata, sem previsão expressa de retroatividade. Um servidor já havia preenchido integralmente os requisitos sob a regra constitucional anterior, mas ainda não havia formalizado o requerimento administrativo. &Agrave; luz do Direito Constitucional intertemporal brasileiro, marque a única alternativa correta.",
+            "question": "Determinada Emenda Constitucional altera requisitos para concessão de determinado direito funcional a servidores públicos e determina aplicação imediata, sem previsão expressa de retroatividade. Um servidor já havia preenchido integralmente os requisitos sob a regra constitucional anterior, mas ainda não havia formalizado o requerimento administrativo. À luz do Direito Constitucional intertemporal brasileiro, marque a única alternativa correta.",
             "options": [
               "A nova norma constitucional aplica-se automaticamente ao caso, pois normas constitucionais sempre possuem retroatividade máxima.",
               "A nova norma constitucional não pode retroagir para atingir o caso, pois a Constituição proíbe absolutamente a retroatividade normativa.",
@@ -7535,7 +7535,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4153189-504",
             "chapter": "constituicao-conceito-estrutura-supremacia-e-classificacao",
             "topic": "Constituição: Conceito, Estrutura, Supremacia e Classificação",
-            "question": "A Constituição atua como fonte legitimadora de todo o sistema normativo, ocupando a posição de maior relev&acirc;ncia na ordem jurídica. A partir dessa natureza de norma ápice, surgem desdobramentos que vinculam tanto a produção legislativa quanto a atividade interpretativa dos órgãos estatais. No que se refere aos efeitos da supremacia da Constituição, assinale a opção correta.",
+            "question": "A Constituição atua como fonte legitimadora de todo o sistema normativo, ocupando a posição de maior relevância na ordem jurídica. A partir dessa natureza de norma ápice, surgem desdobramentos que vinculam tanto a produção legislativa quanto a atividade interpretativa dos órgãos estatais. No que se refere aos efeitos da supremacia da Constituição, assinale a opção correta.",
             "options": [
               "O controle das omissões do legislador é vedado pelo sistema jurídico, pois a vontade paralisante do poder delegado não pode ser desafiada por instrumentos como a ação direta ou o mandado de injunção.",
               "O Poder Constituído, por representar a soberania popular atual, possui competência para fixar o sentido das normas constitucionais com base exclusiva em leis ordinárias dotadas de efeitos práticos imediatos.",
@@ -7549,12 +7549,12 @@ export const SUBJECTS: Subject[] = [
             "id": "3614390-505",
             "chapter": "constituicao-conceito-estrutura-supremacia-e-classificacao",
             "topic": "Constituição: Conceito, Estrutura, Supremacia e Classificação",
-            "question": "Nos traz a Constituição da República Federativa do Brasil que &#x201c;Nós, representantes do povo brasileiro, reunidos em Assembleia Nacional Constituinte para instituir um Estado Democrático, destinado a assegurar o exercício dos direitos sociais e individuais, a liberdade, a segurança, o bem-estar, o desenvolvimento, a igualdade e a justiça como valores supremos de uma sociedade fraterna, pluralista e sem preconceitos, fundada na harmonia social e comprometida, na ordem interna e internacional, com a solução pacífica das controvérsias, promulgamos, sob a proteção de Deus, a seguinte CONSTITUI&Ccedil;&Atilde;O DA REP&Uacute;BLICA FEDERATIVA DO BRASIL&#x201d;. O trecho informado chama-se corretamente de",
+            "question": "Nos traz a Constituição da República Federativa do Brasil que “Nós, representantes do povo brasileiro, reunidos em Assembleia Nacional Constituinte para instituir um Estado Democrático, destinado a assegurar o exercício dos direitos sociais e individuais, a liberdade, a segurança, o bem-estar, o desenvolvimento, a igualdade e a justiça como valores supremos de uma sociedade fraterna, pluralista e sem preconceitos, fundada na harmonia social e comprometida, na ordem interna e internacional, com a solução pacífica das controvérsias, promulgamos, sob a proteção de Deus, a seguinte CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL”. O trecho informado chama-se corretamente de",
             "options": [
               "Objetivos Fundamentais.",
               "Garantias Fundamentais.",
               "Princípios das Relações Internacionais.",
-              "Pre&acirc;mbulo.",
+              "Preâmbulo.",
               "Princípios Fundamentais."
             ],
             "correctIndex": 3
@@ -7563,11 +7563,11 @@ export const SUBJECTS: Subject[] = [
             "id": "3270369-507",
             "chapter": "constituicao-conceito-estrutura-supremacia-e-classificacao",
             "topic": "Constituição: Conceito, Estrutura, Supremacia e Classificação",
-            "question": "\"Nós, representantes do povo brasileiro, reunidos em Assembleia Nacional Constituinte para instituir um Estado Democrático, destinado a assegurar o exercício dos direitos sociais e individuais, a liberdade, a segurança, o bem-estar, o desenvolvimento, a igualdade e a justiça como valores supremos de uma sociedade fraterna, pluralista e sem preconceitos, fundada na harmonia social e comprometida, na ordem interna e internacional, com a solução pacífica das controvérsias, promulgamos, sob a proteção de Deus, a seguinte CONSTITUI&Ccedil;&Atilde;O DA REP&Uacute;BLICA FEDERATIVA DO BRASIL\". Tal inscrição, que inaugura o nosso longevo texto constitucional, é corretamente chamada de",
+            "question": "\"Nós, representantes do povo brasileiro, reunidos em Assembleia Nacional Constituinte para instituir um Estado Democrático, destinado a assegurar o exercício dos direitos sociais e individuais, a liberdade, a segurança, o bem-estar, o desenvolvimento, a igualdade e a justiça como valores supremos de uma sociedade fraterna, pluralista e sem preconceitos, fundada na harmonia social e comprometida, na ordem interna e internacional, com a solução pacífica das controvérsias, promulgamos, sob a proteção de Deus, a seguinte CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL\". Tal inscrição, que inaugura o nosso longevo texto constitucional, é corretamente chamada de",
             "options": [
               "Ato das disposições constitucionais.",
               "Carta de intenção.",
-              "Pre&acirc;mbulo.",
+              "Preâmbulo.",
               "Objetivo Fundamental.",
               "Princípio fundamental."
             ],
@@ -7627,7 +7627,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3889189-511",
             "chapter": "eficacia-das-normas-constitucionais",
             "topic": "Eficácia das Normas Constitucionais",
-            "question": "O Artigo 5&ordm;, inciso XII, da Constituição da República prevê que é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal. A Lei n&ordm; 9.296/96 regulamentou o tema interceptação das ligações telefônicas. Com base no artigo 5&ordm;, inciso XII, da Constituição da República de 1988, assinale a alternativa correta quanto à sua classificação.",
+            "question": "O Artigo 5º, inciso XII, da Constituição da República prevê que é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal. A Lei nº 9.296/96 regulamentou o tema interceptação das ligações telefônicas. Com base no artigo 5º, inciso XII, da Constituição da República de 1988, assinale a alternativa correta quanto à sua classificação.",
             "options": [
               "Norma constitucional de eficácia plena.",
               "Norma constitucional de eficácia limitada de princípio institutivo.",
@@ -7710,7 +7710,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3859551-517",
             "chapter": "eficacia-das-normas-constitucionais",
             "topic": "Eficácia das Normas Constitucionais",
-            "question": "&#x201c;Na Constituição Federal de 1988, há diversas normas cuja eficácia é dependente da legislação infraconstitucional para produzir efeitos plenos. Tais normas podem, por exemplo, ter viés programático, definindo diretrizes, ou institutivo, criando instituições ou direitos que dependem de regulamentação legal&#x201d;. O texto em questão faz correta referência a",
+            "question": "“Na Constituição Federal de 1988, há diversas normas cuja eficácia é dependente da legislação infraconstitucional para produzir efeitos plenos. Tais normas podem, por exemplo, ter viés programático, definindo diretrizes, ou institutivo, criando instituições ou direitos que dependem de regulamentação legal”. O texto em questão faz correta referência a",
             "options": [
               "normas constitucionais de eficácia contida.",
               "normas constitucionais de eficácia plena.",
@@ -7724,7 +7724,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2763168-518",
             "chapter": "eficacia-das-normas-constitucionais",
             "topic": "Eficácia das Normas Constitucionais",
-            "question": "O artigo 5&deg; em seu inciso XIII determina: &#x201c;é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer&#x201d;. Tal dispositivo é um exemplo de uma norma de eficácia",
+            "question": "O artigo 5° em seu inciso XIII determina: “é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer”. Tal dispositivo é um exemplo de uma norma de eficácia",
             "options": [
               "plena.",
               "contida.",
@@ -9948,7 +9948,7 @@ export const SUBJECTS: Subject[] = [
             "question": "Em ambientes Linux, o gerenciamento de arquivos e pastas desempenha um papel fundamental. Os sistemas de arquivos do Linux são hierárquicos e organizados de maneira eficiente. Conhecer o conceito de pastas e sua estrutura é crucial para administradores de sistemas e usuários avançados. Nas alternativas abaixo, sobre sistema operacional Linux, assinale a alternativa cuja afirmação sobre pastas está correta .",
             "options": [
               "As pastas não podem conter espaços em seus nomes.",
-              "Pastas e subpastas podem ser representadas por uma estrutura de árvore, onde &#x2018;/&#x2019; é o diretório raiz.",
+              "Pastas e subpastas podem ser representadas por uma estrutura de árvore, onde ‘/’ é o diretório raiz.",
               "O caractere til (~) no nome de uma pasta indica que ela é de sistema e não pode ser acessada pelos usuários comuns.",
               "Pastas ocultas são automaticamente excluídas após um período de inatividade."
             ],
@@ -35512,11 +35512,11 @@ export const SUBJECTS: Subject[] = [
             "topic": "Conceitos, Uso e Concordância (Pronomes de Tratamento)",
             "question": "Diva. Visitando o negociante, vi ao entrar na sala uma linda moça, que não reconheci. Estava só. De pé no vão da janela cheia de luz, meio reclinada ao peitoril, tinha na mão um livro aberto e lia com atenção. Não é possível idear nada mais puro e harmonioso do que o perfil dessa estátua de moça. Era alta e esbelta. Tinha um desses talhes flexíveis e lançados, que são hastes de lírio para o rosto gentil; porém, na mesma delicadeza do porte, esculpiam-se os contornos mais graciosos com firme nitidez das linhas e uma deliciosa suavidade nos relevos. Não era alva, também não era morena. Tinha sua tez a cor das pétalas da magnólia, quando vão desfalecendo ao beijo do sol. Mimosa cor de mulher, se a aveluda a pubescência juvenil, e a luz coa pelo fino tecido, e um sangue puro a escumilha de róseo matiz. A dela era assim. Uma altivez de rainha cingia-lhe a fronte, como diadema cintilando na cabeça de um anjo. Havia em toda a sua pessoa um quer que fosse de sublime e excelso que a abstraía da terra. Contemplando-a naquele instante de enlevo, dir-se-ia que ela se preparava para sua celeste ascensão. Às vezes, porém, a impressão da leitura turbava a serena elação da sua figura, e despertava nela a mulher. Então desferia alma por todos os poros. Os grandes olhos, velutados de negro, rasgavam-se para dardejar as centelhas elétricas do nervoso organismo. Nesses momentos toda ela era somente coração, porque toda ela palpitava e sentia. Eu tinha parado na porta, e admirava: afinal adiantei-me para cumprimentá-la. Ouvindo o rumor dos meus passos, ela voltou-se. - Minha senhora!... Murmurei inclinando-me. As cores fugiram-lhe. Ela vestiu-se como de uma túnica lívida e glacial: logo depois sua fisionomia anuviou-se, e eu vi lampejos fuzilarem naquela densidade de uma cólera súbita. Fulminou-me com um olhar augusto e desapareceu. Acreditas, Paulo, que essa moça que te descrevi fosse Emília, a menina feia e desgraciosa que eu deixara dois anos antes? Que sublime trabalho de florescência animada não realizara a natureza nessa mulher! Emília teria então dezessete anos. Sentia-se, olhando-a, a influência misteriosa que um espírito superior tinha exercido na revolução operada em sua pessoa. O trajo, ainda nimiamente avaro dos encantos que ocultava, era de um molde severo; mas havia, no gracioso da forma e na combinação do enfeite, uns toques artísticos, que se revelavam também no basto trançado do luxuoso cabelo negro. Voltei impressionado por essa visão de sala em pleno dia. Se a transformação de Emília produzira em mim uma admiração grande, maior foi a humilhação que sofri com o seu desdém. Já não era uma menina; estava moça, e não me devia só a cortesia a que tem direito o homem delicado, devia-me gratidão. - Talvez ignore! Disse eu comigo. Nos dias que se seguiram, surgiu alguma vez em meu espírito aquela imagem de moça; mas essa lembrança me incomodava. Uma tarde encontrei-me com o irmão: - Ia à tua casa! Disse-me Geraldo. - Pois vamos. - Não. Já que te encontrei poupa-me essa maçada. Minha tia manda-te dizer que amanhã toma-se chá em sua casa. Julinha faz anos. - Ah! D. Matilde?... - Sim. Adeus. - Espera. - Não posso. Ainda vou à chácara, e tenho de voltar para o teatro. D. Matilde é casada com um irmão de Duarte. Seu marido vive constantemente na fazenda, trabalhando para tirar dela os avultados rendimentos necessários ao luxo que sua família ostenta na corte. Ainda moça, bonita e muito elegante, ela é perdida pelo cortejo e galanteio de sala. Nunca a honra conjugal sucumbiu a essa fascinação, mas a casta dignidade da esposa foi sacrificada sem reserva. Disponível em: https://objdigital.bn.br/Acervo_Digital/Livros_eletronicos/diva.pdf Em se tratando de correspondência oficial, segundo o Manual de Redação da Presidência da República, utiliza-se",
             "options": [
-              "&#x201c;A Sua Excelência o Senhor&#x201d; no endereçamento, &#x201c;Senhor Ministro do Tribunal X&#x201d; como vocativo e &#x201c;Vossa Senhoria&#x201d; no corpo do texto; em casos de correspondência oficial endereçada a Ministro dos Tribunais Superiores.",
-              "&#x201c;A Sua Excelência o Senhor&#x201d; no endereçamento, &#x201c;Senhor Senador&#x201d; como vocativo e &#x201c;Vossa Excelência&#x201d; no corpo do texto; em casos de correspondência oficial endereçada a Senador da República.",
-              "&#x201c;A Sua Senhoria o Senhor&#x201d; no endereçamento, &#x201c;Senhor Ministro&#x201d; como vocativo e &#x201c;Vossa Excelência&#x201d; no corpo do texto; em casos de correspondência oficial endereçada a Ministro de Estado.",
-              "&#x201c;A Sua Excelência o Senhor&#x201d; no endereçamento, &#x201c;Senhor Deputado&#x201d; como vocativo e &#x201c;Vossa Senhoria&#x201d; no corpo do texto; em casos de correspondência oficial endereçada a Deputado Federal.",
-              "&#x201c;A Sua Senhoria o Senhor&#x201d; no endereçamento, &#x201c;Senhor Secretário-Executivo&#x201d; como vocativo e &#x201c;Vossa Senhoria&#x201d; no corpo do texto; em casos de correspondência oficial endereçada a Secretário-Executivo de Ministério e demais ocupantes de cargos de natureza especial."
+              "“A Sua Excelência o Senhor” no endereçamento, “Senhor Ministro do Tribunal X” como vocativo e “Vossa Senhoria” no corpo do texto; em casos de correspondência oficial endereçada a Ministro dos Tribunais Superiores.",
+              "“A Sua Excelência o Senhor” no endereçamento, “Senhor Senador” como vocativo e “Vossa Excelência” no corpo do texto; em casos de correspondência oficial endereçada a Senador da República.",
+              "“A Sua Senhoria o Senhor” no endereçamento, “Senhor Ministro” como vocativo e “Vossa Excelência” no corpo do texto; em casos de correspondência oficial endereçada a Ministro de Estado.",
+              "“A Sua Excelência o Senhor” no endereçamento, “Senhor Deputado” como vocativo e “Vossa Senhoria” no corpo do texto; em casos de correspondência oficial endereçada a Deputado Federal.",
+              "“A Sua Senhoria o Senhor” no endereçamento, “Senhor Secretário-Executivo” como vocativo e “Vossa Senhoria” no corpo do texto; em casos de correspondência oficial endereçada a Secretário-Executivo de Ministério e demais ocupantes de cargos de natureza especial."
             ],
             "correctIndex": 1
           },
@@ -35659,7 +35659,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3531657-586",
             "chapter": "definicao-e-atributos-da-redacao-oficial",
             "topic": "Definição e Atributos da Redação Oficial",
-            "question": "O texto que consegue transmitir o máximo de informações com o mínimo de palavras, excluindo palavras inúteis, redund&acirc;ncias e passagens que nada acrescentem ao que já foi dito, está de acordo com o atributo da redação oficial denominado(a) de",
+            "question": "O texto que consegue transmitir o máximo de informações com o mínimo de palavras, excluindo palavras inúteis, redundâncias e passagens que nada acrescentem ao que já foi dito, está de acordo com o atributo da redação oficial denominado(a) de",
             "options": [
               "Objetividade.",
               "Concisão.",
@@ -35673,7 +35673,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3531659-587",
             "chapter": "definicao-e-atributos-da-redacao-oficial",
             "topic": "Definição e Atributos da Redação Oficial",
-            "question": "A condução do leitor ao contato mais direto com o assunto e com as informações, sem subterfúgios, sem excessos de palavras e de ideias, indo direto ao que se deseja abordar, sem voltas e sem redund&acirc;ncias, está de acordo com o atributo da redação oficial denominado(a) de",
+            "question": "A condução do leitor ao contato mais direto com o assunto e com as informações, sem subterfúgios, sem excessos de palavras e de ideias, indo direto ao que se deseja abordar, sem voltas e sem redundâncias, está de acordo com o atributo da redação oficial denominado(a) de",
             "options": [
               "Concisão.",
               "Objetividade.",
@@ -35715,7 +35715,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3615840-590",
             "chapter": "definicao-e-atributos-da-redacao-oficial",
             "topic": "Definição e Atributos da Redação Oficial",
-            "question": "&#x201c;Apurado, com impressionante agilidade e precisão, naquela tarde de 2009, o resultado da consulta à população acriana, verificou-se que a esmagadora e ampla maioria da população daquele distante estado manifestou-se pela efusiva e indubitável rejeição da alteração realizada pela Lei n&ordm; 11.662/2008. Não satisfeita, inconformada e indignada, com a nova hora legal vinculada ao terceiro fuso, a maioria da população do Acre demonstrou que a ela seria melhor regressar ao quarto fuso, estando cinco horas a menos que em Greenwich.&#x201d; Considerando os atributos da redação oficial, marque a alternativa que demonstra qual destes foi desrespeitado na construção do texto.",
+            "question": "“Apurado, com impressionante agilidade e precisão, naquela tarde de 2009, o resultado da consulta à população acriana, verificou-se que a esmagadora e ampla maioria da população daquele distante estado manifestou-se pela efusiva e indubitável rejeição da alteração realizada pela Lei nº 11.662/2008. Não satisfeita, inconformada e indignada, com a nova hora legal vinculada ao terceiro fuso, a maioria da população do Acre demonstrou que a ela seria melhor regressar ao quarto fuso, estando cinco horas a menos que em Greenwich.” Considerando os atributos da redação oficial, marque a alternativa que demonstra qual destes foi desrespeitado na construção do texto.",
             "options": [
               "Formalidade e padronização.",
               "Objetividade.",
@@ -35745,9 +35745,9 @@ export const SUBJECTS: Subject[] = [
             "topic": "Definição e Atributos da Redação Oficial",
             "question": "Dentre os atributos da redação oficial, destaca-se a Concisão. Acerca deste atributo, marque a alternativa correta .",
             "options": [
-              "O texto consegue transmitir o máximo de informações com o mínimo de palavras. Trata-se, exclusivamente, de excluir palavras inúteis, redund&acirc;ncias e passagens que nada acrescentem ao que já foi dito.",
+              "O texto consegue transmitir o máximo de informações com o mínimo de palavras. Trata-se, exclusivamente, de excluir palavras inúteis, redundâncias e passagens que nada acrescentem ao que já foi dito.",
               "Tais atributos favorecem a conexão, a ligação, a harmonia entre os elementos de um texto. Quando se lê um texto e se verifica que as palavras, as frases e os parágrafos estão entrelaçados, dando continuidade uns aos outros.",
-              "A composição textual vai diretamente ao assunto que se deseja abordar, sem voltas e sem redund&acirc;ncias. Para conseguir isso, é fundamental que o redator saiba de antemão qual é a ideia principal e quais são as secundárias.",
+              "A composição textual vai diretamente ao assunto que se deseja abordar, sem voltas e sem redundâncias. Para conseguir isso, é fundamental que o redator saiba de antemão qual é a ideia principal e quais são as secundárias.",
               "É a qualidade básica de todo texto oficial. Pode-se definir como conciso aquele texto que possibilita imediata compreensão pelo leitor.",
               "É a articulação da linguagem comum ou técnica para a perfeita compreensão da ideia veiculada no texto."
             ],
@@ -35786,11 +35786,11 @@ export const SUBJECTS: Subject[] = [
             "topic": "Definição e Atributos da Redação Oficial",
             "question": "A Redação Oficial é a comunicação própria dos entes governamentais e se reveste de formalidades necessárias aos propósitos que se quer alcançar com elas. Sobre o referido tipo de comunicação, é correto afirmar que:",
             "options": [
-              "Se a Administração é una, os documentos devem ser uniformes, havendo um único comunicador (Poder Público) e um receptor &#x2013; o próprio Poder Público ou um particular encarado de modo homogêneo como &#x201c;Público&#x201d;.",
+              "Se a Administração é una, os documentos devem ser uniformes, havendo um único comunicador (Poder Público) e um receptor – o próprio Poder Público ou um particular encarado de modo homogêneo como “Público”.",
               "Suas características inerentes são a impessoalidade, o uso do padrão culto da língua, a prolixidade, a concisão, a clareza, a formalidade e a uniformidade.",
               "Seu texto dever ser culto e rebuscado, devido à sua finalidade de informar ou de regular a conduta, sendo, por isso, aceitável que sua redação não seja compreendida por todos os cidadãos.",
               "Seu texto apresenta como característica essencial o fundamento da prolixidade, o qual é empregado a fim de dar uma riqueza de detalhes capaz de encaminhar soluções dos problemas ali relatados.",
-              "Seu texto deve evidenciar impressões e opiniões pessoais, por isso são comuns expressões como &#x201c;tenho a honra de&#x201d;, &#x201c;tenho o prazer de&#x201d;, &#x201c;muito grato&#x201d;, &#x201c;renovo protestos de estima e consideração&#x201d;."
+              "Seu texto deve evidenciar impressões e opiniões pessoais, por isso são comuns expressões como “tenho a honra de”, “tenho o prazer de”, “muito grato”, “renovo protestos de estima e consideração”."
             ],
             "correctIndex": 0
           },
@@ -35798,7 +35798,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3032494-596",
             "chapter": "definicao-e-atributos-da-redacao-oficial",
             "topic": "Definição e Atributos da Redação Oficial",
-            "question": "Os atributos da redação oficial decorrem do Artigo 37&ordm; da Constituição Federal de 1988, tendo como princípios fundamentais a publicidade, a impessoalidade e a eficiência &#x2013; os quais devem nortear a elaboração dos atos e das comunicações oficiais. Considerando-se as especificidades de tais atributos, é correto atestar que:",
+            "question": "Os atributos da redação oficial decorrem do Artigo 37º da Constituição Federal de 1988, tendo como princípios fundamentais a publicidade, a impessoalidade e a eficiência – os quais devem nortear a elaboração dos atos e das comunicações oficiais. Considerando-se as especificidades de tais atributos, é correto atestar que:",
             "options": [
               "O uso de regionalismos e neologismos contribui para que o texto da redação oficial seja claro aos seus destinatários.",
               "Um texto oficial deve conter o maior número de palavras possíveis, a fim de que se transmita a maior quantidade possível de informações, respeitando-se, assim, o atributo da concisão.",
@@ -35878,11 +35878,11 @@ export const SUBJECTS: Subject[] = [
             "topic": "Fechos e Identificação do Signatário",
             "question": "Na identificação do signatário, depois do nome do cargo, é possível utilizar os termos interino e substituto. Quanto à sua utilização, é correto afirmar:",
             "options": [
-              "Substituto é aquele nomeado para ocupar transitoriamente cargo público durante a vac&acirc;ncia; interino é aquele designado para exercer as atribuições de cargo público vago ou no caso de afastamento e impedimentos legais ou regulamentares do titular. Esses termos devem ser utilizados depois do nome do cargo, sem hífen, sem vírgula e em minúsculo.",
-              "Substituto é aquele nomeado para ocupar transitoriamente cargo público durante a vac&acirc;ncia; interino é aquele designado para exercer as atribuições de cargo público vago ou no caso de afastamento e impedimentos legais ou regulamentares do titular. Esses termos devem ser utilizados depois do nome do cargo, sem hífen, sem vírgula e em maiúsculo.",
-              "Interino é aquele nomeado para ocupar transitoriamente cargo público durante a vac&acirc;ncia; substituto é aquele designado para exercer as atribuições de cargo público vago ou no caso de afastamento e impedimentos legais ou regulamentares do titular. Esses termos devem ser utilizados depois do nome do cargo, sem hífen, sem vírgula e em minúsculo.",
-              "Interino é aquele nomeado para ocupar transitoriamente cargo público durante a vac&acirc;ncia; substituto é aquele designado para exercer as atribuições de cargo público vago ou no caso de afastamento e impedimentos legais ou regulamentares do titular. Esses termos devem ser utilizados depois do nome do cargo, com hífen, sem vírgula e em maiúsculo.",
-              "Substituto é aquele nomeado para ocupar transitoriamente cargo público durante a vac&acirc;ncia; interino é aquele designado para exercer as atribuições de cargo público vago ou no caso de afastamento e impedimentos legais ou regulamentares do titular. Esses termos devem ser utilizados depois do nome do cargo, com hífen, sem vírgula e em maiúsculo."
+              "Substituto é aquele nomeado para ocupar transitoriamente cargo público durante a vacância; interino é aquele designado para exercer as atribuições de cargo público vago ou no caso de afastamento e impedimentos legais ou regulamentares do titular. Esses termos devem ser utilizados depois do nome do cargo, sem hífen, sem vírgula e em minúsculo.",
+              "Substituto é aquele nomeado para ocupar transitoriamente cargo público durante a vacância; interino é aquele designado para exercer as atribuições de cargo público vago ou no caso de afastamento e impedimentos legais ou regulamentares do titular. Esses termos devem ser utilizados depois do nome do cargo, sem hífen, sem vírgula e em maiúsculo.",
+              "Interino é aquele nomeado para ocupar transitoriamente cargo público durante a vacância; substituto é aquele designado para exercer as atribuições de cargo público vago ou no caso de afastamento e impedimentos legais ou regulamentares do titular. Esses termos devem ser utilizados depois do nome do cargo, sem hífen, sem vírgula e em minúsculo.",
+              "Interino é aquele nomeado para ocupar transitoriamente cargo público durante a vacância; substituto é aquele designado para exercer as atribuições de cargo público vago ou no caso de afastamento e impedimentos legais ou regulamentares do titular. Esses termos devem ser utilizados depois do nome do cargo, com hífen, sem vírgula e em maiúsculo.",
+              "Substituto é aquele nomeado para ocupar transitoriamente cargo público durante a vacância; interino é aquele designado para exercer as atribuições de cargo público vago ou no caso de afastamento e impedimentos legais ou regulamentares do titular. Esses termos devem ser utilizados depois do nome do cargo, com hífen, sem vírgula e em maiúsculo."
             ],
             "correctIndex": 2
           },
@@ -35918,7 +35918,7 @@ export const SUBJECTS: Subject[] = [
               "tamanho do papel deve ser A4; margem lateral esquerda: no mínimo, 2 cm de largura; margem lateral direita: 1,5 cm; margens superior e inferior: 3 cm.",
               "deve-se usar aspas antes e depois de uma citação textual direta, quando esta tem até três linhas, com fonte em itálico.",
               "a área de cabeçalho, na primeira página, é de 5 cm a partir da margem superior do papel; e a área de rodapé, nos 3 cm da margem inferior do documento.",
-              "pode-se imprimir a correspondência oficial em ambas as faces do papel; nesse caso, as dist&acirc;ncias das margens esquerda e direita deverão estar invertidas nas páginas pares."
+              "pode-se imprimir a correspondência oficial em ambas as faces do papel; nesse caso, as distâncias das margens esquerda e direita deverão estar invertidas nas páginas pares."
             ],
             "correctIndex": 4
           },
@@ -35975,7 +35975,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3969426-634",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "A padronização do emprego de siglas em documentos administrativos é medida essencial para assegurar clareza, uniformidade e compreensão imediata das informações no &acirc;mbito da comunicação oficial. As orientações de redação estabelecem critérios específicos quanto ao uso de letras maiúsculas ou minúsculas, considerando a quantidade de caracteres e a forma de pronúncia da sigla. Com base nessas diretrizes, indique a alternativa correta.",
+            "question": "A padronização do emprego de siglas em documentos administrativos é medida essencial para assegurar clareza, uniformidade e compreensão imediata das informações no âmbito da comunicação oficial. As orientações de redação estabelecem critérios específicos quanto ao uso de letras maiúsculas ou minúsculas, considerando a quantidade de caracteres e a forma de pronúncia da sigla. Com base nessas diretrizes, indique a alternativa correta.",
             "options": [
               "Siglas com até três letras devem ser grafadas apenas com a inicial maiúscula e as demais minúsculas.",
               "Siglas formadas por mais de três letras são sempre escritas exclusivamente em letras minúsculas.",
@@ -35989,7 +35989,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3969427-635",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "A redação oficial exige padronização quanto ao emprego das formas de tratamento e ao endereçamento de autoridades, a fim de assegurar respeito institucional, uniformidade textual e observ&acirc;ncia ao protocolo administrativo. Considerando essas orientações, no endereçamento de expediente oficial destinado a Ministro de Estado, deve-se empregar a seguinte forma:",
+            "question": "A redação oficial exige padronização quanto ao emprego das formas de tratamento e ao endereçamento de autoridades, a fim de assegurar respeito institucional, uniformidade textual e observância ao protocolo administrativo. Considerando essas orientações, no endereçamento de expediente oficial destinado a Ministro de Estado, deve-se empregar a seguinte forma:",
             "options": [
               "Ao Senhor Ministro de Estado.",
               "Ao Eminente Ministro.",
@@ -36003,12 +36003,12 @@ export const SUBJECTS: Subject[] = [
             "id": "4153076-636",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "No exercício de suas atribuições, o Analista Legislativo deve revisar a redação de proposições para garantir que o texto final guarde conformidade com os par&acirc;metros de clareza e precisão exigidos pela Lei Complementar n&ordm; 95/1998. De acordo com as normas de redação e articulação das leis previstas no referido diploma, assinale a opção que apresenta uma orientação técnica correta.",
+            "question": "No exercício de suas atribuições, o Analista Legislativo deve revisar a redação de proposições para garantir que o texto final guarde conformidade com os parâmetros de clareza e precisão exigidos pela Lei Complementar nº 95/1998. De acordo com as normas de redação e articulação das leis previstas no referido diploma, assinale a opção que apresenta uma orientação técnica correta.",
             "options": [
               "Para a obtenção de precisão, as referências a números e percentuais devem ser grafadas por extenso, exceto no caso de datas e números de leis, e as orações devem ser construídas preferencialmente na ordem direta para assegurar a clareza.",
-              "A eleg&acirc;ncia do texto legislativo deve ser buscada por meio do emprego de sinonímia com propósito estilístico, evitando-se a repetição de uma mesma palavra para expressar a mesma ideia ao longo do texto da norma.",
+              "A elegância do texto legislativo deve ser buscada por meio do emprego de sinonímia com propósito estilístico, evitando-se a repetição de uma mesma palavra para expressar a mesma ideia ao longo do texto da norma.",
               "O uso de termos e expressões locais ou regionais é recomendado para aproximar o texto da lei da realidade do povo cearense, prevalecendo sobre termos que possuam significado uniforme em todo o território nacional.",
-              "A remissão a outros dispositivos da mesma lei deve ser feita de forma simplificada, utilizando-se termos como &#x201c;artigo anterior&#x201d;, &#x201c;parágrafo seguinte&#x201d; ou expressões equivalentes para conferir maior fluidez à leitura técnica.",
+              "A remissão a outros dispositivos da mesma lei deve ser feita de forma simplificada, utilizando-se termos como “artigo anterior”, “parágrafo seguinte” ou expressões equivalentes para conferir maior fluidez à leitura técnica.",
               "A obtenção de clareza na norma exige a uniformidade do tempo verbal, devendo o consultor dar preferência ao uso do pretérito perfeito ou do futuro do pretérito para descrever comandos e obrigações estatais."
             ],
             "correctIndex": 0
@@ -36017,11 +36017,11 @@ export const SUBJECTS: Subject[] = [
             "id": "4153105-637",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "Nos termos da Lei Complementar n&ordm; 95/1998, que dispõe sobre elaboração, redação e alteração das leis, marque a alternativa correta.",
+            "question": "Nos termos da Lei Complementar nº 95/1998, que dispõe sobre elaboração, redação e alteração das leis, marque a alternativa correta.",
             "options": [
               "A contagem do prazo de vacatio legis inclui a data da publicação e o último dia do prazo, entrando a lei em vigor no dia subsequente à consumação integral desse período.",
               "A cláusula de vigência pode ser omitida pelo legislador quando a matéria regulada for de grande repercussão, presumindo-se a vigência imediata nesses casos.",
-              "O pre&acirc;mbulo da lei indicará, de modo conciso e sob a forma de título, o objeto da norma, propiciando sua identificação numérica singular.",
+              "O preâmbulo da lei indicará, de modo conciso e sob a forma de título, o objeto da norma, propiciando sua identificação numérica singular.",
               "A parte preliminar da lei compreende as disposições transitórias, a cláusula de vigência e a cláusula de revogação, quando couber.",
               "O mesmo assunto pode ser disciplinado por mais de uma lei, desde que aprovadas simultaneamente pelo Poder Legislativo competente."
             ],
@@ -36037,7 +36037,7 @@ export const SUBJECTS: Subject[] = [
               "Os incisos serão representados por letras minúsculas, as alíneas por algarismos romanos e os itens por algarismos arábicos.",
               "Os Capítulos, Títulos, Livros e Partes serão identificados por algarismos arábicos e grafados em letras minúsculas, para diferenciá-los das Seções e Subseções.",
               "As Subseções e Seções serão identificadas em algarismos arábicos, grafadas em letras maiúsculas e postas em negrito ou caracteres de realce.",
-              "Os parágrafos serão representados pelo sinal gráfico &#x201c;&sect;&#x201d;, seguido de numeração ordinal até o nono e cardinal a partir deste, utilizando-se, quando existente apenas um, a expressão &#x201c;parágrafo único&#x201d; por extenso."
+              "Os parágrafos serão representados pelo sinal gráfico “§”, seguido de numeração ordinal até o nono e cardinal a partir deste, utilizando-se, quando existente apenas um, a expressão “parágrafo único” por extenso."
             ],
             "correctIndex": 4
           },
@@ -36045,7 +36045,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4153145-639",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "A consolidação normativa é um instrumento fundamental da legística para assegurar a clareza, a simplificação e a coerência do ordenamento jurídico. No que concerne aos procedimentos e limites técnicos para a realização da consolidação de leis, de acordo com o regime estabelecido pela Lei Complementar n&ordm; 95/1998 e com as práticas de aperfeiçoamento institucional da Assembleia Legislativa, assinale a opção correta.",
+            "question": "A consolidação normativa é um instrumento fundamental da legística para assegurar a clareza, a simplificação e a coerência do ordenamento jurídico. No que concerne aos procedimentos e limites técnicos para a realização da consolidação de leis, de acordo com o regime estabelecido pela Lei Complementar nº 95/1998 e com as práticas de aperfeiçoamento institucional da Assembleia Legislativa, assinale a opção correta.",
             "options": [
               "As medidas provisórias ainda não convertidas em lei podem ser livremente incluídas em projetos de consolidação normativa, desde que versem sobre a mesma matéria, visando garantir a imediata efetividade e a unidade sistemática do regramento sobre o tema.",
               "O projeto de lei de consolidação, por visar à simplificação legislativa, possui o condão de alterar o mérito das leis integradas, permitindo que o consultor técnico proponha a criação de novas obrigações ou sanções que não estavam previstas nos textos originais dispersos.",
@@ -36061,11 +36061,11 @@ export const SUBJECTS: Subject[] = [
             "topic": "Geral",
             "question": "No exercício do assessoramento técnico para a elaboração de uma alternativa legislativa de grande repercussão social, o Analista Legislativo deve observar as regras de contagem de prazo e de estruturação da norma. Nesse sentido, assinale a opção correta.",
             "options": [
-              "A contagem do prazo para a entrada em vigor de leis que estabeleçam período de vac&acirc;ncia deve incluir o dia da publicação oficial e o último dia do prazo, com a vigência iniciando-se no dia subsequente à sua consumação integral.",
+              "A contagem do prazo para a entrada em vigor de leis que estabeleçam período de vacância deve incluir o dia da publicação oficial e o último dia do prazo, com a vigência iniciando-se no dia subsequente à sua consumação integral.",
               "O prazo de vacatio legis deve ser calculado excluindo-se o dia do começo e incluindo-se o dia do vencimento, seguindo o rito comum dos prazos processuais para garantir a uniformidade do sistema jurídico.",
-              "A utilização da cláusula de vigência imediata, com a expressão &#x201c;entra em vigor na data de sua publicação&#x201d;, deve ser adotada como padrão obrigatório para todos os projetos de lei, independentemente da sua complexidade.",
+              "A utilização da cláusula de vigência imediata, com a expressão “entra em vigor na data de sua publicação”, deve ser adotada como padrão obrigatório para todos os projetos de lei, independentemente da sua complexidade.",
               "A lei poderá conter matéria estranha ao seu objeto principal ou a este não vinculada por afinidade, desde que tal inserção vise ao aproveitamento do rito legislativo e à simplificação da produção normativa estadual.",
-              "A contagem do período de vac&acirc;ncia é interrompida nos dias em que não houver expediente administrativo nos órgãos oficiais de publicação, devendo o termo final ser prorrogado para o primeiro dia útil de circulação do diário."
+              "A contagem do período de vacância é interrompida nos dias em que não houver expediente administrativo nos órgãos oficiais de publicação, devendo o termo final ser prorrogado para o primeiro dia útil de circulação do diário."
             ],
             "correctIndex": 0
           },
@@ -36073,7 +36073,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4154755-641",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "Durante a elaboração de minuta legislativa submetida à apreciação da Comissão de Constituição, Justiça e Redação, discutiu-se a observ&acirc;ncia dos critérios de técnica legislativa destinados a assegurar adequada compreensão do texto normativo. Nos termos da Lei Complementar n&ordm; 95/1998, assinale a alternativa correta.",
+            "question": "Durante a elaboração de minuta legislativa submetida à apreciação da Comissão de Constituição, Justiça e Redação, discutiu-se a observância dos critérios de técnica legislativa destinados a assegurar adequada compreensão do texto normativo. Nos termos da Lei Complementar nº 95/1998, assinale a alternativa correta.",
             "options": [
               "A lei deve privilegiar linguagem técnica especializada independentemente da compreensão do destinatário.",
               "A lei deve ser redigida com clareza, precisão e ordem lógica.",
@@ -36087,7 +36087,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4154756-642",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "Durante a revisão de projeto de lei encaminhado para parecer jurídico, verificou-se a necessidade de adequação de sua estrutura formal aos par&acirc;metros estabelecidos pela legislação de técnica legislativa. &Agrave; luz da Lei Complementar n&ordm; 95/1998, assinale a alternativa correta.",
+            "question": "Durante a revisão de projeto de lei encaminhado para parecer jurídico, verificou-se a necessidade de adequação de sua estrutura formal aos parâmetros estabelecidos pela legislação de técnica legislativa. À luz da Lei Complementar nº 95/1998, assinale a alternativa correta.",
             "options": [
               "A estrutura básica das leis compreende relatório, fundamentação e dispositivo.",
               "A estrutura básica das leis compreende exposição de motivos, parecer jurídico e parte dispositiva.",
@@ -36101,9 +36101,9 @@ export const SUBJECTS: Subject[] = [
             "id": "4154806-643",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "Durante revisão de minuta de projeto de lei, a consultoria legislativa identificou a necessidade de verificar se a proposição observava as regras de técnica legislativa quanto à delimitação temática do texto normativo. &Agrave; luz da Lei Complementar n&ordm; 95/1998, marque a alternativa correta.",
+            "question": "Durante revisão de minuta de projeto de lei, a consultoria legislativa identificou a necessidade de verificar se a proposição observava as regras de técnica legislativa quanto à delimitação temática do texto normativo. À luz da Lei Complementar nº 95/1998, marque a alternativa correta.",
             "options": [
-              "O primeiro artigo do texto indicará o objeto da lei e o respectivo &acirc;mbito de aplicação.",
+              "O primeiro artigo do texto indicará o objeto da lei e o respectivo âmbito de aplicação.",
               "O primeiro artigo do texto indicará a justificativa política da proposição e a autoria parlamentar.",
               "O primeiro artigo do texto indicará a exposição de motivos e o parecer da comissão competente.",
               "O primeiro artigo do texto indicará as razões administrativas da norma e a estimativa de impacto financeiro.",
@@ -36115,7 +36115,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4154807-644",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "Durante a análise de admissibilidade de proposição legislativa, verificou-se que o texto pretendia disciplinar diversos assuntos sem relação entre si, exigindo a aplicação das normas de técnica legislativa destinadas a preservar a unidade temática da lei. &Agrave; luz da Lei Complementar n&ordm; 95/1998, aponte a opção correta.",
+            "question": "Durante a análise de admissibilidade de proposição legislativa, verificou-se que o texto pretendia disciplinar diversos assuntos sem relação entre si, exigindo a aplicação das normas de técnica legislativa destinadas a preservar a unidade temática da lei. À luz da Lei Complementar nº 95/1998, aponte a opção correta.",
             "options": [
               "A lei poderá reunir matérias sem conexão quando houver conveniência administrativa na tramitação conjunta.",
               "A lei não conterá matéria estranha a seu objeto ou a este não vinculada por afinidade, pertinência ou conexão.",
@@ -36157,7 +36157,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4155235-647",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "Considere que um órgão público divulgou em seu portal eletrônico a seguinte orientação: &#x201c;Os munícipes interessados na obtenção do benefício deverão proceder à formalização do pleito mediante preenchimento do formulário pertinente e ulterior submissão da documentação comprobatória.&#x201d; Considerando os princípios da Linguagem Simples previstos na Lei n&ordm; 15.263/2025, na Lei Estadual n&ordm; 18.246/2022 e as recomendações do Manual de Redação da Presidência da República, assinale a alternativa correta.",
+            "question": "Considere que um órgão público divulgou em seu portal eletrônico a seguinte orientação: “Os munícipes interessados na obtenção do benefício deverão proceder à formalização do pleito mediante preenchimento do formulário pertinente e ulterior submissão da documentação comprobatória.” Considerando os princípios da Linguagem Simples previstos na Lei nº 15.263/2025, na Lei Estadual nº 18.246/2022 e as recomendações do Manual de Redação da Presidência da República, assinale a alternativa correta.",
             "options": [
               "O texto está adequado, pois a linguagem administrativa deve priorizar termos técnicos em detrimento da compreensão do cidadão.",
               "O texto está adequado, pois expressões formais garantem maior segurança jurídica à comunicação pública.",
@@ -36171,12 +36171,12 @@ export const SUBJECTS: Subject[] = [
             "id": "4155254-648",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "Um órgão público estadual decidiu revisar seus modelos de comunicação externa para adequá-los às diretrizes da Lei n&ordm; 15.263/2025, da Lei Estadual n&ordm; 18.246/2022 e do Manual de Redação da Presidência da República. Durante a revisão, constatou-se que diversos documentos apresentavam períodos excessivamente longos, vocabulário técnico sem explicação, expressões cristalizadas e organização textual pouco orientada às necessidades do cidadão. Considerando as características dos gêneros textuais da administração pública e os princípios da Linguagem Simples, assinale a alternativa correta.",
+            "question": "Um órgão público estadual decidiu revisar seus modelos de comunicação externa para adequá-los às diretrizes da Lei nº 15.263/2025, da Lei Estadual nº 18.246/2022 e do Manual de Redação da Presidência da República. Durante a revisão, constatou-se que diversos documentos apresentavam períodos excessivamente longos, vocabulário técnico sem explicação, expressões cristalizadas e organização textual pouco orientada às necessidades do cidadão. Considerando as características dos gêneros textuais da administração pública e os princípios da Linguagem Simples, assinale a alternativa correta.",
             "options": [
               "A adoção da Linguagem Simples exige a substituição dos gêneros oficiais por textos de natureza informal, mais próximos da oralidade cotidiana, isto é, do dia a dia dos brasileiros.",
               "A redação técnica e a redação oficial possuem finalidades incompatíveis, razão pela qual os princípios da Linguagem Simples aplicam-se apenas à correspondência oficial.",
               "A adequação dos documentos oficiais à Linguagem Simples pressupõe a eliminação de toda terminologia especializada, independentemente do contexto comunicativo.",
-              "A observ&acirc;ncia dos padrões da redação oficial impede a adoção de estratégias de simplificação textual, pois a formalidade administrativa é incompatível com a acessibilidade comunicativa.",
+              "A observância dos padrões da redação oficial impede a adoção de estratégias de simplificação textual, pois a formalidade administrativa é incompatível com a acessibilidade comunicativa.",
               "A aplicação da Linguagem Simples aos gêneros da Administração Pública busca conciliar precisão técnica, clareza informacional e adequação ao destinatário, sem descaracterizar a finalidade institucional dos documentos."
             ],
             "correctIndex": 4
@@ -36190,7 +36190,7 @@ export const SUBJECTS: Subject[] = [
               "A normalização documental e a organização das informações restringem-se aos aspectos gráficos do texto, não possuindo relação com a clareza da informação.",
               "A identificação prévia de siglas é facultativa quando o documento se destina ao público externo. Ao contrário da organização das informações dirigidas ao mesmo público.",
               "A padronização textual, a explicitação de siglas e a organização das informações favorecem a compreensão do documento e contribuem para a efetividade da comunicação pública.",
-              "A observ&acirc;ncia das normas da ABNT dispensa a adoção dos princípios da Linguagem Simples, uma vez que ambos possuem finalidades e princípios distintos.",
+              "A observância das normas da ABNT dispensa a adoção dos princípios da Linguagem Simples, uma vez que ambos possuem finalidades e princípios distintos.",
               "A redação oficial privilegia a precisão técnica, ainda que isso comprometa a compreensão do destinatário, seja ele o público interno, que compreende o funcionalismo público, seja ele o cidadão comum, considerado público externo."
             ],
             "correctIndex": 2
@@ -36213,7 +36213,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4155720-651",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "Durante a revisão de expediente administrativo destinado à comunicação de decisão institucional, verificou-se a necessidade de adequar a redação aos atributos exigidos pela redação oficial, especialmente quanto à compreensão imediata da mensagem pelo destinatário. No contexto da análise, discutiu-se o atributo responsável por assegurar que o texto seja compreendido sem dificuldades interpretativas. &Agrave; luz dos princípios da redação oficial, assinale a alternativa correta.",
+            "question": "Durante a revisão de expediente administrativo destinado à comunicação de decisão institucional, verificou-se a necessidade de adequar a redação aos atributos exigidos pela redação oficial, especialmente quanto à compreensão imediata da mensagem pelo destinatário. No contexto da análise, discutiu-se o atributo responsável por assegurar que o texto seja compreendido sem dificuldades interpretativas. À luz dos princípios da redação oficial, assinale a alternativa correta.",
             "options": [
               "A clareza restringe-se aos documentos destinados ao público externo, não sendo exigida nas comunicações internas.",
               "A clareza autoriza a utilização de expressões técnicas, independentemente do público destinatário da comunicação.",
@@ -36227,7 +36227,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4155721-652",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "Durante a elaboração de comunicação institucional destinada a diversos setores da Administração, observou-se a necessidade de adequação do texto aos atributos formais da redação oficial. &Agrave; luz dos princípios da redação oficial, assinale a alternativa correta.",
+            "question": "Durante a elaboração de comunicação institucional destinada a diversos setores da Administração, observou-se a necessidade de adequação do texto aos atributos formais da redação oficial. À luz dos princípios da redação oficial, assinale a alternativa correta.",
             "options": [
               "A impessoalidade impede qualquer referência à autoridade subscritora do documento.",
               "A impessoalidade exige que a comunicação represente a manifestação institucional do órgão, afastando opiniões, preferências ou interesses particulares do redator.",
@@ -36365,7 +36365,7 @@ export const SUBJECTS: Subject[] = [
             "options": [
               "escolher termos que tenham o mesmo sentido e significado geral no território, sendo possível o uso de expressões locais ou regionais a fim de valorizar o vocabulário interno.",
               "buscar a diversidade do tempo verbal em todo o texto, sem se limitar ao tempo presente ou ao futuro simples do presente, a fim de contribuir com a precisão temporal.",
-              "indicar, expressamente, o dispositivo objeto de remissão, por meio do emprego da abreviatura &#x201c;atg.&#x201d; seguida do correspondente número, ordinal ou cardinal.",
+              "indicar, expressamente, o dispositivo objeto de remissão, por meio do emprego da abreviatura “atg.” seguida do correspondente número, ordinal ou cardinal.",
               "expressar a ideia, quando repetida, por meio das mesmas palavras, evitando o emprego de sinonímia com propósito meramente estilístico.",
               "expressar valores monetários em algarismos arábicos, seguidos de sua indicação por extenso, entre vírgulas."
             ],
@@ -36406,10 +36406,10 @@ export const SUBJECTS: Subject[] = [
             "topic": "Partes do Documento (Padrão Ofício)",
             "question": "",
             "options": [
-              "o vocativo correto a ser utilizado no início do texto, em concord&acirc;ncia com a autoridade do cargo de Ministro, é &#x201c;Excelentíssimo Senhor Ministro&#x201d;.",
-              "a forma de tratamento a ser empregada no corpo do texto para referir-se ao Ministro é &#x201c;Vossa Excelência&#x201d;, enquanto o endereçamento no envelope deve conter &#x201c;A Sua Excelência o Senhor&#x201d;.",
-              "o fecho adequado para a comunicação, sendo o destinatário uma autoridade de hierarquia superior, deve ser &#x201c;Respeitosamente&#x201d; seguido da assinatura do remetente.",
-              "o documento deve apresentar o padrão &#x201c;Ofício&#x201d;, que substituiu os antigos &#x201c;Aviso&#x201d; e &#x201c;Memorando&#x201d;, mantendo o nome do setor por extenso antes da sigla da instituição."
+              "o vocativo correto a ser utilizado no início do texto, em concordância com a autoridade do cargo de Ministro, é “Excelentíssimo Senhor Ministro”.",
+              "a forma de tratamento a ser empregada no corpo do texto para referir-se ao Ministro é “Vossa Excelência”, enquanto o endereçamento no envelope deve conter “A Sua Excelência o Senhor”.",
+              "o fecho adequado para a comunicação, sendo o destinatário uma autoridade de hierarquia superior, deve ser “Respeitosamente” seguido da assinatura do remetente.",
+              "o documento deve apresentar o padrão “Ofício”, que substituiu os antigos “Aviso” e “Memorando”, mantendo o nome do setor por extenso antes da sigla da instituição."
             ],
             "correctIndex": 2
           },
@@ -36495,12 +36495,12 @@ export const SUBJECTS: Subject[] = [
             "id": "2761434-632",
             "chapter": "questoes-variadas-de-outros-expedientes-de-redacao-oficial",
             "topic": "Questões Variadas de Outros Expedientes de Redação Oficial",
-            "question": "Uma reunião proveitosa se inicia com a eficaz elaboração de sua pauta. Leia o enunciado abaixo e assinale o item correto. &#x201c;Pauta da Reunião Semanal do Projeto Mãos que Acolhem A Prefeitura de Alegria e a Secretária de Desenvolvimento Social e Humano do Município, convocam as Organizações Não-Governamentais cadastradas no Projeto, a fim de apresentar o novo ciclo de financiamento e desenvolvimento do projeto, ...&#x201d; O enunciado apresenta parte da pauta de uma reunião que apresenta os seguintes elementos:",
+            "question": "Uma reunião proveitosa se inicia com a eficaz elaboração de sua pauta. Leia o enunciado abaixo e assinale o item correto. “Pauta da Reunião Semanal do Projeto Mãos que Acolhem A Prefeitura de Alegria e a Secretária de Desenvolvimento Social e Humano do Município, convocam as Organizações Não-Governamentais cadastradas no Projeto, a fim de apresentar o novo ciclo de financiamento e desenvolvimento do projeto, ...” O enunciado apresenta parte da pauta de uma reunião que apresenta os seguintes elementos:",
             "options": [
               "tema a ser tratado e data da reunião.",
               "finalidade, data e local da reunião.",
-              "inst&acirc;ncia de convocação e especificação dos participantes.",
-              "inst&acirc;ncia de convocação e local da reunião."
+              "instância de convocação e especificação dos participantes.",
+              "instância de convocação e local da reunião."
             ],
             "correctIndex": 2
           }
@@ -36521,7 +36521,7 @@ export const SUBJECTS: Subject[] = [
               "Excelentíssimo Senhor Presidente da República.",
               "Senhor Presidente da República.",
               "Magnífico Senhor Presidente da República.",
-              "&Agrave; Vossa Senhoria Presidente da República.",
+              "À Vossa Senhoria Presidente da República.",
               "Reverendíssimo Senhor Presidente da República."
             ],
             "correctIndex": 0
@@ -36610,7 +36610,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3333328-543",
             "chapter": "codigos-de-etica-e-conduta-estaduais",
             "topic": "Códigos de Ética e Conduta Estaduais",
-            "question": "A violação das normas estipuladas no Decreto n&ordm; 31.198/2013 (Código de &Eacute;tica e Conduta da Administração Pública Estadual do Ceará) poderá acarretar algumas sanções éticas, sem prejuízo das demais sanções administrativas, civis e criminais aplicadas pelo poder competente em procedimento próprio. Nesse sentido, são sanções previstas neste Código",
+            "question": "A violação das normas estipuladas no Decreto nº 31.198/2013 (Código de Ética e Conduta da Administração Pública Estadual do Ceará) poderá acarretar algumas sanções éticas, sem prejuízo das demais sanções administrativas, civis e criminais aplicadas pelo poder competente em procedimento próprio. Nesse sentido, são sanções previstas neste Código",
             "options": [
               "processo disciplinar ético ou demissão por conduta aética.",
               "advertência ética ou multa.",
@@ -36623,10 +36623,10 @@ export const SUBJECTS: Subject[] = [
             "id": "3334194-544",
             "chapter": "codigos-de-etica-e-conduta-estaduais",
             "topic": "Códigos de Ética e Conduta Estaduais",
-            "question": "De acordo com o Código de &Eacute;tica e Conduta da Administração Publica Estadual (Decreto n.&ordm; 31.198/2013 ), é correto afirmar que:",
+            "question": "De acordo com o Código de Ética e Conduta da Administração Publica Estadual (Decreto n.º 31.198/2013 ), é correto afirmar que:",
             "options": [
-              "No relacionamento com outros Órgãos e Entidades da Administração Pública, a autoridade pública deverá esclarecer a existência de eventual conflito de interesses, bem como comunicar qualquer circunst&acirc;ncia ou fato impeditivo de sua participação em decisão coletiva ou em órgão e entidade colegiados.",
-              "É permitido à autoridade pública, referida no Art. 1&ordm; do Decreto, opinar publicamente a respeito da honorabilidade e do desempenho funcional de outra autoridade pública e do mérito de questão que lhe será submetida, para decisão individual ou em órgão e entidade colegiados.",
+              "No relacionamento com outros Órgãos e Entidades da Administração Pública, a autoridade pública deverá esclarecer a existência de eventual conflito de interesses, bem como comunicar qualquer circunstância ou fato impeditivo de sua participação em decisão coletiva ou em órgão e entidade colegiados.",
+              "É permitido à autoridade pública, referida no Art. 1º do Decreto, opinar publicamente a respeito da honorabilidade e do desempenho funcional de outra autoridade pública e do mérito de questão que lhe será submetida, para decisão individual ou em órgão e entidade colegiados.",
               "As autoridades regidas por este Código de Ética, ao assumir cargo, emprego ou função pública, deverão firmar termo de compromisso de que, ao deixar o cargo, nos 12 meses seguintes, não poderão atuar em benefício ou em nome de pessoa física ou jurídica, inclusive sindicato ou associação de classe, em processo ou negócio do qual tenha participado, em razão do cargo, nos doze meses anteriores ao término do exercício de função pública.",
               "Ao autor de representação ou denúncia, mesmo que de forma anônima, é assegurado o direito de obter cópia da decisão da Comissão de Ética e, às suas expensas, cópia dos autos, resguardados os documentos sob sigilo legal, e manter preservada em sigilo a sua identidade durante e após a tramitação do processo."
             ],
@@ -36644,7 +36644,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3502285-530",
             "chapter": "decreto-nº-11711994--codigo-de-conduta-do-servidor-publico-civil-do-poder-executivo-federal",
             "topic": "Decreto nº 1.171/1994 - Código de Conduta do Servidor Público Civil do Poder Executivo Federal",
-            "question": "De acordo com o Código de &Eacute;tica Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto n&ordm; 1.171/1994), é vedado ao servidor público:",
+            "question": "De acordo com o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto nº 1.171/1994), é vedado ao servidor público:",
             "options": [
               "Retirar da repartição pública, com autorização de seu superior, qualquer documento pertencente ao patrimônio público.",
               "Utilizar informações privilegiadas obtidas no exercício de suas funções para beneficiar terceiros, desde que não haja prejuízo ao interesse público.",
@@ -36658,12 +36658,12 @@ export const SUBJECTS: Subject[] = [
             "id": "3611854-531",
             "chapter": "decreto-nº-11711994--codigo-de-conduta-do-servidor-publico-civil-do-poder-executivo-federal",
             "topic": "Decreto nº 1.171/1994 - Código de Conduta do Servidor Público Civil do Poder Executivo Federal",
-            "question": "Conforme regulado pelo Decreto Federal n&ordm; 1.171, de 22/06/1994, são deveres fundamentais do servidor público:",
+            "question": "Conforme regulado pelo Decreto Federal nº 1.171, de 22/06/1994, são deveres fundamentais do servidor público:",
             "options": [
               "Pleitear, solicitar, provocar, sugerir ou receber qualquer tipo de ajuda financeira, gratificação, prêmio, comissão, doação ou vantagem de qualquer espécie, para si, familiares ou qualquer pessoa, para o cumprimento da sua missão ou para influenciar outro servidor para o mesmo fim.",
               "Fazer o uso do cargo ou função, facilidades, amizades, tempo, posição e influências, para obter qualquer favorecimento, para si ou para outrem.",
               "Usar de artifícios para procrastinar ou dificultar o exercício regular de direito por qualquer pessoa, causando-lhe dano moral ou material.",
-              "Fazer uso de informações privilegiadas obtidas no &acirc;mbito interno de seu serviço, em benefício próprio, de parentes, de amigos ou de terceiros.",
+              "Fazer uso de informações privilegiadas obtidas no âmbito interno de seu serviço, em benefício próprio, de parentes, de amigos ou de terceiros.",
               "Resistir a todas as pressões de superiores hierárquicos, de contratantes, interessados e outros que visem obter quaisquer favores, benesses ou vantagens indevidas em decorrência de ações imorais, ilegais ou aéticas e denunciá-las."
             ],
             "correctIndex": 4
@@ -36672,7 +36672,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3614396-532",
             "chapter": "decreto-nº-11711994--codigo-de-conduta-do-servidor-publico-civil-do-poder-executivo-federal",
             "topic": "Decreto nº 1.171/1994 - Código de Conduta do Servidor Público Civil do Poder Executivo Federal",
-            "question": "Conforme regulado pelo Decreto Federal n&ordm; 1.171, de 22/06/1994, que instituiu o Código de &Eacute;tica Profissional do Servidor Público Civil do Poder Executivo Federal, são regras deontológicas a serem observadas as corretamente apresentada em:",
+            "question": "Conforme regulado pelo Decreto Federal nº 1.171, de 22/06/1994, que instituiu o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal, são regras deontológicas a serem observadas as corretamente apresentada em:",
             "options": [
               "Pleitear, solicitar, provocar, sugerir ou receber qualquer tipo de ajuda financeira, gratificação, prêmio, comissão, doação ou vantagem de qualquer espécie, para si, familiares ou qualquer pessoa, para o cumprimento da sua missão ou para influenciar outro servidor para o mesmo fim.",
               "Fazer o uso do cargo ou função, facilidades, amizades, tempo, posição e influências, para obter qualquer favorecimento, para si ou para outrem.",
@@ -36686,12 +36686,12 @@ export const SUBJECTS: Subject[] = [
             "id": "3616503-533",
             "chapter": "decreto-nº-11711994--codigo-de-conduta-do-servidor-publico-civil-do-poder-executivo-federal",
             "topic": "Decreto nº 1.171/1994 - Código de Conduta do Servidor Público Civil do Poder Executivo Federal",
-            "question": "Conforme regulado pelo Decreto Federal n&ordm; 1.171, de 22/06/1994, em todos os órgãos e entidades da Administração Pública Federal direta, indireta autárquica e fundacional, ou em qualquer órgão ou entidade que exerça atribuições delegadas pelo poder público, deverá ser criada uma Comissão de &Eacute;tica, encarregada de:",
+            "question": "Conforme regulado pelo Decreto Federal nº 1.171, de 22/06/1994, em todos os órgãos e entidades da Administração Pública Federal direta, indireta autárquica e fundacional, ou em qualquer órgão ou entidade que exerça atribuições delegadas pelo poder público, deverá ser criada uma Comissão de Ética, encarregada de:",
             "options": [
               "fiscalizar o recebimento de qualquer tipo de ajuda financeira, gratificação, prêmio, comissão, doação ou vantagem de qualquer espécie, para si, familiares ou qualquer pessoa, para o cumprimento da sua missão ou para influenciar outro servidor para o mesmo fim.",
               "orientar e aconselhar sobre a ética profissional do servidor, no tratamento com as pessoas e com o patrimônio público, competindo-lhe conhecer concretamente de imputação ou de procedimento susceptível de censura.",
               "interferir no uso de artifícios para procrastinar ou dificultar o exercício regular de direito por qualquer pessoa, causando-lhe dano moral ou material.",
-              "coibir o uso de informações privilegiadas obtidas no &acirc;mbito interno de seu serviço, em benefício próprio, de parentes, de amigos ou de terceiros.",
+              "coibir o uso de informações privilegiadas obtidas no âmbito interno de seu serviço, em benefício próprio, de parentes, de amigos ou de terceiros.",
               "facilitar a todas as pressões de superiores hierárquicos, de contratantes, interessados e outros que visem obter quaisquer favores, benesses ou vantagens indevidas em decorrência de ações imorais, ilegais ou aéticas e denunciá-las."
             ],
             "correctIndex": 1
@@ -36700,7 +36700,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3619486-534",
             "chapter": "decreto-nº-11711994--codigo-de-conduta-do-servidor-publico-civil-do-poder-executivo-federal",
             "topic": "Decreto nº 1.171/1994 - Código de Conduta do Servidor Público Civil do Poder Executivo Federal",
-            "question": "Conforme regulado pelo Decreto Federal n&ordm; 1.171, de 22/06/1994, que instituiu o Código de &Eacute;tica Profissional do Servidor Público Civil do Poder Executivo Federal, o uso do cargo ou função, facilidades, amizades, tempo, posição e influências, para obter qualquer favorecimento, para si ou para outrem, constitui o que apontamos corretamente apenas em:",
+            "question": "Conforme regulado pelo Decreto Federal nº 1.171, de 22/06/1994, que instituiu o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal, o uso do cargo ou função, facilidades, amizades, tempo, posição e influências, para obter qualquer favorecimento, para si ou para outrem, constitui o que apontamos corretamente apenas em:",
             "options": [
               "Dever fundamental do servidor público.",
               "Vedação ao servidor público.",
@@ -36714,13 +36714,13 @@ export const SUBJECTS: Subject[] = [
             "id": "3726710-535",
             "chapter": "decreto-nº-11711994--codigo-de-conduta-do-servidor-publico-civil-do-poder-executivo-federal",
             "topic": "Decreto nº 1.171/1994 - Código de Conduta do Servidor Público Civil do Poder Executivo Federal",
-            "question": "O Código de &Eacute;tica Profissional do Servidor Público Civil do Poder Executivo Federal, aprovado pelo Decreto n&ordm; 1.171/1994, estabelece a publicidade como um princípio essencial da Administração Pública. Considerando as exceções previstas no referido diploma e os limites éticos aplicáveis aos atos administrativos, assinale a alternativa correta.",
+            "question": "O Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal, aprovado pelo Decreto nº 1.171/1994, estabelece a publicidade como um princípio essencial da Administração Pública. Considerando as exceções previstas no referido diploma e os limites éticos aplicáveis aos atos administrativos, assinale a alternativa correta.",
             "options": [
               "Os atos administrativos podem ser mantidos sigilosos sempre que o servidor entender que a divulgação possa comprometer a rotina operacional do órgão, independentemente de declaração formal de sigilo.",
               "Salvo as exceções legalmente previstas, a publicidade dos atos administrativos é condição necessária para a eficácia e a moralidade, sendo a sua omissão considerada uma falta ética grave, atribuída a quem a negar.",
               "O sigilo dos atos administrativos pode ser livremente decidido pelo servidor responsável, ainda que não haja declaração formal de confidencialidade, bastando a avaliação subjetiva de conveniência do próprio servidor.",
               "Todos os atos administrativos podem ser mantidos em sigilo se houver mera justificativa de proteção à imagem da Administração Pública, mesmo que não haja respaldo legal específico para tanto.",
-              "A violação da publicidade dos atos administrativos somente terá relev&acirc;ncia ética quando houver prejuízo material direto ao interesse público, sendo irrelevante no caso de danos exclusivamente morais ou coletivos."
+              "A violação da publicidade dos atos administrativos somente terá relevância ética quando houver prejuízo material direto ao interesse público, sendo irrelevante no caso de danos exclusivamente morais ou coletivos."
             ],
             "correctIndex": 1
           },
@@ -36728,12 +36728,12 @@ export const SUBJECTS: Subject[] = [
             "id": "3270848-537",
             "chapter": "decreto-nº-11711994--codigo-de-conduta-do-servidor-publico-civil-do-poder-executivo-federal",
             "topic": "Decreto nº 1.171/1994 - Código de Conduta do Servidor Público Civil do Poder Executivo Federal",
-            "question": "Márcia, servidora pública do Estado da Paraíba, recebeu um treinamento específico sobre o Código de &Eacute;tica e Conduta Profissional dos Servidores e Empregados Públicos Civis do Estado. Durante o treinamento, foi informada de que o Código possui aplicabilidade ampliada, atingindo, inclusive, outros agentes que atuam na administração pública estadual. Considerando o exposto, assinale a alternativa que indique a extensão da aplicação do referido Código.",
+            "question": "Márcia, servidora pública do Estado da Paraíba, recebeu um treinamento específico sobre o Código de Ética e Conduta Profissional dos Servidores e Empregados Públicos Civis do Estado. Durante o treinamento, foi informada de que o Código possui aplicabilidade ampliada, atingindo, inclusive, outros agentes que atuam na administração pública estadual. Considerando o exposto, assinale a alternativa que indique a extensão da aplicação do referido Código.",
             "options": [
               "Aplica-se exclusivamente aos servidores efetivos e comissionados da administração pública estadual.",
               "É aplicável aos servidores estaduais e aos estagiários, mas não inclui os terceirizados entre os destinatários do Código.",
               "Abrange estagiários e terceirizados, mas apenas se estes tiverem vínculo direto com a administração pública estadual.",
-              "Aplica-se aos servidores estaduais, estagiários e terceirizados, prevendo a ciência e a responsabilidade das empresas contratadas pela observ&acirc;ncia do Código.",
+              "Aplica-se aos servidores estaduais, estagiários e terceirizados, prevendo a ciência e a responsabilidade das empresas contratadas pela observância do Código.",
               "É restrito aos servidores que integram carreira própria da administração pública estadual, excluindo estagiários e terceirizados."
             ],
             "correctIndex": 3
@@ -36750,7 +36750,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3726718-539",
             "chapter": "decreto-nº-60292007--sistema-de-gestao-da-etica-do-poder-executivo-federal",
             "topic": "Decreto nº 6.029/2007 - Sistema de Gestão da Ética do Poder Executivo Federal",
-            "question": "Luísa, servidora pública federal, apresentou uma denúncia formal à Comissão de &Eacute;tica de seu órgão contra um colega, alegando que ele teria praticado conduta incompatível com os princípios da Administração Pública. Durante a apuração, Luísa solicitou que sua identidade fosse mantida em sigilo. No curso do procedimento, foi observado que um dos membros da comissão possuía relação de amizade pessoal com o investigado. Ainda assim, ele decidiu participar das deliberações, alegando que sua imparcialidade estava garantida. Considerando as disposições do Decreto n&ordm; 6.029/2007 acerca dos princípios aplicáveis às Comissões de &Eacute;tica, assinale a opção correta.",
+            "question": "Luísa, servidora pública federal, apresentou uma denúncia formal à Comissão de Ética de seu órgão contra um colega, alegando que ele teria praticado conduta incompatível com os princípios da Administração Pública. Durante a apuração, Luísa solicitou que sua identidade fosse mantida em sigilo. No curso do procedimento, foi observado que um dos membros da comissão possuía relação de amizade pessoal com o investigado. Ainda assim, ele decidiu participar das deliberações, alegando que sua imparcialidade estava garantida. Considerando as disposições do Decreto nº 6.029/2007 acerca dos princípios aplicáveis às Comissões de Ética, assinale a opção correta.",
             "options": [
               "A celeridade no andamento dos trabalhos da comissão é um princípio que pode ser flexibilizado, especialmente quando os fatos exigirem maior aprofundamento da investigação e envolvam denúncias complexas.",
               "O membro da comissão poderia participar da apuração, desde que sua amizade com o investigado fosse superficial e devidamente declarada no início do procedimento, não havendo impedimento ético.",
@@ -36764,12 +36764,12 @@ export const SUBJECTS: Subject[] = [
             "id": "3726722-540",
             "chapter": "decreto-nº-60292007--sistema-de-gestao-da-etica-do-poder-executivo-federal",
             "topic": "Decreto nº 6.029/2007 - Sistema de Gestão da Ética do Poder Executivo Federal",
-            "question": "O Decreto n&ordm; 6.029/2007, ao instituir o Sistema de Gestão da &Eacute;tica do Poder Executivo Federal, estabeleceu as normas relativas à composição e ao funcionamento da Comissão de &Eacute;tica Pública (CEP). Considerando as disposições previstas no referido decreto, identifique a alternativa correta.",
+            "question": "O Decreto nº 6.029/2007, ao instituir o Sistema de Gestão da Ética do Poder Executivo Federal, estabeleceu as normas relativas à composição e ao funcionamento da Comissão de Ética Pública (CEP). Considerando as disposições previstas no referido decreto, identifique a alternativa correta.",
             "options": [
               "A Comissão de Ética Pública é composta por sete brasileiros de reputação ilibada e notória experiência em administração pública, designados pelo Presidente da República, para mandatos de três anos, não coincidentes, sendo permitida uma única recondução.",
               "Os membros da Comissão de Ética Pública devem ser brasileiros com notória experiência acadêmica em ética aplicada, sendo remunerados pelo trabalho prestado.",
               "Os membros da Comissão de Ética Pública têm direito à remuneração pelo desempenho de suas funções, visto que os trabalhos desenvolvidos pela comissão exigem dedicação exclusiva e carga horária mínima semanal.",
-              "Os mandatos dos membros da Comissão de Ética Pública são coincidentes e renováveis indefinidamente, cabendo ao Presidente da Comissão a designação dos novos integrantes sempre que houver vac&acirc;ncia.",
+              "Os mandatos dos membros da Comissão de Ética Pública são coincidentes e renováveis indefinidamente, cabendo ao Presidente da Comissão a designação dos novos integrantes sempre que houver vacância.",
               "O voto de qualidade nas deliberações da Comissão de Ética Pública é atribuído ao servidor mais antigo da Comissão, independentemente de ocupar ou não a presidência no momento da votação."
             ],
             "correctIndex": 0
@@ -36786,7 +36786,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3966677-576",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "André, servidor público federal, observou que seu superior hierárquico vinha solicitando a fornecedores que participavam de licitações na instituição o pagamento de valores indevidos em troca de favorecimento nos processos de contratação. André, temendo represálias e prejuízos à sua carreira, decidiu não se envolver nas práticas irregulares, recusando-se a participar de qualquer ação que beneficiasse o esquema, mas optou por não comunicar formalmente o fato às autoridades competentes nem representar contra seu superior, mantendo-se em silêncio sobre a situação. Considerando os deveres fundamentais estabelecidos no Código de &Eacute;tica Profissional do Servidor Público, assinale a afirmativa correta.",
+            "question": "André, servidor público federal, observou que seu superior hierárquico vinha solicitando a fornecedores que participavam de licitações na instituição o pagamento de valores indevidos em troca de favorecimento nos processos de contratação. André, temendo represálias e prejuízos à sua carreira, decidiu não se envolver nas práticas irregulares, recusando-se a participar de qualquer ação que beneficiasse o esquema, mas optou por não comunicar formalmente o fato às autoridades competentes nem representar contra seu superior, mantendo-se em silêncio sobre a situação. Considerando os deveres fundamentais estabelecidos no Código de Ética Profissional do Servidor Público, assinale a afirmativa correta.",
             "options": [
               "André cumpriu adequadamente seus deveres éticos ao abster-se de participar das práticas irregulares e ao manter respeito à hierarquia, uma vez que a denúncia de superiores hierárquicos deve ser evitada para preservar a harmonia administrativa e a estabilidade das relações de trabalho.",
               "A conduta de André está parcialmente adequada aos deveres éticos, pois embora tenha resistido às pressões para participar de ações ilegais, deveria ter aguardado orientação de autoridade superior antes de tomar qualquer providência relacionada à denúncia dos fatos observados.",
@@ -36799,7 +36799,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3966849-577",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "No Código de &Eacute;tica Profissional do Servidor Público, estabelecido pelo Decreto n&ordm; 1.171/1994, são previstos deveres fundamentais que orientam a conduta dos servidores no exercício de suas funções. Considerando as disposições do referido código, o servidor público:",
+            "question": "No Código de Ética Profissional do Servidor Público, estabelecido pelo Decreto nº 1.171/1994, são previstos deveres fundamentais que orientam a conduta dos servidores no exercício de suas funções. Considerando as disposições do referido código, o servidor público:",
             "options": [
               "Deve exercer suas atribuições com rapidez e perfeição, porém pode postergar a resolução de situações procrastinatórias quando envolver filas ou atrasos na prestação de serviços, desde que comunique previamente aos usuários sobre a impossibilidade de atendimento imediato.",
               "Deve resistir a pressões de superiores hierárquicos que visem obter vantagens indevidas, mas não tem o dever de denunciá-las, devendo apenas abster-se de participar de ações imorais, ilegais ou antiéticas para preservar a harmonia da estrutura hierárquica.",
@@ -36812,7 +36812,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3967114-578",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "No &acirc;mbito da Administração Pública, a conduta dos agentes estatais não se limita ao cumprimento estrito das normas legais e regulamentares, sendo também orientada por par&acirc;metros éticos que visam preservar a integridade, a confiança social e a legitimidade das instituições públicas. &Agrave; luz das disposições expressas no normativo brasileiro a respeito do tema &#x201c;&Eacute;tica do Servidor Público&#x201d;, assinale a alternativa correta.",
+            "question": "No âmbito da Administração Pública, a conduta dos agentes estatais não se limita ao cumprimento estrito das normas legais e regulamentares, sendo também orientada por parâmetros éticos que visam preservar a integridade, a confiança social e a legitimidade das instituições públicas. À luz das disposições expressas no normativo brasileiro a respeito do tema “Ética do Servidor Público”, assinale a alternativa correta.",
             "options": [
               "A apreciação da conduta sob o prisma ético pode ocorrer independentemente da configuração de infração administrativa, civil ou penal.",
               "A responsabilização ética depende da caracterização prévia de infração disciplinar prevista no regime jurídico dos servidores, não existindo autonomia para a apuração de natureza exclusivamente ética.",
@@ -36825,13 +36825,13 @@ export const SUBJECTS: Subject[] = [
             "id": "4033079-579",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "Considerando os princípios éticos, a cidadania no tr&acirc;nsito e a atuação do agente público, baseados na Constituição Federal de 1988, assinale a alternativa correta.",
+            "question": "Considerando os princípios éticos, a cidadania no trânsito e a atuação do agente público, baseados na Constituição Federal de 1988, assinale a alternativa correta.",
             "options": [
-              "O agente de tr&acirc;nsito deve priorizar a aplicação de penalidades em detrimento da orientação educativa, para garantir o caráter repressivo da norma.",
-              "A atuação do agente de tr&acirc;nsito deve observar os princípios da Administração Pública, sendo exigida conduta ética, imparcial e respeitosa no trato com os cidadãos.",
+              "O agente de trânsito deve priorizar a aplicação de penalidades em detrimento da orientação educativa, para garantir o caráter repressivo da norma.",
+              "A atuação do agente de trânsito deve observar os princípios da Administração Pública, sendo exigida conduta ética, imparcial e respeitosa no trato com os cidadãos.",
               "A urbanidade no atendimento ao público é recomendável, mas não constitui dever funcional do agente público no exercício de suas atribuições.",
-              "A responsabilidade no tr&acirc;nsito recai exclusivamente sobre os condutores de veículos automotores, não alcançando pedestres e ciclistas.",
-              "A relação interpessoal no tr&acirc;nsito é irrelevante para a segurança viária, sendo suficiente o cumprimento estrito das normas legais."
+              "A responsabilidade no trânsito recai exclusivamente sobre os condutores de veículos automotores, não alcançando pedestres e ciclistas.",
+              "A relação interpessoal no trânsito é irrelevante para a segurança viária, sendo suficiente o cumprimento estrito das normas legais."
             ],
             "correctIndex": 1
           },
@@ -36839,7 +36839,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4040076-580",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "No &acirc;mbito de suas atribuições, a Comissão de &Eacute;tica competente instaurou processo de apuração de prática de ato em desrespeito ao Código de &Eacute;tica Profissional do Servidor Público Civil do Poder Executivo Federal. Após a notificação do investigado para manifestação no prazo legal e a juntada de sua defesa aos autos, foram anexados novos elementos probatórios considerados relevantes para a elucidação dos fatos. Concluída a instrução processual, a Comissão de &Eacute;tica decidiu pela existência de falta ética. Considerando as disposições do Decreto n&ordm; 6.029/2007, assinale a afirmativa correta.",
+            "question": "No âmbito de suas atribuições, a Comissão de Ética competente instaurou processo de apuração de prática de ato em desrespeito ao Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal. Após a notificação do investigado para manifestação no prazo legal e a juntada de sua defesa aos autos, foram anexados novos elementos probatórios considerados relevantes para a elucidação dos fatos. Concluída a instrução processual, a Comissão de Ética decidiu pela existência de falta ética. Considerando as disposições do Decreto nº 6.029/2007, assinale a afirmativa correta.",
             "options": [
               "A juntada de novos elementos de prova após a manifestação inicial do investigado não enseja nova oportunidade de defesa, uma vez que o contraditório já foi assegurado quando da primeira notificação, devendo a Comissão decidir com base no conjunto probatório disponível.",
               "O investigado deve ser notificado para nova manifestação no prazo de dez dias quando forem juntados novos elementos de prova após sua defesa inicial, e a Comissão poderá encaminhar recomendação de abertura de procedimento administrativo se a gravidade da conduta assim o exigir.",
@@ -36853,7 +36853,7 @@ export const SUBJECTS: Subject[] = [
             "id": "4073208-581",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "Viviane é servidora pública do Estado da Paraíba, lotada em órgão que participa da regulamentação e fiscalização de empresas de transporte coletivo urbano. Recentemente, recebeu proposta para prestar consultoria técnica, de forma esporádica, a uma empresa privada que atua nesse mesmo setor, fiscalizada diretamente por seu órgão. Sabendo que o vínculo ainda não foi firmado e que Viviane justificou que atuaria em horários de folga, ela decidiu não comunicar a situação à sua chefia imediata. Com base no Código de &Eacute;tica e Conduta Profissional dos Servidores e Empregados Públicos Civis do Estado da Paraíba (Decreto Estadual n&ordm; 44.504/2023), é correto afirmar que:",
+            "question": "Viviane é servidora pública do Estado da Paraíba, lotada em órgão que participa da regulamentação e fiscalização de empresas de transporte coletivo urbano. Recentemente, recebeu proposta para prestar consultoria técnica, de forma esporádica, a uma empresa privada que atua nesse mesmo setor, fiscalizada diretamente por seu órgão. Sabendo que o vínculo ainda não foi firmado e que Viviane justificou que atuaria em horários de folga, ela decidiu não comunicar a situação à sua chefia imediata. Com base no Código de Ética e Conduta Profissional dos Servidores e Empregados Públicos Civis do Estado da Paraíba (Decreto Estadual nº 44.504/2023), é correto afirmar que:",
             "options": [
               "a conduta de Viviane não caracteriza conflito de interesses, pois não há relação contratual formalizada e a atividade seria exercida fora do expediente.",
               "Viviane incorreu em conduta antiética, pois deveria ter informado imediatamente ao órgão competente sobre a proposta, ainda que não houvesse aceitado a oferta.",
@@ -36867,7 +36867,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3437784-582",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "Devido à prática de ato imoral em serviço, Maria &#x2013; servidora pública de carreira lotada no INMETRO &#x2013; foi denunciada formalmente e, diante da análise preliminar das provas, a Comissão de &Eacute;tica do Inmetro (CEI) ofertou-lhe a celebração de um Acordo de Conduta Pessoal e Profissional (ACPP). Nesse caso, pode-se afirmar que:",
+            "question": "Devido à prática de ato imoral em serviço, Maria – servidora pública de carreira lotada no INMETRO – foi denunciada formalmente e, diante da análise preliminar das provas, a Comissão de Ética do Inmetro (CEI) ofertou-lhe a celebração de um Acordo de Conduta Pessoal e Profissional (ACPP). Nesse caso, pode-se afirmar que:",
             "options": [
               "Como Maria é servidora pública lotada no INMETRO, o ACPP é incabível no caso.",
               "Se o ACPP for cumprido, a servidora terá eventual pena disciplinar reduzida de um a dois terços.",
@@ -36881,7 +36881,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3438227-583",
             "chapter": "geral",
             "topic": "Geral",
-            "question": "Derivados da prática ética no ambiente profissional e nas interações no trabalho, os direitos do servidor do INMETRO &#x2013; segundo o Artigo 10&ordm; da Portaria N&ordm; 535/2012 &#x2013; incluem:",
+            "question": "Derivados da prática ética no ambiente profissional e nas interações no trabalho, os direitos do servidor do INMETRO – segundo o Artigo 10º da Portaria Nº 535/2012 – incluem:",
             "options": [
               "Ter assegurado o direito de peticionar à CEI, em defesa da manutenção de sigilo informação de ordem pessoal ou de interesse coletivo.",
               "Restringir o a informações transparentes quanto à igualdade de oportunidades nos sistemas de medição, avaliação e reconhecimento de desempenho.",
@@ -36906,7 +36906,7 @@ export const SUBJECTS: Subject[] = [
             "question": "O conflito de interesse pode ser caracterizado como situação em que há confronto de pretensões públicas e privadas que possa comprometer o interesse coletivo ou influenciar o desempenho da função pública. Dessa forma, assinale a alternativa que apresenta informação correta sobre o conflito de interesse na esfera pública.",
             "options": [
               "Configura conflito de interesse o exercício de atividade que implique a prestação de serviços ou a manutenção de relação de negócio com pessoa física ou jurídica que tenha interesse em decisão do agente público ou de colegiado do qual este participe.",
-              "Nas relações com outros entes públicos, na eventual existência de conflito de interesse, o servidor ou empregado público pode esclarecer ou não a circunst&acirc;ncia ou fato impeditivo da sua participação, devendo observar se há conhecimento de outros servidores.",
+              "Nas relações com outros entes públicos, na eventual existência de conflito de interesse, o servidor ou empregado público pode esclarecer ou não a circunstância ou fato impeditivo da sua participação, devendo observar se há conhecimento de outros servidores.",
               "A ação imparcial do servidor público no desempenho das suas atividades, sem julgamento prévio, configura-se como ação antiética e conflito de interesse.",
               "O servidor público que divulgar informações, para terceiros, que estão ao seu acesso em função do exercício de atividades do cargo que ocupa está praticando ação antiética e que conflita com o interesse público.",
               "A existência de conflito de interesse depende da existência de prova de lesão ao patrimônio público, do recebimento de qualquer vantagem ou ganho pelo servidor, empregado público ou terceiro."
@@ -36925,7 +36925,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3643849-545",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "O Decreto n&ordm; 31.198/2013, do Estado do Ceará, contempla normas relativas à ética profissional no serviço público, prevendo a criação de Comissões de &Eacute;tica e a aplicação de sanções éticas em casos de descumprimento dos preceitos estabelecidos no Código de &Eacute;tica. Nesse sentido, assinale a alternativa que apresenta corretamente uma das sanções éticas previstas.",
+            "question": "O Decreto nº 31.198/2013, do Estado do Ceará, contempla normas relativas à ética profissional no serviço público, prevendo a criação de Comissões de Ética e a aplicação de sanções éticas em casos de descumprimento dos preceitos estabelecidos no Código de Ética. Nesse sentido, assinale a alternativa que apresenta corretamente uma das sanções éticas previstas.",
             "options": [
               "Censura Ética.",
               "Suspensão por 30 dias, sem perda da remuneração.",
@@ -36939,7 +36939,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3696684-546",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Um servidor público do Poder Executivo do Estado do Rio de Janeiro, durante o expediente, recebeu um pedido de seu primo para acessar um processo administrativo sigiloso, alegando que precisava dessas informações para um trabalho acadêmico. Ciente de que o seu primo não tem qualquer vínculo com o processo, fica em dúvida sobre a conduta adequada a adotar. Nos termos do Código de &Eacute;tica do Servidor Público Civil do Poder Executivo do Estado do Rio de Janeiro (Decreto n&ordm; 43.583/2012), o servidor deve:",
+            "question": "Um servidor público do Poder Executivo do Estado do Rio de Janeiro, durante o expediente, recebeu um pedido de seu primo para acessar um processo administrativo sigiloso, alegando que precisava dessas informações para um trabalho acadêmico. Ciente de que o seu primo não tem qualquer vínculo com o processo, fica em dúvida sobre a conduta adequada a adotar. Nos termos do Código de Ética do Servidor Público Civil do Poder Executivo do Estado do Rio de Janeiro (Decreto nº 43.583/2012), o servidor deve:",
             "options": [
               "atender ao pedido de seu primo, pois a informação não será utilizada para fins comerciais.",
               "liberar o acesso somente se o primo assinar um termo de confidencialidade.",
@@ -36953,7 +36953,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2987207-547",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "O Código de &Eacute;tica e Conduta da Administração Pública Estadual (Decreto 31.198/13) demonstra forte preocupação com a conduta de investir em bens cujo valor ou cotação possa ser afetado por decisão ou política governamental a respeito da qual a autoridade pública tenha informações privilegiadas, em razão do cargo ou função. No caso, está-se diante de",
+            "question": "O Código de Ética e Conduta da Administração Pública Estadual (Decreto 31.198/13) demonstra forte preocupação com a conduta de investir em bens cujo valor ou cotação possa ser afetado por decisão ou política governamental a respeito da qual a autoridade pública tenha informações privilegiadas, em razão do cargo ou função. No caso, está-se diante de",
             "options": [
               "conflito de interesse, e não de conduta antiética ou aética.",
               "conduta antiética, e não de conflito de interesse.",
@@ -36967,7 +36967,7 @@ export const SUBJECTS: Subject[] = [
             "id": "2987209-548",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "O Decreto 31.198/13 instituiu o Código de &Eacute;tica e Conduta da Administração Pública Estadual, cujas normas são aplicadas aos agentes públicos civis e, por exemplo, às seguintes autoridades:",
+            "question": "O Decreto 31.198/13 instituiu o Código de Ética e Conduta da Administração Pública Estadual, cujas normas são aplicadas aos agentes públicos civis e, por exemplo, às seguintes autoridades:",
             "options": [
               "Dirigentes de Autarquias, inclusive as especiais, e de Fundações mantidas ou não pelo Poder Público.",
               "Dirigentes de Fundações mantidas pelo Poder Público e de Autarquias, excluídas as especiais.",
@@ -36981,7 +36981,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3270353-549",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Vaticina o Decreto Estadual n&ordm; 44.504 de 05/12/2023 (Institui o Código de &Eacute;tica e Conduta Profissional dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba) que estimular a observ&acirc;ncia e o aperfeiçoamento de regras de comportamento ético entre os servidores e empregados públicos civis estaduais, na sua relação com a sociedade e com o próprio grupo; bem como garantir a necessária integridade, lisura, legitimidade e transparência à Administração Pública; dentre outros, são comandos que integram, corretamente:",
+            "question": "Vaticina o Decreto Estadual nº 44.504 de 05/12/2023 (Institui o Código de Ética e Conduta Profissional dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba) que estimular a observância e o aperfeiçoamento de regras de comportamento ético entre os servidores e empregados públicos civis estaduais, na sua relação com a sociedade e com o próprio grupo; bem como garantir a necessária integridade, lisura, legitimidade e transparência à Administração Pública; dentre outros, são comandos que integram, corretamente:",
             "options": [
               "Os fundamentos do Código de Ética e Conduta Profissional dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba.",
               "A finalidade do Código de Ética e Conduta Profissional dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba.",
@@ -36995,7 +36995,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3270359-550",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "A ética no serviço público é um conjunto de valores e princípios que devem nortear a conduta dos servidores públicos, de modo a garantir que as suas ações estejam alinhadas com os interesses da sociedade. Assim, tomando por base o prescrito e regulado pelo Código de ética e conduta dos servidores e empregados públicos civis do poder executivo do estado Paraíba - Decreto Estadual n&ordm; 44.504 de 05 de dezembro de 2023, sabemos que considera-se conflito de interesse a situação gerada pelo confronto de pretensões públicas e privadas que possa comprometer o interesse coletivo ou influenciar o desempenho da função pública, dentre outros comportamentos, pelo que podemos tomar como exemplos os corretamente apresentados apenas em:",
+            "question": "A ética no serviço público é um conjunto de valores e princípios que devem nortear a conduta dos servidores públicos, de modo a garantir que as suas ações estejam alinhadas com os interesses da sociedade. Assim, tomando por base o prescrito e regulado pelo Código de ética e conduta dos servidores e empregados públicos civis do poder executivo do estado Paraíba - Decreto Estadual nº 44.504 de 05 de dezembro de 2023, sabemos que considera-se conflito de interesse a situação gerada pelo confronto de pretensões públicas e privadas que possa comprometer o interesse coletivo ou influenciar o desempenho da função pública, dentre outros comportamentos, pelo que podemos tomar como exemplos os corretamente apresentados apenas em:",
             "options": [
               "Receber presente de quem tenha interesse em decisão do agente público ou de colegiado do qual este participe fora dos limites e condições estabelecidos em regulamento; Conceder recompensa, vantagem ou benefício, divulgação habitual ou por ocasião de eventos especiais e datas comemorativas, direcionados com caráter de pessoalidade a determinados servidores públicos; dentre outros.",
               "Exercer atividade que implique a prestação de serviços ou a manutenção de relação de negócio com pessoa física ou jurídica que tenha interesse em decisão do agente público ou de colegiado do qual este participe; Impedir a interlocução entre usuário de serviços públicos e os órgãos e entidades da administração pública; dentre outros.",
@@ -37009,9 +37009,9 @@ export const SUBJECTS: Subject[] = [
             "id": "3270854-551",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Os gestores públicos estaduais desempenham papel essencial na prevenção e enfrentamento de condutas que violem o Código de &Eacute;tica e Conduta Profissional dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba. Dentre as obrigações impostas a esses gestores, de acordo com o referido código, é correto afirmar que",
+            "question": "Os gestores públicos estaduais desempenham papel essencial na prevenção e enfrentamento de condutas que violem o Código de Ética e Conduta Profissional dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba. Dentre as obrigações impostas a esses gestores, de acordo com o referido código, é correto afirmar que",
             "options": [
-              "devem adotar medidas preventivas e corretivas exclusivamente no &acirc;mbito das auditorias realizadas por órgãos externos.",
+              "devem adotar medidas preventivas e corretivas exclusivamente no âmbito das auditorias realizadas por órgãos externos.",
               "cabe aos gestores avaliar e monitorar exclusivamente o desempenho dos servidores, sendo o comportamento considerado apenas em situações de apuração de irregularidades.",
               "os gestores devem executar medidas preventivas dentro dos limites de suas atribuições funcionais, além de promover mecanismos internos de integridade, auditoria e incentivo à denúncia de irregularidades.",
               "os gestores não poderão apurar irregularidades detectadas e as desconformidades com o Código de Ética de ofício, apenas quando houver denúncias dessas atividades.",
@@ -37023,12 +37023,12 @@ export const SUBJECTS: Subject[] = [
             "id": "3272209-552",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "&Agrave; luz do Decreto Estadual N&ordm; 44.504 , de 05 de dezembro de 2023 (Código de &Eacute;tica e Conduta Profissional dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba), temos que o processo de apuração de prática de ato em desrespeito ao preceituado e regulamentado deverá respeitar o contraditório e ampla defesa pela Comissão de &Eacute;tica. Sobre tal demanda, marque a alternativa correta.",
+            "question": "À luz do Decreto Estadual Nº 44.504 , de 05 de dezembro de 2023 (Código de Ética e Conduta Profissional dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba), temos que o processo de apuração de prática de ato em desrespeito ao preceituado e regulamentado deverá respeitar o contraditório e ampla defesa pela Comissão de Ética. Sobre tal demanda, marque a alternativa correta.",
             "options": [
               "As condutas que configurem violação a este Código, após apuradas, podem resultar em censura ética, recomendação sobre a conduta adequada, advertência ou demissão.",
               "As Comissões de Ética devem encaminhar relatório ao chefe imediato do funcionário sancionado, relatando o grau de censurabilidade da conduta.",
-              "A aplicação das sanções previstas nesse Código não implica prejuízo das penalidades previstas na Lei Complementar n&ordm; 58, de 30 de dezembro de 2008, que dispõe sobre o Regime Jurídico dos Servidores Públicos Civis do Estado da Paraíba, bem como no regime jurídico específico aplicável ao cargo, função ou emprego público, nem das responsabilidades penais e civis estabelecidas em lei.",
-              "Os processos decorrentes de violação ao Código classificam-se como sigilosos, pautando-se pelas determinações gerais da Lei Complementar n&ordm; 58/2003, que dispõe sobre o Regime Jurídicos dos Servidores Públicos Civis do Estado da Paraíba.",
+              "A aplicação das sanções previstas nesse Código não implica prejuízo das penalidades previstas na Lei Complementar nº 58, de 30 de dezembro de 2008, que dispõe sobre o Regime Jurídico dos Servidores Públicos Civis do Estado da Paraíba, bem como no regime jurídico específico aplicável ao cargo, função ou emprego público, nem das responsabilidades penais e civis estabelecidas em lei.",
+              "Os processos decorrentes de violação ao Código classificam-se como sigilosos, pautando-se pelas determinações gerais da Lei Complementar nº 58/2003, que dispõe sobre o Regime Jurídicos dos Servidores Públicos Civis do Estado da Paraíba.",
               "As Comissões de Ética, sempre que constatarem a possível ocorrência de ilícitos penais, civis ou administrativos, encaminharão cópia dos autos às autoridades competentes para apuração dos fatos, em substituições às medidas de sua competência."
             ],
             "correctIndex": 2
@@ -37037,9 +37037,9 @@ export const SUBJECTS: Subject[] = [
             "id": "3272214-553",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Tomando por base o inculcado no Decreto Estadual N&ordm; 44.504 , de 05 de dezembro de 2023 (Código de &Eacute;tica e Conduta Profissional dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba), são condutas a serem observadas pelo servidor e empregado público civil do Poder Executivo do Estado da Paraíba, apenas as corretamente enumeradas em:",
+            "question": "Tomando por base o inculcado no Decreto Estadual Nº 44.504 , de 05 de dezembro de 2023 (Código de Ética e Conduta Profissional dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba), são condutas a serem observadas pelo servidor e empregado público civil do Poder Executivo do Estado da Paraíba, apenas as corretamente enumeradas em:",
             "options": [
-              "Elaborar documentos, formular diretrizes e/ou elaborar planos de trabalho na área de comunicação; assessorar o processo de tomada de decisão no &acirc;mbito estratégico da PB Saúde; dentre outras.",
+              "Elaborar documentos, formular diretrizes e/ou elaborar planos de trabalho na área de comunicação; assessorar o processo de tomada de decisão no âmbito estratégico da PB Saúde; dentre outras.",
               "Promover a representação da PB Saúde junto aos órgãos de imprensa, quando solicitado; acompanhar leis, decretos e outros atos que possam interferir no ciclo de vida da PB Saúde e propor medidas adequadas, sempre que necessário; dentre outras.",
               "Providenciar a cobertura jornalística de atividades e atos da Direção Superior da PB Saúde; assessorar na construção de diretrizes que permitam um efetivo processo de planejamento e desenvolvimento institucional; dentre outras.",
               "Viabilizar a publicidade dos atos administrativos por meio de ações transparentes e com uso de linguagem de fácil compreensão; Zelar pela fidedignidade e integridade dos dados, registros, atos administrativos e de sistemas de informação sob sua responsabilidade; dentre outros.",
@@ -37051,13 +37051,13 @@ export const SUBJECTS: Subject[] = [
             "id": "3274023-554",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Durante a elaboração de ações estratégicas para a Administração Pública, um servidor público estadual da Paraíba é questionado sobre as finalidades do Código de &Eacute;tica e Conduta Profissional instituído pelo Decreto n&ordm; 44.504/2023. Nesse contexto, ele identifica corretamente que o Código busca",
+            "question": "Durante a elaboração de ações estratégicas para a Administração Pública, um servidor público estadual da Paraíba é questionado sobre as finalidades do Código de Ética e Conduta Profissional instituído pelo Decreto nº 44.504/2023. Nesse contexto, ele identifica corretamente que o Código busca",
             "options": [
               "garantir o sigilo absoluto de todas as informações administrativas, sem exceções.",
               "autorizar a flexibilização das regras éticas em casos do interesse privado prevalecer sobre o público.",
               "promover exclusivamente a proteção da imagem da Administração Pública, desconsiderando o interesse público.",
               "limitar a aplicação do Código de Ética aos servidores que ocupam cargos de chefia.",
-              "estimulara observ&acirc;ncia e o aperfeiçoamento de regras de conduta ética entre os servidores e empregados públicos civis estaduais."
+              "estimulara observância e o aperfeiçoamento de regras de conduta ética entre os servidores e empregados públicos civis estaduais."
             ],
             "correctIndex": 4
           },
@@ -37065,7 +37065,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3274025-555",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Alex, servidor público estadual, utilizou informações confidenciais obtidas no exercício de seu cargo para fins de vantagem pessoal e revelou dados sigilosos a terceiros, sem autorização. Diante dessa situação, de acordo com o Código de &Eacute;tica e Conduta Profissional dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba, marque o item correto.",
+            "question": "Alex, servidor público estadual, utilizou informações confidenciais obtidas no exercício de seu cargo para fins de vantagem pessoal e revelou dados sigilosos a terceiros, sem autorização. Diante dessa situação, de acordo com o Código de Ética e Conduta Profissional dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba, marque o item correto.",
             "options": [
               "Alex apenas violou o dever de sigilo previsto no Código de Ética, uma vez que utilizar informações para fins pessoais não constitui conduta vedada.",
               "O Código de Ética veda tanto a utilização de informações para vantagem pessoal quanto a revelação de dados sigilosos obtidos em razão do cargo, salvo exceções previstas em lei.",
@@ -37079,7 +37079,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3274028-556",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "O Código de &Eacute;tica e Conduta Profissional dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba prevê procedimentos formais para a apuração de irregularidades, com o objetivo de assegurar que os servidores públicos atuem de acordo com os padrões éticos e profissionais. Com base nisso, assinale a alternativa correta.",
+            "question": "O Código de Ética e Conduta Profissional dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba prevê procedimentos formais para a apuração de irregularidades, com o objetivo de assegurar que os servidores públicos atuem de acordo com os padrões éticos e profissionais. Com base nisso, assinale a alternativa correta.",
             "options": [
               "As denúncias recebidas devem ser encaminhadas diretamente à Comissão de Ética, sem necessidade de apreciação preliminar por outra autoridade.",
               "As irregularidades apuradas podem resultar em penalidades como censura ética, recomendação de conduta adequada ou advertência.",
@@ -37093,11 +37093,11 @@ export const SUBJECTS: Subject[] = [
             "id": "3274461-557",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "O Código de &Eacute;tica e Conduta Profissional dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba (vigente por meio do Decreto Estadual n&ordm; 44.504 de 05 de dezembro de 2023), sem prejuízo da aplicação de outras normas constitucionais e legais, tem por finalidade apenas o corretamente colacionado em:",
+            "question": "O Código de Ética e Conduta Profissional dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba (vigente por meio do Decreto Estadual nº 44.504 de 05 de dezembro de 2023), sem prejuízo da aplicação de outras normas constitucionais e legais, tem por finalidade apenas o corretamente colacionado em:",
             "options": [
               "Garantir a necessária integridade, lisura, legitimidade e transparência à Administração Pública; Apoiar em documentos e evidências que permitam convicção da realidade ou da veracidade dos fatos ou das situações examinadas, agindo com objetividade e imparcialidade; dentre outras.",
-              "Tornar claros e acessíveis os princípios, valores e regras éticas de conduta a serem observadas e praticadas pelos servidores e públicos civis estaduais; Estimular a observ&acirc;ncia e o aperfeiçoamento de regras de comportamento ético entre os servidores e empregados públicos civis estaduais, na sua relação com a sociedade e com o próprio grupo; dentre outras.",
-              "Estimular a observ&acirc;ncia e o aperfeiçoamento de regras de comportamento ético entre os servidores e empregados públicos civis estaduais, na sua relação com a sociedade e com o próprio grupo; Denunciar a autoridade superior quando evidenciado irregularidades praticadas contra a Administração de que tiver ciência ou, nos casos em que houver suspeita de envolvimento desta, ao conhecimento de outra autoridade competente para apuração; dentre outras.",
+              "Tornar claros e acessíveis os princípios, valores e regras éticas de conduta a serem observadas e praticadas pelos servidores e públicos civis estaduais; Estimular a observância e o aperfeiçoamento de regras de comportamento ético entre os servidores e empregados públicos civis estaduais, na sua relação com a sociedade e com o próprio grupo; dentre outras.",
+              "Estimular a observância e o aperfeiçoamento de regras de comportamento ético entre os servidores e empregados públicos civis estaduais, na sua relação com a sociedade e com o próprio grupo; Denunciar a autoridade superior quando evidenciado irregularidades praticadas contra a Administração de que tiver ciência ou, nos casos em que houver suspeita de envolvimento desta, ao conhecimento de outra autoridade competente para apuração; dentre outras.",
               "Assegurar aos servidores e empregados públicos civis estaduais a manutenção da sua imagem e reputação, quando as suas ações se pautarem pelas normas estabelecidas no Código; Manifestar e registrar, obrigatoriamente, de forma explícita e transparente, aspectos que possam conduzir a conflito de interesses; dentre outras.",
               "Estabelecer, no campo ético, regras específicas, reduzindo a possibilidade de conflitos entre o interesse privado e o dever funcional dos servidores e empregados públicos civis estaduais; Resistir a eventuais pressões de superiores hierárquicos ou de qualquer pessoa que vise a obter favores, benesses ou vantagens indevidas; dentre outras."
             ],
@@ -37107,7 +37107,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3275395-558",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Nas lições do Código de &Eacute;tica e Conduta Profissional dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba, firmado pelo Decreto Estadual n&ordm; 44.504 de 05 de dezembro de 2023, a integridade, o profissionalismo, a transparência, a legalidade, a civilidade, a imparcialidade e o foco no cidadão integram, corretamente",
+            "question": "Nas lições do Código de Ética e Conduta Profissional dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba, firmado pelo Decreto Estadual nº 44.504 de 05 de dezembro de 2023, a integridade, o profissionalismo, a transparência, a legalidade, a civilidade, a imparcialidade e o foco no cidadão integram, corretamente",
             "options": [
               "os deveres a serem observados pelo servidor e empregado público civil do Poder Executivo do Estado da Paraíba.",
               "as condutas éticas a serem observadas pelo servidor e empregado público civil do Poder Executivo do Estado da Paraíba.",
@@ -37121,13 +37121,13 @@ export const SUBJECTS: Subject[] = [
             "id": "3275407-559",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Reguladas pelo Código de ética e conduta dos servidores e empregados públicos civis do poder executivo do Estado da Paraíba - Decreto Estadual n&ordm; 44.504 de 05 de dezembro de 2023, as atitudes do servidor e empregado público civil do Poder Público do Estado da Paraíba devem ser direcionadas para a busca da eficácia e para a preservação da imagem da Administração Pública Estadual, sem perder de vista que o interesse público se situa acima do interesse individual ou particular. Assim, os gestores devem executar medidas preventivas de enfrentamento às condutas que possam configurar violação ao Código, de acordo com os limites de sua atribuição funcional e segundo as diretrizes institucionais, conforme o que corretamente se apresenta apenas em:",
+            "question": "Reguladas pelo Código de ética e conduta dos servidores e empregados públicos civis do poder executivo do Estado da Paraíba - Decreto Estadual nº 44.504 de 05 de dezembro de 2023, as atitudes do servidor e empregado público civil do Poder Público do Estado da Paraíba devem ser direcionadas para a busca da eficácia e para a preservação da imagem da Administração Pública Estadual, sem perder de vista que o interesse público se situa acima do interesse individual ou particular. Assim, os gestores devem executar medidas preventivas de enfrentamento às condutas que possam configurar violação ao Código, de acordo com os limites de sua atribuição funcional e segundo as diretrizes institucionais, conforme o que corretamente se apresenta apenas em:",
             "options": [
-              "Os processos decorrentes de violação ao presente Código classificam-se como sigilosos, pautando-se pelas determinações gerais da Lei Complementar n&ordm; 58/2003, que dispõe sobre o Regime Jurídico dos Servidores Públicos Civis do Estado da Paraíba.",
+              "Os processos decorrentes de violação ao presente Código classificam-se como sigilosos, pautando-se pelas determinações gerais da Lei Complementar nº 58/2003, que dispõe sobre o Regime Jurídico dos Servidores Públicos Civis do Estado da Paraíba.",
               "Os gestores devem promover mecanismos e procedimentos internos e externos de integridade, de auditoria e de incentivo à denúncia de irregularidades para a aplicação efetiva do Código.",
               "O processo de apuração de prática de ato em desrespeito ao preceituado no Código não precisará observar o contraditório e ampla defesa, por se tratar de dispositivo meramente administrativo, mesmo quando conduzido pela Comissão de Ética.",
               "É recomendável a realização da análise de antecedentes pessoais e profissionais no momento de investidura nos cargos, logo após o término de período probatório e na ocasião em que assumem cargos de direção.",
-              "A aplicação das sanções previstas neste artigo não implica prejuízo das penalidades previstas na Lei Complementar n&ordm; 58, de 30 de dezembro de 2008, que dispõe sobre o Regime Jurídico dos Servidores Públicos Civis do Estado da Paraíba, bem como no regime jurídico específico aplicável ao cargo, função ou emprego público, nem das responsabilidades penais e civis estabelecidas em lei."
+              "A aplicação das sanções previstas neste artigo não implica prejuízo das penalidades previstas na Lei Complementar nº 58, de 30 de dezembro de 2008, que dispõe sobre o Regime Jurídico dos Servidores Públicos Civis do Estado da Paraíba, bem como no regime jurídico específico aplicável ao cargo, função ou emprego público, nem das responsabilidades penais e civis estabelecidas em lei."
             ],
             "correctIndex": 4
           },
@@ -37135,7 +37135,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3437795-560",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Acerca do Código de Conduta &Eacute;tica Profissional dos Servidores do INMETRO, disposto pela Portaria N&ordm; 535/2012, pode-se afirmar que:",
+            "question": "Acerca do Código de Conduta Ética Profissional dos Servidores do INMETRO, disposto pela Portaria Nº 535/2012, pode-se afirmar que:",
             "options": [
               "A apuração de infração ética se iniciará judicialmente mediante instauração formal do procedimento pertinente.",
               "É expressamente proibido ao servidor do INMETRO qualquer atividade profissional ou artística fora das suas atribuições.",
@@ -37149,7 +37149,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3437798-561",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "A Comissão de &Eacute;tica do Inmetro (CEI) é integrada por três membros titulares e seus respectivos suplentes, os quais são escolhidos entre os servidores ocupantes de cargo efetivo ou emprego do quadro permanente do INMETRO, designados em portaria pelo Presidente do referido instituto, para mandatos",
+            "question": "A Comissão de Ética do Inmetro (CEI) é integrada por três membros titulares e seus respectivos suplentes, os quais são escolhidos entre os servidores ocupantes de cargo efetivo ou emprego do quadro permanente do INMETRO, designados em portaria pelo Presidente do referido instituto, para mandatos",
             "options": [
               "de até três anos, vedada a recondução.",
               "de até dois anos, permitida uma única recondução.",
@@ -37163,7 +37163,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3438222-562",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "O Código de Conduta &Eacute;tica Profissional dos Servidores do Instituto Nacional de Metrologia, Qualidade e Tecnologia (INMETRO) &#x2013; dado pela Portaria N&ordm; 535/2012 &#x2013; permite, expressamente, que o servidor do INMETRO",
+            "question": "O Código de Conduta Ética Profissional dos Servidores do Instituto Nacional de Metrologia, Qualidade e Tecnologia (INMETRO) – dado pela Portaria Nº 535/2012 – permite, expressamente, que o servidor do INMETRO",
             "options": [
               "promova manifestação de apreço no recinto da repartição.",
               "exerça atividade profissional aética ou que seja compatível com o cargo.",
@@ -37177,7 +37177,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3438223-563",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "De acordo com as determinações da Portaria N&ordm; 535/2012, nos casos de desvio ético, infração disciplinar, ato de improbidade, crime de responsabilidade ou infração de natureza diversa, caso haja dúvida quanto ao enquadramento da conduta do servidor, a Comissão de &Eacute;tica do INMETRO (CEI) poderá solicitar parecer junto ao(à)",
+            "question": "De acordo com as determinações da Portaria Nº 535/2012, nos casos de desvio ético, infração disciplinar, ato de improbidade, crime de responsabilidade ou infração de natureza diversa, caso haja dúvida quanto ao enquadramento da conduta do servidor, a Comissão de Ética do INMETRO (CEI) poderá solicitar parecer junto ao(à)",
             "options": [
               "Presidente do INMETRO.",
               "Unidade jurídica do INMETRO, em caráter excepcional.",
@@ -37191,7 +37191,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3438225-564",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "De acordo com a Portaria N&ordm; 535/2012 &#x2013; a qual estabelece o Código de Conduta &Eacute;tica Profissional dos Servidores do Instituto Nacional de Metrologia, Qualidade e Tecnologia (INMETRO) &#x2013;, a conduta ética profissional compreende:",
+            "question": "De acordo com a Portaria Nº 535/2012 – a qual estabelece o Código de Conduta Ética Profissional dos Servidores do Instituto Nacional de Metrologia, Qualidade e Tecnologia (INMETRO) –, a conduta ética profissional compreende:",
             "options": [
               "O comportamento e as atitudes dos servidores e agentes públicos do INMETRO na preservação da honra e da tradição dos serviços públicos.",
               "As orientações, recomendações e aplicação de penalidades aos usuários do INMETRO, no trato com os servidores e com o patrimônio público.",
@@ -37205,9 +37205,9 @@ export const SUBJECTS: Subject[] = [
             "id": "3438226-565",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Em conformidade com a Portaria 535/2012, o Código de Conduta &Eacute;tica Profissional dos Servidores do INMETRO tem por objetivo o(a)",
+            "question": "Em conformidade com a Portaria 535/2012, o Código de Conduta Ética Profissional dos Servidores do INMETRO tem por objetivo o(a)",
             "options": [
-              "promoção da conscientização da sociedade para a import&acirc;ncia dos princípios éticos de modo a prevenir o cometimento de transgressões.",
+              "promoção da conscientização da sociedade para a importância dos princípios éticos de modo a prevenir o cometimento de transgressões.",
               "estímulo e a conscientização dos servidores acerca da necessidade de manutenção de um elevado padrão ético no cumprimento da função pública.",
               "definição e punição no que tange às condutas entre os servidores, imprimindo austeridade e seriedade na transparência das atividades desenvolvidas pelo órgão.",
               "promoção de uma cultura hierárquica severa na busca de propiciar um melhor relacionamento com a classe de servidores quanto no que diz respeito ao patrimônio público.",
@@ -37219,7 +37219,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3438229-566",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Considerando-se as disposições previstas no Código de &Eacute;tica do INMETRO &#x2013; dado pela Portaria N&deg; 535/2012 &#x2013;, dentre os deveres fundamentais dos servidores de tal instituto em relação ao desempenho de suas atribuições e ao tratamento aos colegas de trabalho e usuários dos serviços, consta:",
+            "question": "Considerando-se as disposições previstas no Código de Ética do INMETRO – dado pela Portaria N° 535/2012 –, dentre os deveres fundamentais dos servidores de tal instituto em relação ao desempenho de suas atribuições e ao tratamento aos colegas de trabalho e usuários dos serviços, consta:",
             "options": [
               "É dever do servidor resistir às pressões de superiores hierárquicos e denunciá-las, podendo ceder a pedidos de contratados ou interessados, caso isso não fira os princípios éticos.",
               "O servidor deve ser probo, reto, leal e justo, escolhendo sempre a melhor opção para o bem comum, conquanto isso signifique agir de forma prejudicial aos interesses individuais.",
@@ -37233,7 +37233,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3438230-567",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Em relação à conduta profissional e ao ambiente de trabalho, o Código de &Eacute;tica do INMETRO &#x2013; dado pela Portaria N&deg; 535/2012 &#x2013; estabelece como dever do servidor o(a)",
+            "question": "Em relação à conduta profissional e ao ambiente de trabalho, o Código de Ética do INMETRO – dado pela Portaria N° 535/2012 – estabelece como dever do servidor o(a)",
             "options": [
               "uso de vestimentas adequadas ao ambiente de trabalho e o cuidado em manter limpo e organizado o local de trabalho, contudo não é obrigado a participar de movimentos ou estudos relacionados à melhoria de suas funções.",
               "atualização em relação às normas do INMETRO e outras prescrições pertinentes, devendo agir com estrita moderação em relação às prerrogativas funcionais, consoante isso contrarie os interesses dos usuários do serviço público.",
@@ -37247,12 +37247,12 @@ export const SUBJECTS: Subject[] = [
             "id": "3438232-568",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Em meio à execução de suas funções, Jonas &#x2013; servidor do INMETRO &#x2013; se depara com uma situação na qual uma empresa privada busca favorecimento na avaliação de seus produtos em detrimento de concorrentes, oferecendo uma quantia em dinheiro como incentivo para agilizar o processo. Diante de tal cenário, para agir de acordo com os preceitos do Código de &Eacute;tica do INMETRO, Jonas deve",
+            "question": "Em meio à execução de suas funções, Jonas – servidor do INMETRO – se depara com uma situação na qual uma empresa privada busca favorecimento na avaliação de seus produtos em detrimento de concorrentes, oferecendo uma quantia em dinheiro como incentivo para agilizar o processo. Diante de tal cenário, para agir de acordo com os preceitos do Código de Ética do INMETRO, Jonas deve",
             "options": [
               "recusar a oferta financeira, ressaltando que tal atitude configura um desrespeito aos princípios éticos da instituição.",
               "aceitar o dinheiro oferecido, argumentando que isso poderá beneficiar a empresa e gerar um ambiente mais favorável para futuras colaborações.",
               "sugerir à empresa que direcione a quantia para um projeto de pesquisa e desenvolvimento na área em que atua, visando promover avanços tecnológicos e científicos.",
-              "postergar a análise dos produtos da empresa que ofereceu o suborno, priorizando as solicitações de outras empresas que seguem os tr&acirc;mites regulares.",
+              "postergar a análise dos produtos da empresa que ofereceu o suborno, priorizando as solicitações de outras empresas que seguem os trâmites regulares.",
               "aceitar a quantia oferecida, porém, sem tomar decisões precipitadas, consultando os órgãos competentes e a equipe técnica para garantir a imparcialidade e a qualidade na avaliação dos produtos."
             ],
             "correctIndex": 0
@@ -37261,11 +37261,11 @@ export const SUBJECTS: Subject[] = [
             "id": "3438233-569",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Ananias, servidor público, é designado como membro titular da Comissão de &Eacute;tica do INMETRO (CEI) e exerce suas funções com dedicação e responsabilidade. Durante seu mandato, ele é confrontado com um caso delicado envolvendo uma servidora, Glória, que é acusada de utilizar seu cargo para obter vantagens pessoais em contratos firmados pelo INMETRO. Após uma investigação interna, a CEI constata que Glória infringiu gravemente os códigos de ética e conduta do Instituto. Perante tal situação, de acordo com os regulamentos estabelecidos no Código de Conduta &Eacute;tica Profissional dos Servidores do INMETRO, a ação que Ananias, como membro da CEI, deve",
+            "question": "Ananias, servidor público, é designado como membro titular da Comissão de Ética do INMETRO (CEI) e exerce suas funções com dedicação e responsabilidade. Durante seu mandato, ele é confrontado com um caso delicado envolvendo uma servidora, Glória, que é acusada de utilizar seu cargo para obter vantagens pessoais em contratos firmados pelo INMETRO. Após uma investigação interna, a CEI constata que Glória infringiu gravemente os códigos de ética e conduta do Instituto. Perante tal situação, de acordo com os regulamentos estabelecidos no Código de Conduta Ética Profissional dos Servidores do INMETRO, a ação que Ananias, como membro da CEI, deve",
             "options": [
               "apresentar um parecer favorável a Glória, alegando falta de provas contundentes e recomendando o encerramento das investigações.",
               "confrontar Glória diretamente e exigir sua renúncia voluntária do cargo, evitando assim a exposição do caso aos demais membros da CEI.",
-              "elaborar um relatório detalhado sobre o caso de Glória e encaminhá-lo à autoridade competente para que seja instaurado um processo administrativo disciplinar conforme os tr&acirc;mites legais.",
+              "elaborar um relatório detalhado sobre o caso de Glória e encaminhá-lo à autoridade competente para que seja instaurado um processo administrativo disciplinar conforme os trâmites legais.",
               "solicitar o afastamento imediato de Glória de suas funções no INMETRO, independente de instauração de processo administrativo disciplinar, dada a gravidade das acusações.",
               "buscar uma solução alternativa, como uma suspensão temporária de Glória, até que novas evidências possam ser reunidas para sustentar as acusações."
             ],
@@ -37275,7 +37275,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3438235-570",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "A Comissão de &Eacute;tica do INMETRO (CEI) desempenha papel essencial na promoção da ética e disciplina entre os servidores públicos do Instituto. Considerando-se o exposto, quanto à conduta da CEI, é correto afirmar que:",
+            "question": "A Comissão de Ética do INMETRO (CEI) desempenha papel essencial na promoção da ética e disciplina entre os servidores públicos do Instituto. Considerando-se o exposto, quanto à conduta da CEI, é correto afirmar que:",
             "options": [
               "É permitida até uma recondução ao cargo de membro da CEI ao servidor público que for designado para cumprir o mandato complementar, caso o mandato tenha se iniciado após a metade do período estabelecido no mandato originário.",
               "A CEI não poderá escusar-se de proferir decisão sobre matéria de sua competência alegando omissão do Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal e do Código de Conduta da Alta Administração Federal.",
@@ -37289,13 +37289,13 @@ export const SUBJECTS: Subject[] = [
             "id": "3438237-571",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Considerando-se as disposições da Portaria N&ordm; 535/2012, dentre as atribuições da Comissão de &Eacute;tica do INMETRO, pode-se destacar que:",
+            "question": "Considerando-se as disposições da Portaria Nº 535/2012, dentre as atribuições da Comissão de Ética do INMETRO, pode-se destacar que:",
             "options": [
               "Ordenar abertura de processo criminal, se a gravidade da conduta assim o exigir, com o encaminhamento do caso para a Controladoria-Geral da União para o exame das transgressões disciplinares.",
-              "Concluída a instrução processual, a CEI proferirá decisão conclusiva e fundamentada que, se for pela inexistência de falta ética, deverá encaminhá-la ao Presidente do INMETRO &#x2013; a fim de que ele determine a apuração da falsa imputação de falta grave ao servidor.",
+              "Concluída a instrução processual, a CEI proferirá decisão conclusiva e fundamentada que, se for pela inexistência de falta ética, deverá encaminhá-la ao Presidente do INMETRO – a fim de que ele determine a apuração da falsa imputação de falta grave ao servidor.",
               "As decisões finais da CEI sobre investigação de conduta ética que resultar em sanção ou em Acordo de Conduta Pessoal e Profissional serão resumidas em ementa, com o nome e o número de matrícula dos envolvidos para divulgação no Diário Oficial, no sítio do próprio órgão.",
               "Após a conclusão da instrução processual, caso a decisão conclusiva e fundamentada da CEI seja pela existência de falta ética, cabe-lhe determinar a exoneração do cargo ou função de confiança conforme o caso e, na sequência, comunicar o caso à autoridade hierarquicamente superior.",
-              "A decisão final &#x2013; contendo nome e identificação do agente público &#x2013; deverá ser remetida à Comissão de Ética Pública para formação de banco de dados de sanções, para fins de consulta pelos órgãos ou entidades da administração pública federal, em casos de nomeação para cargo em comissão ou de alta relev&acirc;ncia pública."
+              "A decisão final – contendo nome e identificação do agente público – deverá ser remetida à Comissão de Ética Pública para formação de banco de dados de sanções, para fins de consulta pelos órgãos ou entidades da administração pública federal, em casos de nomeação para cargo em comissão ou de alta relevância pública."
             ],
             "correctIndex": 4
           },
@@ -37303,12 +37303,12 @@ export const SUBJECTS: Subject[] = [
             "id": "3438240-572",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Segundo o Código de Conduta &Eacute;tica Profissional dos Servidores do INMETRO, qualquer cidadão, agente público, pessoa jurídica de direito privado, associação ou entidade de classe poderá provocar a atuação da CEI, a fim de apurar transgressão ética imputada ao agente público ou ocorrida em setores competentes do órgão. Quanto a tal apuração, pode-se assegurar que:",
+            "question": "Segundo o Código de Conduta Ética Profissional dos Servidores do INMETRO, qualquer cidadão, agente público, pessoa jurídica de direito privado, associação ou entidade de classe poderá provocar a atuação da CEI, a fim de apurar transgressão ética imputada ao agente público ou ocorrida em setores competentes do órgão. Quanto a tal apuração, pode-se assegurar que:",
             "options": [
               "Na hipótese de o autor da representação ou denúncia não se identificar, a CEI não poderá acolhê-la como notícia para fins de verificação, devendo arquivar a denúncia após registrar nos assentamentos funcionais do servidor denunciado.",
               "A instauração, de ofício, de processo de investigação, deve ser fundamentada pela chefia imediata do servidor ao qual for imputada e apoiada em notícia pública do fato ou em indícios capazes de lhe dar sustentação para posterior encaminhamento à CEI.",
               "A qualquer pessoa que esteja sendo denunciada é assegurado o direito de saber o que lhe está sendo imputado, de conhecer o teor da acusação e de ter vista dos autos, no recinto da CEI, desde que ainda não tenha sido notificada da existência do procedimento investigatório.",
-              "O investigado poderá arrolar testemunhas de defesa &#x2013; as quais podem ser substituídas até dois dias antes da audiência de inquirição. O pedido de inquirição deverá ser justificado, mediante demonstração de que elas têm conhecimento do fato objeto da investigação ou de suas circunst&acirc;ncias.",
+              "O investigado poderá arrolar testemunhas de defesa – as quais podem ser substituídas até dois dias antes da audiência de inquirição. O pedido de inquirição deverá ser justificado, mediante demonstração de que elas têm conhecimento do fato objeto da investigação ou de suas circunstâncias.",
               "A representação ou denúncia poderá ser formalizada por qualquer ato que revele o desejo de representar ou denunciar, devendo conter, dentre outros requisitos, a qualificação do representante ou denunciante, descrição do fato apontado como contrário à ética no serviço público e a indicação da autoria."
             ],
             "correctIndex": 3
@@ -37317,7 +37317,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3532971-573",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Tomando por base as lições do Decreto Estadual n.&ordm; 44.504 de 05 de dezembro de 2023 (Código de &Eacute;tica e Conduta dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba), no exercício do cargo de direção, o servidor e empregado público civil do Poder Executivo do Estado da Paraíba deverá:",
+            "question": "Tomando por base as lições do Decreto Estadual n.º 44.504 de 05 de dezembro de 2023 (Código de Ética e Conduta dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba), no exercício do cargo de direção, o servidor e empregado público civil do Poder Executivo do Estado da Paraíba deverá:",
             "options": [
               "Guardar sigilo das informações relativas a ato ou fato relevante às quais tenham acesso privilegiado em razão do cargo ou posição que ocupam até sua efetiva divulgação; dentre outras.",
               "Conceder recompensa, vantagem ou benefício, divulgação habitual ou por ocasião de eventos especiais e datas comemorativas, direcionados com caráter de pessoalidade a determinados servidores públicos; dentre outras.",
@@ -37331,7 +37331,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3532973-574",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Informa o Código de &Eacute;tica e Conduta dos Servidores e Empregados Públicos Civis do Poder Executivo do estado da Paraíba (Decreto Estadual n&ordm; 44.504 de 05 de dezembro de 2023) que o servidor ou empregado público não deve, direta ou indiretamente, solicitar, insinuar, aceitar ou receber bens, benefícios ou quaisquer vantagens materiais ou imateriais, para si ou para outrem, em razão do exercício de suas atribuições, cargo, função ou emprego público, fora dos limites e condições estabelecidos em regulamento, dentre os quais podemos destacar, corretamente , o que se afirma apenas em:",
+            "question": "Informa o Código de Ética e Conduta dos Servidores e Empregados Públicos Civis do Poder Executivo do estado da Paraíba (Decreto Estadual nº 44.504 de 05 de dezembro de 2023) que o servidor ou empregado público não deve, direta ou indiretamente, solicitar, insinuar, aceitar ou receber bens, benefícios ou quaisquer vantagens materiais ou imateriais, para si ou para outrem, em razão do exercício de suas atribuições, cargo, função ou emprego público, fora dos limites e condições estabelecidos em regulamento, dentre os quais podemos destacar, corretamente , o que se afirma apenas em:",
             "options": [
               "As condecorações, honrarias e reconhecimentos protocolares recebidos de governos, organismos nacionais e internacionais ou entidades sem fins lucrativos, nas condições em que a lei e o costume oficial admitam esses benefícios serão tratadas como bens e vantagens de natureza indevida se o valor da honraria ultrapassar o valor de um salário mínimo vigente ao tempo da homenagem.",
               "Os critérios e limites para recebimento de brindes e presentes serão os mesmos constantes do Código de Conduta da Alta Administração Federal (CCAAF).",
@@ -37345,7 +37345,7 @@ export const SUBJECTS: Subject[] = [
             "id": "3532976-575",
             "chapter": "outros-codigos-de-etica-e-conduta-de-instituicoes-publicas",
             "topic": "Outros Códigos de Ética e Conduta de Instituições Públicas",
-            "question": "Vaticina o Decreto Estadual n.&ordm; 44.504 de 05 de dezembro de 2023 (Código de &Eacute;tica e Conduta dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba) que a conduta de praticar ato em benefício de interesse de pessoa jurídica de que participe o agente público, seu cônjuge, companheiro ou parentes, consanguíneos ou afins, em linha reta ou colateral, até o terceiro grau, e que possa ser por ele beneficiada ou influir em seus atos de gestão, dentre outras, configurará apenas o contido em:",
+            "question": "Vaticina o Decreto Estadual n.º 44.504 de 05 de dezembro de 2023 (Código de Ética e Conduta dos Servidores e Empregados Públicos Civis do Poder Executivo do Estado da Paraíba) que a conduta de praticar ato em benefício de interesse de pessoa jurídica de que participe o agente público, seu cônjuge, companheiro ou parentes, consanguíneos ou afins, em linha reta ou colateral, até o terceiro grau, e que possa ser por ele beneficiada ou influir em seus atos de gestão, dentre outras, configurará apenas o contido em:",
             "options": [
               "Conflito de interesses e conduta antiética.",
               "Conduta a ser observada pelo servidor e empregado público civil do Poder Executivo do Estado da Paraíba.",
@@ -37383,11 +37383,11 @@ export const SUBJECTS: Subject[] = [
             "topic": "Ética no Setor Público e Função Pública",
             "question": "Sobre a ética na Administração Pública brasileira, considerando os preceitos constitucionais e infraconstitucionais, marque a alternativa correta .",
             "options": [
-              "O Código de Ética do Servidor Público Federal (Decreto n&ordm; 1.171/1994) determina que o servidor deve atuar com zelo e transparência, e prevê a possibilidade de aplicação de censura ética em casos de violação de seus preceitos.",
+              "O Código de Ética do Servidor Público Federal (Decreto nº 1.171/1994) determina que o servidor deve atuar com zelo e transparência, e prevê a possibilidade de aplicação de censura ética em casos de violação de seus preceitos.",
               "O agente público pode utilizar informações privilegiadas obtidas em razão do cargo para beneficiar terceiros, desde que não haja prejuízo financeiro direto à Administração.",
               "O princípio da moralidade administrativa exige apenas a conformidade com a lei, não abrangendo aspectos subjetivos como a integridade e a boa-fé nas decisões públicas.",
               "O sigilo em processos administrativos é a regra geral, sendo a publicidade uma exceção aplicável apenas em casos que envolvam interesse da coletividade.",
-              "A violação aos deveres éticos no &acirc;mbito da Administração Pública configura infração meramente disciplinar, sem repercussões civis ou políticas."
+              "A violação aos deveres éticos no âmbito da Administração Pública configura infração meramente disciplinar, sem repercussões civis ou políticas."
             ],
             "correctIndex": 0
           },
@@ -37423,12 +37423,12 @@ export const SUBJECTS: Subject[] = [
             "id": "3614242-526",
             "chapter": "etica-no-setor-publico-e-funcao-publica",
             "topic": "Ética no Setor Público e Função Pública",
-            "question": "Um servidor público, responsável pelo gerenciamento de contratos em um órgão estadual, recebe a visita de um representante de uma empresa contratada, que lhe oferece vantagens indiretas, como o custeio de uma viagem para participação em um congresso internacional. O servidor recusa a oferta, mas não comunica o fato à sua chefia nem às inst&acirc;ncias de controle interno. Algum tempo depois, essa mesma empresa vence uma nova licitação, e a situação chega ao conhecimento da Comissão de &Eacute;tica do órgão, que inicia uma apuração. Considerando os princípios que regem a ética na Administração Pública, a conduta do servidor:",
+            "question": "Um servidor público, responsável pelo gerenciamento de contratos em um órgão estadual, recebe a visita de um representante de uma empresa contratada, que lhe oferece vantagens indiretas, como o custeio de uma viagem para participação em um congresso internacional. O servidor recusa a oferta, mas não comunica o fato à sua chefia nem às instâncias de controle interno. Algum tempo depois, essa mesma empresa vence uma nova licitação, e a situação chega ao conhecimento da Comissão de Ética do órgão, que inicia uma apuração. Considerando os princípios que regem a ética na Administração Pública, a conduta do servidor:",
             "options": [
               "foi adequada, pois a recusa da vantagem indevida demonstra compromisso com a moralidade e a legalidade, não havendo necessidade de reporte formal.",
               "foi parcialmente correta, pois, embora tenha agido eticamente ao não aceitar a vantagem, deveria ter alertado a empresa sobre a necessidade de conduta íntegra.",
               "não apresenta qualquer irregularidade, pois a legislação de ética pública não exige que o servidor denuncie tentativas de oferecimento de benefícios indevidos.",
-              "foi inadequada, pois, mesmo recusando a oferta, o servidor deveria ter comunicado o fato às inst&acirc;ncias competentes para garantir a transparência e evitar suspeitas de conivência.",
+              "foi inadequada, pois, mesmo recusando a oferta, o servidor deveria ter comunicado o fato às instâncias competentes para garantir a transparência e evitar suspeitas de conivência.",
               "demonstra um conflito de interesses, pois, ao não relatar o ocorrido, o servidor comprometeu a credibilidade do órgão, devendo ser afastado imediatamente."
             ],
             "correctIndex": 3
